@@ -1,0 +1,82 @@
+[
+    {
+        "entity_entpath": "base\\open_world\\street_stories\\santo_domingo\\arroyo\\sts_std_arr_12\\character\\sts_std_arr_12_zetatech_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_std_arr_12_security_chase_wa",
+        "entity_name": "Sts_std_arr_12_security_chase_wa",
+        "entity_entname": "sts_std_arr_12_zetatech_wa.ent",
+        "entity_id": 3119931764
+    },
+    {
+        "entity_entpath": "base\\open_world\\street_stories\\santo_domingo\\arroyo\\sts_std_arr_12\\character\\sts_std_arr_12_zetatech.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_12_security_chase_ma",
+        "entity_name": "Sts_std_arr_12_security_chase_ma",
+        "entity_entname": "sts_std_arr_12_zetatech.ent",
+        "entity_id": 165387183
+    },
+    {
+        "entity_entpath": "base\\open_world\\street_stories\\santo_domingo\\arroyo\\sts_std_arr_12\\character\\sts_std_arr_12_zetatech_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_std_arr_12_security_guard1_ranged1_nue_wa",
+        "entity_name": "Sts_std_arr_12_security_guard1_ranged1_nue_wa",
+        "entity_entname": "sts_std_arr_12_zetatech_wa.ent",
+        "entity_id": 1322255033
+    },
+    {
+        "entity_entpath": "base\\open_world\\street_stories\\santo_domingo\\arroyo\\sts_std_arr_12\\character\\sts_std_arr_12_zetatech.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_12_security_guard1_ranged1_nue_ma",
+        "entity_name": "Sts_std_arr_12_security_guard1_ranged1_nue_ma",
+        "entity_entname": "sts_std_arr_12_zetatech.ent",
+        "entity_id": 4278057058
+    },
+    {
+        "entity_entpath": "ep1\\quest\\main_quests\\q307\\characters\\q307_ent_zetatech_clerk.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q307_zetatech_clerk",
+        "entity_name": "Q307_zetatech_clerk",
+        "entity_entname": "q307_ent_zetatech_clerk.ent",
+        "entity_id": 1960872583
+    },
+    {
+        "entity_entpath": "base\\open_world\\street_stories\\santo_domingo\\arroyo\\sts_std_arr_12\\character\\sts_std_arr_12_zetatech_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_std_arr_12_security_security2_ranged2_saratoga_wa",
+        "entity_name": "Sts_std_arr_12_security_security2_ranged2_saratoga_wa",
+        "entity_entname": "sts_std_arr_12_zetatech_wa.ent",
+        "entity_id": 2240700341
+    },
+    {
+        "entity_entpath": "base\\open_world\\street_stories\\santo_domingo\\arroyo\\sts_std_arr_12\\character\\sts_std_arr_12_zetatech_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_std_arr_12_security_security2_ranged2_ajax_wa",
+        "entity_name": "Sts_std_arr_12_security_security2_ranged2_ajax_wa",
+        "entity_entname": "sts_std_arr_12_zetatech_wa.ent",
+        "entity_id": 3840966173
+    },
+    {
+        "entity_entpath": "base\\open_world\\street_stories\\santo_domingo\\arroyo\\sts_std_arr_12\\character\\sts_std_arr_12_zetatech.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_12_security_security2_ranged2_ajax_ma",
+        "entity_name": "Sts_std_arr_12_security_security2_ranged2_ajax_ma",
+        "entity_entname": "sts_std_arr_12_zetatech.ent",
+        "entity_id": 1423803590
+    },
+    {
+        "entity_entpath": "base\\open_world\\street_stories\\santo_domingo\\arroyo\\sts_std_arr_12\\character\\sts_std_arr_12_zetatech.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_12_security_guard1_ranged1_saratoga_ma",
+        "entity_name": "Sts_std_arr_12_security_guard1_ranged1_saratoga_ma",
+        "entity_entname": "sts_std_arr_12_zetatech.ent",
+        "entity_id": 2938284446
+    },
+    {
+        "entity_entpath": "ep1\\quest\\main_quests\\q307\\characters\\q307_ent_zetatech_guard.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q307_zetatech_guard",
+        "entity_name": "Q307_zetatech_guard",
+        "entity_entname": "q307_ent_zetatech_guard.ent",
+        "entity_id": 1002930463
+    }
+]

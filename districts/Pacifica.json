@@ -1,0 +1,50 @@
+[
+    {
+        "py/object": "__main__.Point",
+        "x": -1770.8709716797,
+        "y": -1947.1254882813,
+        "z": 57.199996948242,
+        "markerref": "#pac_cvi_dataterm_03",
+        "name": "Chapel"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1861.6560058594,
+        "y": -1936.7219238281,
+        "z": 48.51443862915,
+        "markerref": "#pac_cvi_dataterm_05",
+        "name": "Batty's Hotel"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -2187.5061035156,
+        "y": -2205.9919433594,
+        "z": 11.873382568359,
+        "markerref": "#pac_cvi_dataterm_01",
+        "name": "Grand Imperial Mall"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1542.1234130859,
+        "y": -1939.2069091797,
+        "z": 62.850002288818,
+        "markerref": "#pac_cvi_metro_ftp_01",
+        "name": "Metro: Stadium"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1306.2548828125,
+        "y": -1670.8786621094,
+        "z": 44.046737670898,
+        "markerref": "#pac_cvi_dataterm_04",
+        "name": "Stadium Parking"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1879.2314453125,
+        "y": -1626.7962646484,
+        "z": 18.033037185669,
+        "markerref": "#pac_cvi_dataterm_02",
+        "name": "Pacifica Pier"
+    }
+]

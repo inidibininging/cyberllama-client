@@ -1,0 +1,322 @@
+[
+    {
+        "entity_entpath": "ep1\\quest\\main_quests\\q304\\characters\\q304_max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q304_max_tac_ma",
+        "entity_name": "Q304_max_tac_ma",
+        "entity_entname": "q304_max_tac_ma.ent",
+        "entity_id": 2609091107
+    },
+    {
+        "entity_entpath": "ep1\\quest\\main_quests\\q304\\characters\\q304_max_tac_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q304_max_tac_mb",
+        "entity_name": "Q304_max_tac_mb",
+        "entity_entname": "q304_max_tac_mb.ent",
+        "entity_id": 42648473
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maxtac_av_sniper_wa_elite_2nd_wave",
+        "entity_name": "Maxtac_av_sniper_wa_elite_2nd_wave",
+        "entity_entname": "corpo__ep1_max_tac_wa.ent",
+        "entity_id": 2889759283
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maxtac_melee_ma_elite",
+        "entity_name": "Maxtac_melee_ma_elite",
+        "entity_entname": "corpo__ep1_max_tac_ma.ent",
+        "entity_id": 4122902819
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.maxtac_gunner_mb_elite",
+        "entity_name": "Maxtac_gunner_mb_elite",
+        "entity_entname": "corpo__ep1_max_tac_mb.ent",
+        "entity_id": 2706174404
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maxtac_shotgun_ma_elite",
+        "entity_name": "Maxtac_shotgun_ma_elite",
+        "entity_entname": "corpo__ep1_max_tac_ma.ent",
+        "entity_id": 1373465988
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maxtac_av_riffle_ma",
+        "entity_name": "Maxtac_av_riffle_ma",
+        "entity_entname": "corpo__max_tac_ma.ent",
+        "entity_id": 195857828
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maxtac_rifle_ma_elite",
+        "entity_name": "Maxtac_rifle_ma_elite",
+        "entity_entname": "corpo__ep1_max_tac_ma.ent",
+        "entity_id": 3461899942
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.prevention_maxtac_rifle_wa",
+        "entity_name": "Prevention_maxtac_rifle_wa",
+        "entity_entname": "corpo__ep1_max_tac_wa.ent",
+        "entity_id": 2353409692
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.prevention_maxtac_rifle_ma",
+        "entity_name": "Prevention_maxtac_rifle_ma",
+        "entity_entname": "corpo__max_tac_ma.ent",
+        "entity_id": 1013699655
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q305_maxtac_sniper",
+        "entity_name": "Q305_maxtac_sniper",
+        "entity_entname": "corpo__ep1_max_tac_wa.ent",
+        "entity_id": 930187080
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q305_maxtac_shotgun",
+        "entity_name": "Q305_maxtac_shotgun",
+        "entity_entname": "corpo__ep1_max_tac_ma.ent",
+        "entity_id": 2592528564
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q305_maxtac_rifle_wa",
+        "entity_name": "Q305_maxtac_rifle_wa",
+        "entity_entname": "corpo__ep1_max_tac_wa.ent",
+        "entity_id": 1034971914
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q305_maxtac_rifle_ma",
+        "entity_name": "Q305_maxtac_rifle_ma",
+        "entity_entname": "corpo__ep1_max_tac_ma.ent",
+        "entity_id": 2375913937
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q305_maxtac_miniboss_sniper_ma",
+        "entity_name": "Q305_maxtac_miniboss_sniper_ma",
+        "entity_entname": "corpo__max_tac_ma.ent",
+        "entity_id": 1979843829
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q305_maxtac_miniboss_netrunner_ma",
+        "entity_name": "Q305_maxtac_miniboss_netrunner_ma",
+        "entity_entname": "corpo__max_tac_ma.ent",
+        "entity_id": 1730480255
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__max_tac_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q305_maxtac_miniboss_fshotgun_mb",
+        "entity_name": "Q305_maxtac_miniboss_fshotgun_mb",
+        "entity_entname": "corpo__max_tac_mb.ent",
+        "entity_id": 3322061076
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q305_maxtac_miniboss_frifle_wa",
+        "entity_name": "Q305_maxtac_miniboss_frifle_wa",
+        "entity_entname": "corpo__ep1_max_tac_wa.ent",
+        "entity_id": 507326885
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q305_maxtac_melee",
+        "entity_name": "Q305_maxtac_melee",
+        "entity_entname": "corpo__ep1_max_tac_ma.ent",
+        "entity_id": 2675524258
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q305_maxtac_heavy",
+        "entity_name": "Q305_maxtac_heavy",
+        "entity_entname": "corpo__ep1_max_tac_mb.ent",
+        "entity_id": 716129116
+    },
+    {
+        "entity_entpath": "ep1\\quest\\main_quests\\q305\\characters\\q305_max_tac_dead.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q305_max_tac_dead_apc_ma",
+        "entity_name": "Q305_max_tac_dead_apc_ma",
+        "entity_entname": "q305_max_tac_dead.ent",
+        "entity_id": 1194916166
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maxtac_sniper_wa_elite",
+        "entity_name": "Maxtac_sniper_wa_elite",
+        "entity_entname": "corpo__ep1_max_tac_wa.ent",
+        "entity_id": 34669485
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maxtac_rifle_wa_elite",
+        "entity_name": "Maxtac_rifle_wa_elite",
+        "entity_entname": "corpo__ep1_max_tac_wa.ent",
+        "entity_id": 589515589
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maxtac_av_netrunner_ma",
+        "entity_name": "Maxtac_av_netrunner_ma",
+        "entity_entname": "corpo__max_tac_ma.ent",
+        "entity_id": 4027408793
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq030_max_tac_no_combat",
+        "entity_name": "Mq030_max_tac_no_combat",
+        "entity_entname": "corpo__ep1_max_tac_ma.ent",
+        "entity_id": 89426497
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.mq030_max_tac_3",
+        "entity_name": "Mq030_max_tac_3",
+        "entity_entname": "corpo__ep1_max_tac_mb.ent",
+        "entity_id": 1152241015
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq030_max_tac_2",
+        "entity_name": "Mq030_max_tac_2",
+        "entity_entname": "corpo__ep1_max_tac_ma.ent",
+        "entity_id": 866844129
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maxtac_av_netrunner_ma_2nd_wave",
+        "entity_name": "Maxtac_av_netrunner_ma_2nd_wave",
+        "entity_entname": "corpo__max_tac_ma.ent",
+        "entity_id": 2346169067
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq030_max_tac_1",
+        "entity_name": "Mq030_max_tac_1",
+        "entity_entname": "corpo__ep1_max_tac_ma.ent",
+        "entity_id": 2862853211
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq030_max_tac_4",
+        "entity_name": "Mq030_max_tac_4",
+        "entity_entname": "corpo__ep1_max_tac_ma.ent",
+        "entity_id": 3670628564
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maxtac_av_mantis_wa_2nd_wave",
+        "entity_name": "Maxtac_av_mantis_wa_2nd_wave",
+        "entity_entname": "corpo__ep1_max_tac_wa.ent",
+        "entity_id": 1669077274
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__max_tac_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.maxtac_av_LMG_mb_2nd_wave",
+        "entity_name": "Maxtac_av_LMG_mb_2nd_wave",
+        "entity_entname": "corpo__max_tac_mb.ent",
+        "entity_id": 3906940255
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maxtac_av_riffle_ma_2nd_wave",
+        "entity_name": "Maxtac_av_riffle_ma_2nd_wave",
+        "entity_entname": "corpo__max_tac_ma.ent",
+        "entity_id": 509580352
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maxtac_av_sniper_wa_elite",
+        "entity_name": "Maxtac_av_sniper_wa_elite",
+        "entity_entname": "corpo__ep1_max_tac_wa.ent",
+        "entity_id": 3598809596
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__max_tac_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q001_maxtac_fem",
+        "entity_name": "Q001_maxtac_fem",
+        "entity_entname": "corpo__max_tac_wa.ent",
+        "entity_id": 3406312163
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__max_tac_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.prevention_av_maxtac_rifle_ma",
+        "entity_name": "Prevention_av_maxtac_rifle_ma",
+        "entity_entname": "corpo__max_tac_ma.ent",
+        "entity_id": 1818608631
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.prevention_av_maxtac_rifle_wa",
+        "entity_name": "Prevention_av_maxtac_rifle_wa",
+        "entity_entname": "corpo__ep1_max_tac_wa.ent",
+        "entity_id": 3695720748
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__max_tac_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q001_maxtac_mb",
+        "entity_name": "Q001_maxtac_mb",
+        "entity_entname": "corpo__max_tac_mb.ent",
+        "entity_id": 461067155
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__max_tac_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.maxtac_av_LMG_mb",
+        "entity_name": "Maxtac_av_LMG_mb",
+        "entity_entname": "corpo__max_tac_mb.ent",
+        "entity_id": 1387644713
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_max_tac_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maxtac_av_mantis_wa",
+        "entity_name": "Maxtac_av_mantis_wa",
+        "entity_entname": "corpo__ep1_max_tac_wa.ent",
+        "entity_id": 3682503598
+    }
+]

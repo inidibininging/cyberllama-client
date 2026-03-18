@@ -1,0 +1,1210 @@
+[
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_03_wraiths_operator3_shotgun2_crusher_ma_rare",
+        "entity_name": "Ina_03_wraiths_operator3_shotgun2_crusher_ma_rare",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2096496349
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_grunt1_melee1_tireiron_ma",
+        "entity_name": "Bls_se_wraiths_grunt1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 32052249
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_wraiths_melee1_tireiron_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_wraiths_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 824495877
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_wraiths_melee2_crowbar_wa",
+        "entity_name": "Sa_ep1_courier_loop_enemies_wraiths_melee2_crowbar_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 1343969484
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_wraiths_ranged1_nova_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_wraiths_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2540479191
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_wraiths_ranged1_pulsar_wa",
+        "entity_name": "Sa_ep1_courier_loop_enemies_wraiths_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 3521443796
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_wraiths_ranged3_quasar_wa_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_wraiths_ranged3_quasar_wa_rare",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 27219706
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_wraiths_shotgun2_crusher_ma_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_wraiths_shotgun2_crusher_ma_rare",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2031096279
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_08_wraith_sniper_ma",
+        "entity_name": "Sts_bls_ina_08_wraith_sniper_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3363683015
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_08_wraith_shotgun_ma",
+        "entity_name": "Sts_bls_ina_08_wraith_shotgun_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2422234329
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_08_wraith_nova_wa",
+        "entity_name": "Sts_bls_ina_08_wraith_nova_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 3594713542
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_08_wraith_melee_med_w",
+        "entity_name": "Sts_bls_ina_08_wraith_melee_med_w",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 3298041261
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_08_wraith_melee_med_w_drugged",
+        "entity_name": "Sts_bls_ina_08_wraith_melee_med_w_drugged",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 4112164897
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_08_wraith_melee_med_m",
+        "entity_name": "Sts_bls_ina_08_wraith_melee_med_m",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 972481751
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_08_wraith_melee_grunt_hard_m",
+        "entity_name": "Sts_bls_ina_08_wraith_melee_grunt_hard_m",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3724712344
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_08_wraith_med_med_w",
+        "entity_name": "Sts_bls_ina_08_wraith_med_med_w",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 2853971687
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_08_wraith_med_med_m",
+        "entity_name": "Sts_bls_ina_08_wraith_med_med_m",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1467932573
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_02_wraiths_ghost2_sniper2_achilles_ma_rare",
+        "entity_name": "Ina_02_wraiths_ghost2_sniper2_achilles_ma_rare",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3160440156
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q103_wraiths_sniper",
+        "entity_name": "Q103_wraiths_sniper",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3521574736
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q103_wraiths_smg_ma",
+        "entity_name": "Q103_wraiths_smg_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 166670520
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q103_wraiths_shotgun_tech_ma",
+        "entity_name": "Q103_wraiths_shotgun_tech_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3435739093
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q103_wraiths_rifle_ma",
+        "entity_name": "Q103_wraiths_rifle_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1602461219
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q103_wraiths_netrunner",
+        "entity_name": "Q103_wraiths_netrunner",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 1420440652
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q103_wraiths_handgun",
+        "entity_name": "Q103_wraiths_handgun",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2795712577
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q103_raffen_shiv_sniper_male",
+        "entity_name": "Q103_raffen_shiv_sniper_male",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2003009131
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ina_02_med_range_med",
+        "entity_name": "Ina_02_med_range_med",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 285578439
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.HandcuffedGoon_Wraith_f",
+        "entity_name": "HandcuffedGoon_Wraith_f",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 2216977909
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.HandcuffedGoon_Wraith_m",
+        "entity_name": "HandcuffedGoon_Wraith_m",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 334937213
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_warrior3_shotgun3_satara_ma_elite",
+        "entity_name": "Bls_se_wraiths_warrior3_shotgun3_satara_ma_elite",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 44619268
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_02_med_range_hard",
+        "entity_name": "Ina_02_med_range_hard",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2978215282
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_06_wraiths_operator3_shotgun2_crusher_ma_rare",
+        "entity_name": "Ina_06_wraiths_operator3_shotgun2_crusher_ma_rare",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 4269614903
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_wraiths_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Nid_wraiths_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2670890269
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_03_wraiths_ghost2_sniper2_achilles_ma_rare",
+        "entity_name": "Ina_03_wraiths_ghost2_sniper2_achilles_ma_rare",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1417145853
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_grunt1_melee1_ironpipe_wa",
+        "entity_name": "Bls_se_wraiths_grunt1_melee1_ironpipe_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 2783643766
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.bls_se_wraiths_strong_gunner3_hmg_mb_elite",
+        "entity_name": "Bls_se_wraiths_strong_gunner3_hmg_mb_elite",
+        "entity_entname": "gang__ep1_wraith_mb.ent",
+        "entity_id": 1882385588
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q103_raffen_shiv_hmg_male",
+        "entity_name": "Q103_raffen_shiv_hmg_male",
+        "entity_entname": "gang__ep1_wraith_mb.ent",
+        "entity_id": 778123820
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gym_drones_background_combat_target_1",
+        "entity_name": "Gym_drones_background_combat_target_1",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3145039017
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gym_drones_background_combat_target_2",
+        "entity_name": "Gym_drones_background_combat_target_2",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 578563347
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q103_raffen_shiv_shotgun_male",
+        "entity_name": "Q103_raffen_shiv_shotgun_male",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2365840195
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q103_raffen_shiv_rifle_woman",
+        "entity_name": "Q103_raffen_shiv_rifle_woman",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 1802548576
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_operator3_shotgun2_crusher_ma_rare",
+        "entity_name": "Bls_se_wraiths_operator3_shotgun2_crusher_ma_rare",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2122732508
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_wraiths_warrior3_shotgun3_palica_ma_elite",
+        "entity_name": "Wwd_wraiths_warrior3_shotgun3_palica_ma_elite",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 4131962600
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_wraiths_warrior3_ranged3_quasar_wa_rare",
+        "entity_name": "Wwd_wraiths_warrior3_ranged3_quasar_wa_rare",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 31998947
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_wraiths_grunt2_ranged2_pulsar_ma",
+        "entity_name": "Wwd_wraiths_grunt2_ranged2_pulsar_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 4106149456
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_wraiths_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Wwd_wraiths_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 1491443882
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_wraiths_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Wwd_wraiths_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3905444465
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_wraiths_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Wwd_wraiths_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3456777976
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wraiths_warrior3_shotgun3_satara_ma_elite",
+        "entity_name": "Wraiths_warrior3_shotgun3_satara_ma_elite",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 586235051
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wraiths_warrior3_shotgun3_palica_ma_elite",
+        "entity_name": "Wraiths_warrior3_shotgun3_palica_ma_elite",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3036434064
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wraiths_warrior3_ranged3_quasar_wa_rare",
+        "entity_name": "Wraiths_warrior3_ranged3_quasar_wa_rare",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 3746133414
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wraiths_warrior3_melee3_hammer_wa_rare",
+        "entity_name": "Wraiths_warrior3_melee3_hammer_wa_rare",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 313742818
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wraiths_strongarms_hmelee3_fists_mb_elite",
+        "entity_name": "Wraiths_strongarms_hmelee3_fists_mb_elite",
+        "entity_entname": "gang__ep1_wraith_mb.ent",
+        "entity_id": 2171248910
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wraiths_strong_gunner3_hmg_mb_elite",
+        "entity_name": "Wraiths_strong_gunner3_hmg_mb_elite",
+        "entity_entname": "gang__ep1_wraith_mb.ent",
+        "entity_id": 2244734794
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wraiths_prisoner_fmelee3_fists_ma_elite",
+        "entity_name": "Wraiths_prisoner_fmelee3_fists_ma_elite",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2989080082
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wraiths_operator3_shotgun2_crusher_ma_rare",
+        "entity_name": "Wraiths_operator3_shotgun2_crusher_ma_rare",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 953136207
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wraiths_grunt2_ranged2_pulsar_wa",
+        "entity_name": "Wraiths_grunt2_ranged2_pulsar_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 2902755998
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wraiths_grunt2_ranged2_pulsar_ma",
+        "entity_name": "Wraiths_grunt2_ranged2_pulsar_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 489254981
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wraiths_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Wraiths_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 185741676
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wraiths_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Wraiths_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3141520311
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wraiths_grunt2_melee2_crowbar_wa",
+        "entity_name": "Wraiths_grunt2_melee2_crowbar_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 3038331783
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wraiths_grunt2_melee2_crowbar_ma",
+        "entity_name": "Wraiths_grunt2_melee2_crowbar_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 87341404
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wraiths_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Wraiths_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 2544921142
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wraiths_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Wraiths_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 664637677
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wraiths_grunt1_ranged1_nova_wa",
+        "entity_name": "Wraiths_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 3696173161
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wraiths_grunt1_ranged1_nova_ma",
+        "entity_name": "Wraiths_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1818417842
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wraiths_grunt1_melee1_tireiron_wa",
+        "entity_name": "Wraiths_grunt1_melee1_tireiron_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 3477856791
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wraiths_grunt1_melee1_tireiron_ma",
+        "entity_name": "Wraiths_grunt1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2137397452
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wraiths_grunt1_melee1_ironpipe_wa",
+        "entity_name": "Wraiths_grunt1_melee1_ironpipe_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 3680765091
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wraiths_grunt1_melee1_ironpipe_ma",
+        "entity_name": "Wraiths_grunt1_melee1_ironpipe_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1800011384
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wraiths_ghost2_sniper2_achilles_ma_rare",
+        "entity_name": "Wraiths_ghost2_sniper2_achilles_ma_rare",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1955340785
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wraiths_base_wa",
+        "entity_name": "Wraiths_base_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 887034224
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wraiths_base_mb",
+        "entity_name": "Wraiths_base_mb",
+        "entity_entname": "gang__ep1_wraith_mb.ent",
+        "entity_id": 503036433
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wraiths_base_ma",
+        "entity_name": "Wraiths_base_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2230512555
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.WraithMale_ow_city_scenes",
+        "entity_name": "WraithMale_ow_city_scenes",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1495681660
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.WraithFemale_ow_city_scenes",
+        "entity_name": "WraithFemale_ow_city_scenes",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 3545855061
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq027_raffen_shiv_raider_w",
+        "entity_name": "Sq027_raffen_shiv_raider_w",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 3902880101
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq027_raffen_shiv_raider_m",
+        "entity_name": "Sq027_raffen_shiv_raider_m",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 365150239
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq024_badlands_race_raffen_shiv_racer",
+        "entity_name": "Sq024_badlands_race_raffen_shiv_racer",
+        "entity_entname": "gang__ep1_wraith_mb.ent",
+        "entity_id": 2932091462
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_03_med_range_hard",
+        "entity_name": "Ina_03_med_range_hard",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 535520483
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_06_gangers_melee_elite",
+        "entity_name": "Ina_06_gangers_melee_elite",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3676818151
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q103_raffen_shiv_rifle_male",
+        "entity_name": "Q103_raffen_shiv_rifle_male",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1069714353
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_wraiths_melee1_tireiron_ma",
+        "entity_name": "Gang_retaliation_enemies_wraiths_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 387527356
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_wraiths_ranged1_nova_ma_ina_02",
+        "entity_name": "Gang_retaliation_enemies_wraiths_ranged1_nova_ma_ina_02",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2441457065
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_wraiths_ranged1_pulsar_wa_ina_03",
+        "entity_name": "Gang_retaliation_enemies_wraiths_ranged1_pulsar_wa_ina_03",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 1654850299
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_wraiths_ranged1_pulsar_wa",
+        "entity_name": "Gang_retaliation_enemies_wraiths_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 891937508
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ina_06_gangers_officer",
+        "entity_name": "Ina_06_gangers_officer",
+        "entity_entname": "gang__ep1_wraith_mb.ent",
+        "entity_id": 1324351112
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Bls_se_wraiths_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 1373771636
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_grunt2_ranged2_pulsar_wa",
+        "entity_name": "Bls_se_wraiths_grunt2_ranged2_pulsar_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 2473910931
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq021_wraith_smg",
+        "entity_name": "Sq021_wraith_smg",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3764596784
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq021_wraith_rifle",
+        "entity_name": "Sq021_wraith_rifle",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 4279669103
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq021_wraith_melee_pipe",
+        "entity_name": "Sq021_wraith_melee_pipe",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3815188370
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq021_wraith_handgun",
+        "entity_name": "Sq021_wraith_handgun",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 88804882
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq021_wraith_handgun_officer",
+        "entity_name": "Sq021_wraith_handgun_officer",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 904205939
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq004_raffen_shiv_ganger",
+        "entity_name": "Sq004_raffen_shiv_ganger",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 1667529433
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq004_raffen_shiv_ganger_sniper",
+        "entity_name": "Sq004_raffen_shiv_ganger_sniper",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2262322713
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq004_raffen_shiv_ganger_shotgunner",
+        "entity_name": "Sq004_raffen_shiv_ganger_shotgunner",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3129527852
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq004_raffen_shiv_ganger_gamma",
+        "entity_name": "Sq004_raffen_shiv_ganger_gamma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 922590281
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq004_raffen_shiv_ganger_delta",
+        "entity_name": "Sq004_raffen_shiv_ganger_delta",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1694348001
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq004_raffen_shiv_ganger_chase",
+        "entity_name": "Sq004_raffen_shiv_ganger_chase",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 1682143137
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq004_raffen_shiv_ganger_beta",
+        "entity_name": "Sq004_raffen_shiv_ganger_beta",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1407021616
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq004_raffen_shiv_ganger_beta_female",
+        "entity_name": "Sq004_raffen_shiv_ganger_beta_female",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 4111695827
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq004_raffen_shiv_ganger_alpha",
+        "entity_name": "Sq004_raffen_shiv_ganger_alpha",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 576615762
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq004_raffen_shiv_ganger_alpha_female",
+        "entity_name": "Sq004_raffen_shiv_ganger_alpha_female",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 3522830108
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sniper_dude",
+        "entity_name": "Sniper_dude",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1285829460
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ina_06_gangers_wraiths_strong_gunner3_hmg_mb_elite",
+        "entity_name": "Ina_06_gangers_wraiths_strong_gunner3_hmg_mb_elite",
+        "entity_entname": "gang__ep1_wraith_mb.ent",
+        "entity_id": 1018680546
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_02_officer",
+        "entity_name": "Ina_02_officer",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3425028732
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_02_melee_med",
+        "entity_name": "Ina_02_melee_med",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2681225301
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_02_melee_hard",
+        "entity_name": "Ina_02_melee_hard",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2936853198
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_wraiths_ranged1_nova_ma_ina_03",
+        "entity_name": "Gang_retaliation_enemies_wraiths_ranged1_nova_ma_ina_03",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3867319615
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_03_wraiths_warrior3_shotgun3_palica_ma_elite",
+        "entity_name": "Ina_03_wraiths_warrior3_shotgun3_palica_ma_elite",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2325458940
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_wraiths_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Nid_wraiths_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 790591430
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_wraiths_warrior3_shotgun3_palica_ma_elite",
+        "entity_name": "Rcr_wraiths_warrior3_shotgun3_palica_ma_elite",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 849680977
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.rcr_wraiths_strong_gunner3_hmg_mb_elite",
+        "entity_name": "Rcr_wraiths_strong_gunner3_hmg_mb_elite",
+        "entity_entname": "gang__ep1_wraith_mb.ent",
+        "entity_id": 1458116271
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_wraiths_grunt2_ranged2_pulsar_ma",
+        "entity_name": "Rcr_wraiths_grunt2_ranged2_pulsar_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1615182508
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_wraiths_grunt1_ranged1_nova_ma",
+        "entity_name": "Rcr_wraiths_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1399562722
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_ghost2_sniper2_achilles_ma_rare",
+        "entity_name": "Bls_se_wraiths_ghost2_sniper2_achilles_ma_rare",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 416981595
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ina_03_med_range_med",
+        "entity_name": "Ina_03_med_range_med",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 2835238703
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_wraiths_ranged1_pulsar_wa_ina_02",
+        "entity_name": "Gang_retaliation_enemies_wraiths_ranged1_pulsar_wa_ina_02",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 363082349
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_warrior3_ranged3_quasar_wa_rare_ina_03",
+        "entity_name": "Gang_retaliation_enemies_warrior3_ranged3_quasar_wa_rare_ina_03",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 1107612187
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.mq056_badlands_race_raffen_shiv_racer",
+        "entity_name": "Mq056_badlands_race_raffen_shiv_racer",
+        "entity_entname": "gang__ep1_wraith_mb.ent",
+        "entity_id": 922104609
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_wraiths_grunt2_melee2_crowbar_ma",
+        "entity_name": "Nid_wraiths_grunt2_melee2_crowbar_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2707066771
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_wraiths_grunt1_ranged1_nova_wa",
+        "entity_name": "Nid_wraiths_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 4270608474
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_grunt2_ranged2_pulsar_ma",
+        "entity_name": "Bls_se_wraiths_grunt2_ranged2_pulsar_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 593041480
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Bls_se_wraiths_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3788500399
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_grunt1_ranged1_nova_ma",
+        "entity_name": "Bls_se_wraiths_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1917211936
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_grunt1_ranged1_nova_wa",
+        "entity_name": "Bls_se_wraiths_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 3261837307
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_grunt2_melee2_crowbar_ma",
+        "entity_name": "Bls_se_wraiths_grunt2_melee2_crowbar_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 994365777
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_03_wraiths_grunt2_melee2_crowbar_ma",
+        "entity_name": "Ina_03_wraiths_grunt2_melee2_crowbar_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2397152137
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_warrior3_ranged3_quasar_wa_rare",
+        "entity_name": "Bls_se_wraiths_warrior3_ranged3_quasar_wa_rare",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 3005216268
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_wraiths_grunt2_ranged2_pulsar_ma",
+        "entity_name": "Nid_wraiths_grunt2_ranged2_pulsar_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3108456074
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Bls_se_wraiths_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 435026144
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_wraiths_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Rcr_wraiths_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 3684762978
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_wraiths_warrior3_ranged3_quasar_wa_rare",
+        "entity_name": "Rcr_wraiths_warrior3_ranged3_quasar_wa_rare",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 1016416701
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.rcr_wraiths_strongarms_hmelee3_fists_mb_elite",
+        "entity_name": "Rcr_wraiths_strongarms_hmelee3_fists_mb_elite",
+        "entity_entname": "gang__ep1_wraith_mb.ent",
+        "entity_id": 120845775
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_wraiths_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Rcr_wraiths_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1804402617
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_wraiths_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Rcr_wraiths_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1525766660
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_wraiths_ghost2_sniper2_achilles_ma_rare",
+        "entity_name": "Rcr_wraiths_ghost2_sniper2_achilles_ma_rare",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2538610154
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_grunt2_melee2_crowbar_wa",
+        "entity_name": "Bls_se_wraiths_grunt2_melee2_crowbar_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 2338925450
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_wraiths_melee2_crowbar_wa",
+        "entity_name": "Gang_retaliation_enemies_wraiths_melee2_crowbar_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 3033943548
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_wraiths_melee2_crowbar_wa_ina_02",
+        "entity_name": "Gang_retaliation_enemies_wraiths_melee2_crowbar_wa_ina_02",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 912151853
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_wraiths_ranged3_quasar_wa_rare",
+        "entity_name": "Gang_retaliation_enemies_wraiths_ranged3_quasar_wa_rare",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 1679587882
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_warrior3_shotgun3_palica_ma_elite",
+        "entity_name": "Bls_se_wraiths_warrior3_shotgun3_palica_ma_elite",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 2493883455
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_wraiths_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Nid_wraiths_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 870210809
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_wraiths_ranged1_nova_ma",
+        "entity_name": "Gang_retaliation_enemies_wraiths_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1104777002
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_wraiths_ranged3_quasar_wa_rare_ina_02",
+        "entity_name": "Gang_retaliation_enemies_wraiths_ranged3_quasar_wa_rare_ina_02",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 1656954276
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ina_03_wraiths_strong_gunner3_hmg_mb_elite",
+        "entity_name": "Ina_03_wraiths_strong_gunner3_hmg_mb_elite",
+        "entity_entname": "gang__ep1_wraith_mb.ent",
+        "entity_id": 1209910426
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_06_gangers_rifle",
+        "entity_name": "Ina_06_gangers_rifle",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 1108271066
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_grunt1_melee1_tireiron_wa",
+        "entity_name": "Bls_se_wraiths_grunt1_melee1_tireiron_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 2982473410
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_wraiths_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Bls_se_wraiths_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_wraith_wa.ent",
+        "entity_id": 2847932987
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_wraiths_shotgun2_crusher_ma_rare_ina_02",
+        "entity_name": "Gang_retaliation_enemies_wraiths_shotgun2_crusher_ma_rare_ina_02",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 969114561
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_wraith_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_wraiths_shotgun2_crusher_ma_rare",
+        "entity_name": "Gang_retaliation_enemies_wraiths_shotgun2_crusher_ma_rare",
+        "entity_entname": "gang__ep1_wraith_ma.ent",
+        "entity_id": 3404783016
+    }
+]

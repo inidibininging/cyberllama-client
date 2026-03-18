@@ -1,0 +1,3626 @@
+[
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q115_arasaka_jungle_lmg",
+        "entity_name": "Q115_arasaka_jungle_lmg",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 2113558988
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q115\\characters\\q115_arasaka_security.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_jungle_officer",
+        "entity_name": "Q115_arasaka_jungle_officer",
+        "entity_entname": "q115_arasaka_security.ent",
+        "entity_id": 1914969799
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_jungle_shotgun_terminator",
+        "entity_name": "Q115_arasaka_jungle_shotgun_terminator",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 3661306028
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_jungle_shotgunner_ma_rare",
+        "entity_name": "Q115_arasaka_jungle_shotgunner_ma_rare",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 93150707
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q115\\characters\\q115_arasaka_security.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_nest_corpo_handgunner",
+        "entity_name": "Q115_arasaka_nest_corpo_handgunner",
+        "entity_entname": "q115_arasaka_security.ent",
+        "entity_id": 3449786502
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_arasaka_security1_ranged1_shingen_ma",
+        "entity_name": "Arr_arasaka_security1_ranged1_shingen_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3820875864
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_security1_ranged1_yukimura_ma",
+        "entity_name": "Arasaka_security1_ranged1_yukimura_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 88342320
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_security1_ranged1_shingen_ma",
+        "entity_name": "Arasaka_security1_ranged1_shingen_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2422920095
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arasaka_ninja_fmelee3_mantis_wa_elite",
+        "entity_name": "Arasaka_ninja_fmelee3_mantis_wa_elite",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 2241947701
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_arasaka_guard2_ranged1_kenshin_ma",
+        "entity_name": "Nid_arasaka_guard2_ranged1_kenshin_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 198163515
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_ranger1_melee2_knife_ma",
+        "entity_name": "Arasaka_ranger1_melee2_knife_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1503763948
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_base_mah",
+        "entity_name": "Arasaka_base_mah",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 3305616594
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.equip_assault_rifle_mb_arasaka",
+        "entity_name": "Equip_assault_rifle_mb_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 4269985474
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arasaka_agent_franged2_yukimura_wa_rare",
+        "entity_name": "Arasaka_agent_franged2_yukimura_wa_rare",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 2438025308
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.arasaka_base_mb",
+        "entity_name": "Arasaka_base_mb",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 736906572
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Zhuo_Smart_Shotgun_Base",
+        "entity_name": "Ma_corpo_Zhuo_Smart_Shotgun_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 4106486278
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.arasaka_test_mb_corpo_rifle",
+        "entity_name": "Arasaka_test_mb_corpo_rifle",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 2609072891
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q115_arasaka_heavy_squad_two",
+        "entity_name": "Q115_arasaka_heavy_squad_two",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 2966239621
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_jungle_commander_bodyguard",
+        "entity_name": "Q115_arasaka_jungle_commander_bodyguard",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2931627356
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q101_arasaka_2020guard_ranged1_2020masamune_ma",
+        "entity_name": "Q101_arasaka_2020guard_ranged1_2020masamune_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3537205638
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q101_arasaka_2020guard_ranged1_2020nue_ma",
+        "entity_name": "Q101_arasaka_2020guard_ranged1_2020nue_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 4267740203
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mm.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_massive\\man_massive.rig",
+        "entity_tweak": "Character.arasaka_rare2_hmelee3_fists_mm_elite",
+        "entity_name": "Arasaka_rare2_hmelee3_fists_mm_elite",
+        "entity_entname": "corpo__ep1_arasaka_mm.ent",
+        "entity_id": 138784003
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.nok_arasaka_strong_elite_bodyguard_medium_range_m_medium",
+        "entity_name": "Nok_arasaka_strong_elite_bodyguard_medium_range_m_medium",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 1326448194
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_arasaka_guard2_ranged1_yukimura_ma",
+        "entity_name": "Cpz_arasaka_guard2_ranged1_yukimura_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 820990556
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_arasaka_ranger1_melee2_knife_ma",
+        "entity_name": "Arr_arasaka_ranger1_melee2_knife_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 4159240100
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q108\\characters\\q108_arasaka_agent_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q108_arasaka_agent_ma",
+        "entity_name": "Q108_arasaka_agent_ma",
+        "entity_entname": "q108_arasaka_agent_ma.ent",
+        "entity_id": 21138258
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_arasaka_soldier2_shotgun2_tactician_mah_rare",
+        "entity_name": "Arr_arasaka_soldier2_shotgun2_tactician_mah_rare",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 1574649857
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_arasaka_terminator_shotgun3_zhuo_mah_elite",
+        "entity_name": "Arr_arasaka_terminator_shotgun3_zhuo_mah_elite",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 13956609
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q108_arasaka_2020agent_fmelee2_katana_wa",
+        "entity_name": "Q108_arasaka_2020agent_fmelee2_katana_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 3932538902
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q108_arasaka_2020agent_fmelee2_katana_ma",
+        "entity_name": "Q108_arasaka_2020agent_fmelee2_katana_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1514681037
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_guard2_ranged1_yukimura_ma",
+        "entity_name": "Arasaka_guard2_ranged1_yukimura_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3022360647
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_guard2_ranged1_shingen_ma",
+        "entity_name": "Arasaka_guard2_ranged1_shingen_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 4260135076
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q108_arasaka_2020guard_ranged1_2020masamune_ma",
+        "entity_name": "Q108_arasaka_2020guard_ranged1_2020masamune_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3234476646
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q108_arasaka_2020guard_ranged1_2020nue_ma",
+        "entity_name": "Q108_arasaka_2020guard_ranged1_2020nue_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3297348447
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q108_arasaka_2020guard_shotgun2_2020tactician_ma",
+        "entity_name": "Q108_arasaka_2020guard_shotgun2_2020tactician_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1569901642
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q108_arasaka_f_rifle_Alpha",
+        "entity_name": "Q108_arasaka_f_rifle_Alpha",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 2365802832
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q108_arasaka_m_shotgun",
+        "entity_name": "Q108_arasaka_m_shotgun",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3692952731
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q108\\characters\\q108_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q108_arasaka_ma",
+        "entity_name": "Q108_arasaka_ma",
+        "entity_entname": "q108_arasaka_ma.ent",
+        "entity_id": 685621215
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_outro_arasaka_baton_ma",
+        "entity_name": "Sa_ep1_courier_outro_arasaka_baton_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2594310120
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_outro_arasaka_baton_wa",
+        "entity_name": "Sa_ep1_courier_outro_arasaka_baton_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 714079539
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_outro_arasaka_handgun_ma",
+        "entity_name": "Sa_ep1_courier_outro_arasaka_handgun_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3416049911
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_outro_arasaka_handgun_wa",
+        "entity_name": "Sa_ep1_courier_outro_arasaka_handgun_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 2075210284
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_outro_arasaka_rifle_ma",
+        "entity_name": "Sa_ep1_courier_outro_arasaka_rifle_ma",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 189343461
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_outro_arasaka_rifle_ranger_ma",
+        "entity_name": "Sa_ep1_courier_outro_arasaka_rifle_ranger_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1056978341
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_outro_arasaka_shotgun_mah",
+        "entity_name": "Sa_ep1_courier_outro_arasaka_shotgun_mah",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 2826678461
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_outro_arasaka_sniper_ma",
+        "entity_name": "Sa_ep1_courier_outro_arasaka_sniper_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2117879760
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.precise_shoot_shotgun_mb_corpo",
+        "entity_name": "Precise_shoot_shotgun_mb_corpo",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3460758261
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_smg_ma_arasaka",
+        "entity_name": "Precise_shoot_smg_ma_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 754031076
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Yukimura_Auto_Power_Handgun_Base",
+        "entity_name": "Ma_corpo_Yukimura_Auto_Power_Handgun_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1936313601
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.throw_grenade_mb_corpo_shotgun",
+        "entity_name": "Throw_grenade_mb_corpo_shotgun",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 1675224969
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.throw_grenade_mb_corpo_hmg",
+        "entity_name": "Throw_grenade_mb_corpo_hmg",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 2198453300
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.throw_grenade_mb_arasaka_rifle",
+        "entity_name": "Throw_grenade_mb_arasaka_rifle",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 1517903144
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_ajax_ma_corpo",
+        "entity_name": "Precise_shoot_ajax_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3153540859
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_agent_fshotgun2_tactician_ma_rare",
+        "entity_name": "Arasaka_agent_fshotgun2_tactician_ma_rare",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3980176508
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q000\\characters\\q000_corpo_arasaka_f_corporate.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q000_corpo_arasaka_f_corporate_no_reactions",
+        "entity_name": "Q000_corpo_arasaka_f_corporate_no_reactions",
+        "entity_entname": "q000_corpo_arasaka_f_corporate.ent",
+        "entity_id": 355837715
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arasaka_ninja_fmelee3_katana_wa_elite",
+        "entity_name": "Arasaka_ninja_fmelee3_katana_wa_elite",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 3084427905
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_terminator_shotgun3_zhuo_mah_elite",
+        "entity_name": "Arasaka_terminator_shotgun3_zhuo_mah_elite",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 1735187184
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_arasaka_guard2_ranged1_shingen_ma",
+        "entity_name": "Cpz_arasaka_guard2_ranged1_shingen_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2305770935
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_lmg_ma_corpo",
+        "entity_name": "Crouch_precise_shoot_lmg_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2126277380
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_handgun_ma_corpo",
+        "entity_name": "Crouch_precise_shoot_handgun_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2424084954
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_lmg_ma_corpo",
+        "entity_name": "Precise_shoot_lmg_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 352251518
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_arasaka_sniper_01_officer",
+        "entity_name": "Q112_arasaka_sniper_01_officer",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 660412131
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_arasaka_guard",
+        "entity_name": "Q112_arasaka_guard",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2697239781
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_arasaka_agent_rifle_flashlight_officer",
+        "entity_name": "Q112_arasaka_agent_rifle_flashlight_officer",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 3283377565
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_arasaka_agent_rifle_flashlight_no_reaction",
+        "entity_name": "Q112_arasaka_agent_rifle_flashlight_no_reaction",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 1491286403
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_arasaka_agent_officer",
+        "entity_name": "Q112_arasaka_agent_officer",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2389714677
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q112_arasaka_agent_netrunner",
+        "entity_name": "Q112_arasaka_agent_netrunner",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 1906790480
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q112_arasaka_agent_massive",
+        "entity_name": "Q112_arasaka_agent_massive",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 2095442414
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.arasaka_bodyguard_ranged3_kenshin_mb_rare",
+        "entity_name": "Arasaka_bodyguard_ranged3_kenshin_mb_rare",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3011219931
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q005_arasaka_kill_squad_1",
+        "entity_name": "Q005_arasaka_kill_squad_1",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3974752760
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_precision_rifle_ma_corpo",
+        "entity_name": "Equip_precision_rifle_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2823237208
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_shotgun_ma_corpo",
+        "entity_name": "Equip_shotgun_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1150989272
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_2020guard_ranged1_2020masamune_ma",
+        "entity_name": "Arasaka_2020guard_ranged1_2020masamune_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 205931722
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_agent_fmelee2rare_knife_ma_rare",
+        "entity_name": "Arasaka_agent_fmelee2rare_knife_ma_rare",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1774210930
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_agent_fmelee2rare_katana_ma_rare",
+        "entity_name": "Arasaka_agent_fmelee2rare_katana_ma_rare",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2373039300
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arasaka_agent_fmelee2rare_katana_wa_rare",
+        "entity_name": "Arasaka_agent_fmelee2rare_katana_wa_rare",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 1323267908
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_lmg_ma_corpo",
+        "entity_name": "Equip_lmg_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2223935335
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q101_arasaka_agent_smg",
+        "entity_name": "Q101_arasaka_agent_smg",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3774756238
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_arasaka_agent_fshotgun2_tactician_ma_rare",
+        "entity_name": "Nok_arasaka_agent_fshotgun2_tactician_ma_rare",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 923972776
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_arasaka_cyborg_franged3_shingen_ma_elite",
+        "entity_name": "Nok_arasaka_cyborg_franged3_shingen_ma_elite",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2873820322
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_arasaka_manufacturing_officer",
+        "entity_name": "Q114_arasaka_manufacturing_officer",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1548984773
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q108_arasaka_2020agent_ranged3_2020nue_ma",
+        "entity_name": "Q108_arasaka_2020agent_ranged3_2020nue_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3034789169
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q005\\characters\\q005_arasaka_guard.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q005_arasaka_guard",
+        "entity_name": "Q005_arasaka_guard",
+        "entity_entname": "q005_arasaka_guard.ent",
+        "entity_id": 302762285
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q005\\characters\\q005_arasaka_guard_no_capsule.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q005_arasaka_guard_no_capsule",
+        "entity_name": "Q005_arasaka_guard_no_capsule",
+        "entity_entname": "q005_arasaka_guard_no_capsule.ent",
+        "entity_id": 1784558111
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mm.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_massive\\man_massive.rig",
+        "entity_tweak": "Character.q112_infiltration_arasaka_massive",
+        "entity_name": "Q112_infiltration_arasaka_massive",
+        "entity_entname": "corpo__ep1_arasaka_mm.ent",
+        "entity_id": 4062156282
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_infiltration_arasaka_netrunner",
+        "entity_name": "Q112_infiltration_arasaka_netrunner",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 112866536
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_parade_officer_soldier1_ranged3_masamune_mah_rare",
+        "entity_name": "Q112_parade_officer_soldier1_ranged3_masamune_mah_rare",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 10605927
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_ceo_floor_shotgunner",
+        "entity_name": "Q113_ceo_floor_shotgunner",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 3476748121
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q113_estate_mansion_female_guard_rifleman",
+        "entity_name": "Q113_estate_mansion_female_guard_rifleman",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 332369633
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_smasher_arasaka_sniper",
+        "entity_name": "Q113_smasher_arasaka_sniper",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 308567281
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_top_atrium_rifleman",
+        "entity_name": "Q113_top_atrium_rifleman",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 324448744
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_top_atrium_rifleman2",
+        "entity_name": "Q113_top_atrium_rifleman2",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3021439734
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q115\\characters\\q115_arasaka_security.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_atrium_officer",
+        "entity_name": "Q115_arasaka_atrium_officer",
+        "entity_entname": "q115_arasaka_security.ent",
+        "entity_id": 3683483630
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_atrium_ranger_standard",
+        "entity_name": "Q115_arasaka_atrium_ranger_standard",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 4033641358
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gym_encounters_cover_combat_enemy01",
+        "entity_name": "Gym_encounters_cover_combat_enemy01",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 4115409806
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mm.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_massive\\man_massive.rig",
+        "entity_tweak": "Character.q115_arasaka_jungle_fists_massive",
+        "entity_name": "Q115_arasaka_jungle_fists_massive",
+        "entity_entname": "corpo__ep1_arasaka_mm.ent",
+        "entity_id": 3432695338
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mm.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_massive\\man_massive.rig",
+        "entity_tweak": "Character.q115_arasaka_jungle_hmg",
+        "entity_name": "Q115_arasaka_jungle_hmg",
+        "entity_entname": "corpo__ep1_arasaka_mm.ent",
+        "entity_id": 2062807312
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_arasaka_guard2_ranged1_yukimura_wa",
+        "entity_name": "Hil_arasaka_guard2_ranged1_yukimura_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 1822433546
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_arasaka_ninja_fmelee3_katana_wa_elite",
+        "entity_name": "Hil_arasaka_ninja_fmelee3_katana_wa_elite",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 2244402111
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_arasaka_ranger1_ranged2_masamune_ma",
+        "entity_name": "Hil_arasaka_ranger1_ranged2_masamune_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1185328670
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_arasaka_ranger1_ranged2_shingen_ma",
+        "entity_name": "Hil_arasaka_ranger1_ranged2_shingen_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1120698650
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_arasaka_ranger1_ranged2_shingen_wa",
+        "entity_name": "Hil_arasaka_ranger1_ranged2_shingen_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 4074863553
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_arasaka_sniper_sniper3_ashura_ma_elite",
+        "entity_name": "Hil_arasaka_sniper_sniper3_ashura_ma_elite",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2417696948
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\citizen\\citizen__ep1_arasaka_corpo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.CorpoWomanArasaka",
+        "entity_name": "CorpoWomanArasaka",
+        "entity_entname": "citizen__ep1_arasaka_corpo_wa.ent",
+        "entity_id": 770627479
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\citizen\\citizen__ep1_arasaka_corpo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.CorpoManArasaka",
+        "entity_name": "CorpoManArasaka",
+        "entity_entname": "citizen__ep1_arasaka_corpo_ma.ent",
+        "entity_id": 134560977
+    },
+    {
+        "entity_entpath": "base\\open_world\\community\\watson\\kabuki\\entitties\\lizzies_club_crowd_arasaka_faction_hato.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.CitizenArasakaHatoCorpoMale",
+        "entity_name": "CitizenArasakaHatoCorpoMale",
+        "entity_entname": "lizzies_club_crowd_arasaka_faction_hato.ent",
+        "entity_id": 3339231204
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_cyborg_fshotgun3_zhuo_ma_elite",
+        "entity_name": "Arasaka_cyborg_fshotgun3_zhuo_ma_elite",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3110107737
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_cyborg_franged3_shingen_ma_elite",
+        "entity_name": "Arasaka_cyborg_franged3_shingen_ma_elite",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3857383625
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.arasaka_bodyguard_ranged3_masamune_mb_rare",
+        "entity_name": "Arasaka_bodyguard_ranged3_masamune_mb_rare",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 1285326855
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.arasaka_bodyguard_hmelee2_fists_mb_rare",
+        "entity_name": "Arasaka_bodyguard_hmelee2_fists_mb_rare",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 2744293682
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arasaka_base_wa",
+        "entity_name": "Arasaka_base_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 46720557
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_base_ma",
+        "entity_name": "Arasaka_base_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3001359606
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_guard2020_melee1_baton_ma",
+        "entity_name": "Arasaka_guard2020_melee1_baton_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2177416627
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_arasaka_fast_sniper_long_range_m_hard",
+        "entity_name": "Nok_arasaka_fast_sniper_long_range_m_hard",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 354114027
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_assault_rifle_ma_arasaka",
+        "entity_name": "Shoot_assault_rifle_ma_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 4142144941
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Preset_Grad_Default",
+        "entity_name": "Ma_corpo_Preset_Grad_Default",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 420255162
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Testera_Dual_Power_Shotgun_Base",
+        "entity_name": "Ma_corpo_Testera_Dual_Power_Shotgun_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2181994005
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Tactician_Pump_Power_Shotgun_Base",
+        "entity_name": "Ma_corpo_Tactician_Pump_Power_Shotgun_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1195996908
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Sor_SemiAuto_Power_Rifle_Base",
+        "entity_name": "Ma_corpo_Sor_SemiAuto_Power_Rifle_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2950218874
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Sidewinder_Auto_Smart_Rifle_Base",
+        "entity_name": "Ma_corpo_Sidewinder_Auto_Smart_Rifle_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1968512887
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Satara_Dual_Tech_Shotgun_Base",
+        "entity_name": "Ma_corpo_Satara_Dual_Tech_Shotgun_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3586123078
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Saratoga_Auto_Power_SMG_Base",
+        "entity_name": "Ma_corpo_Saratoga_Auto_Power_SMG_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 627012839
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_soldier1_ranged3_masamune_mah_rare",
+        "entity_name": "Arasaka_soldier1_ranged3_masamune_mah_rare",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 845134544
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.shoot_assault_rifle_mb_arasaka",
+        "entity_name": "Shoot_assault_rifle_mb_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3479773544
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_dual_shotgun_ma_corpo",
+        "entity_name": "Shoot_dual_shotgun_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2104387375
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_handgun_ma_corpo",
+        "entity_name": "Shoot_handgun_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2893130227
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_precision_rifle_ma_corpo",
+        "entity_name": "Shoot_precision_rifle_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2578235890
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.waterfront_arasaka_terminator_shotgun3_zhuo_mah_elite",
+        "entity_name": "Waterfront_arasaka_terminator_shotgun3_zhuo_mah_elite",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 110654293
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.waterfront_arasaka_ranger1_ranged2_shingen_ma",
+        "entity_name": "Waterfront_arasaka_ranger1_ranged2_shingen_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1752232319
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.waterfront_arasaka_agent_fshotgun2_tactician_ma_rare",
+        "entity_name": "Waterfront_arasaka_agent_fshotgun2_tactician_ma_rare",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1919605410
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.vsr_wave_01_shotgun3_zhuo_mah_elite",
+        "entity_name": "Vsr_wave_01_shotgun3_zhuo_mah_elite",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 628848874
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.vsr_wave_01_ranged2_shingen_ma",
+        "entity_name": "Vsr_wave_01_ranged2_shingen_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 4067592024
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.vsr_wave_01_fshotgun2_tactician_ma_rare",
+        "entity_name": "Vsr_wave_01_fshotgun2_tactician_ma_rare",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3233444965
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.vsr_wave_01_franged2_yukimura_wa_rare",
+        "entity_name": "Vsr_wave_01_franged2_yukimura_wa_rare",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 411332943
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.vsr_wave_01_fmelee2rare_katana_wa_rare",
+        "entity_name": "Vsr_wave_01_fmelee2rare_katana_wa_rare",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 3404260283
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_arasaka_bodyguard_masamune_mb_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_arasaka_bodyguard_masamune_mb_rare",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3120557145
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\citizen\\citizen__arasaka_corpo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q303_paradise_arasaka_contact",
+        "entity_name": "Q303_paradise_arasaka_contact",
+        "entity_entname": "citizen__arasaka_corpo_ma.ent",
+        "entity_id": 1674177790
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q115\\characters\\q115_arasaka_lobby_mech.ent",
+        "entity_entrigs": "",
+        "entity_tweak": "Character.q115_arasaka_mech_test",
+        "entity_name": "Q115_arasaka_mech_test",
+        "entity_entname": "q115_arasaka_lobby_mech.ent",
+        "entity_id": 4095719053
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_infiltration_arasaka_guard_friendly",
+        "entity_name": "Q112_infiltration_arasaka_guard_friendly",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2105116907
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_infiltration_arasaka_guard_officer",
+        "entity_name": "Q112_infiltration_arasaka_guard_officer",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 1609144470
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_arasaka_jungle_netrunner",
+        "entity_name": "Q113_arasaka_jungle_netrunner",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2332794202
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q113_arasaka_jungle_terminator_officer",
+        "entity_name": "Q113_arasaka_jungle_terminator_officer",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 1919572952
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_estate_mansion_guard_officer",
+        "entity_name": "Q113_estate_mansion_guard_officer",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3754162270
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q005\\characters\\q005_arasaka_exec_female.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q005_arasaka_agent_female",
+        "entity_name": "Q005_arasaka_agent_female",
+        "entity_entname": "q005_arasaka_exec_female.ent",
+        "entity_id": 2148084756
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q005_arasaka_kill_squad_2",
+        "entity_name": "Q005_arasaka_kill_squad_2",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1977661506
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Preset_Liberty_Default",
+        "entity_name": "Ma_corpo_Preset_Liberty_Default",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1772763173
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Preset_Nova_Default",
+        "entity_name": "Ma_corpo_Preset_Nova_Default",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1847785785
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_arasaka_manufacturing_handgunner",
+        "entity_name": "Q114_arasaka_manufacturing_handgunner",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 480401581
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q113_top_atrium_sumo",
+        "entity_name": "Q113_top_atrium_sumo",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 1733367735
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q113_top_atrium_riflewoman",
+        "entity_name": "Q113_top_atrium_riflewoman",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 1966975911
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_top_atrium_officer",
+        "entity_name": "Q113_top_atrium_officer",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 3173566173
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mm.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_massive\\man_massive.rig",
+        "entity_tweak": "Character.q113_top_atrium_massive",
+        "entity_name": "Q113_top_atrium_massive",
+        "entity_entname": "corpo__ep1_arasaka_mm.ent",
+        "entity_id": 1337788870
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_takemura_allies",
+        "entity_name": "Q113_takemura_allies",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 204982274
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q113_smasher_arasaka_netrunner",
+        "entity_name": "Q113_smasher_arasaka_netrunner",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 3260384502
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_smasher_arasaka_mantis",
+        "entity_name": "Q113_smasher_arasaka_mantis",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3900983092
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_smasher_arasaka_mantis_officer",
+        "entity_name": "Q113_smasher_arasaka_mantis_officer",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3952468487
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_estate_mansion_guard_shotgunner",
+        "entity_name": "Q113_estate_mansion_guard_shotgunner",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2919967346
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_estate_mansion_guard_rifleman",
+        "entity_name": "Q113_estate_mansion_guard_rifleman",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1736804428
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_ceo_floor_rifleman",
+        "entity_name": "Q113_ceo_floor_rifleman",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 1084378546
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_ceo_floor_officer",
+        "entity_name": "Q113_ceo_floor_officer",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 4199001135
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mm.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_massive\\man_massive.rig",
+        "entity_tweak": "Character.q113_arasaka_jungle_massive",
+        "entity_name": "Q113_arasaka_jungle_massive",
+        "entity_entname": "corpo__ep1_arasaka_mm.ent",
+        "entity_id": 814515084
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_arasaka_jungle_elite_shotgunner",
+        "entity_name": "Q113_arasaka_jungle_elite_shotgunner",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 2301967953
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q113\\characters\\q113_arasaka_board_male.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_arasaka_board_male",
+        "entity_name": "Q113_arasaka_board_male",
+        "entity_entname": "q113_arasaka_board_male.ent",
+        "entity_id": 2634759321
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_parade_soldier_shotgunner_reinf",
+        "entity_name": "Q112_parade_soldier_shotgunner_reinf",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 3882430817
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_parade_soldier_ranged_reinf",
+        "entity_name": "Q112_parade_soldier_ranged_reinf",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 1801489296
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_parade_ranger1_ranged2_masamune_ma",
+        "entity_name": "Q112_parade_ranger1_ranged2_masamune_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3684452562
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mm.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_massive\\man_massive.rig",
+        "entity_tweak": "Character.q112_parade_massive_melee",
+        "entity_name": "Q112_parade_massive_melee",
+        "entity_entname": "corpo__ep1_arasaka_mm.ent",
+        "entity_id": 1280999307
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_parade_guard2_ranged1_yukimura_ma",
+        "entity_name": "Q112_parade_guard2_ranged1_yukimura_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 874297428
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_parade_guard2_ranged1_yukimura_ma_friendly",
+        "entity_name": "Q112_parade_guard2_ranged1_yukimura_ma_friendly",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 959853582
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_parade_guard2_melee1_baton_ma",
+        "entity_name": "Q112_parade_guard2_melee1_baton_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1369298696
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_parade_guard2_melee1_baton_ma_friendly",
+        "entity_name": "Q112_parade_guard2_melee1_baton_ma_friendly",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3536014292
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q112\\characters\\q112_arasaka_driver.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_infiltration_driver",
+        "entity_name": "Q112_infiltration_driver",
+        "entity_entname": "q112_arasaka_driver.ent",
+        "entity_id": 293257420
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_infiltration_arasaka_guard",
+        "entity_name": "Q112_infiltration_arasaka_guard",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 436864797
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_arasaka_ranger1_ranged2_masamune_ma",
+        "entity_name": "Nid_arasaka_ranger1_ranged2_masamune_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3863428311
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q112\\characters\\q112_arasaka_netrunner.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q112_arasaka_netrunner",
+        "entity_name": "Q112_arasaka_netrunner",
+        "entity_entname": "q112_arasaka_netrunner.ent",
+        "entity_id": 3403939299
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_arasaka_agent_rifle_flashlight",
+        "entity_name": "Q112_arasaka_agent_rifle_flashlight",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 1390279028
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_arasaka_security1_ranged1_kenshin_ma",
+        "entity_name": "Wwd_arasaka_security1_ranged1_kenshin_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1052889041
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q005\\characters\\q005_arasaka_exec_male.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q005_arasaka_agent_male",
+        "entity_name": "Q005_arasaka_agent_male",
+        "entity_entname": "q005_arasaka_exec_male.ent",
+        "entity_id": 3872892370
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q101_arasaka_agent_rifle",
+        "entity_name": "Q101_arasaka_agent_rifle",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 4114277963
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\citizen\\citizen__arasaka_corpo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q101_diner_asian_suit2",
+        "entity_name": "Q101_diner_asian_suit2",
+        "entity_entname": "citizen__arasaka_corpo_ma.ent",
+        "entity_id": 1969147573
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_arasaka_netrunner_netrunner2_yukimura_wa_rare",
+        "entity_name": "Dtn_arasaka_netrunner_netrunner2_yukimura_wa_rare",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 956889392
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Copperhead_Auto_Power_Rifle_Base",
+        "entity_name": "Ma_corpo_Copperhead_Auto_Power_Rifle_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1817751121
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Burya_SemiAuto_Tech_Revolver_Base",
+        "entity_name": "Ma_corpo_Burya_SemiAuto_Tech_Revolver_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2217053832
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Ashura_SemiAuto_Smart_Sniper_Base",
+        "entity_name": "Ma_corpo_Ashura_SemiAuto_Smart_Sniper_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 278160944
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Achilles_SemiAuto_Tech_Rifle_Base",
+        "entity_name": "Ma_corpo_Achilles_SemiAuto_Tech_Rifle_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 182759728
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q101\\characters\\q101_arasaka_scientist_female.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q101_soulkiller_fem",
+        "entity_name": "Q101_soulkiller_fem",
+        "entity_entname": "q101_arasaka_scientist_female.ent",
+        "entity_id": 255483244
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q000\\characters\\q000_corpo_arasaka_security_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q000_corpo_arasaka_security_wa",
+        "entity_name": "Q000_corpo_arasaka_security_wa",
+        "entity_entname": "q000_corpo_arasaka_security_wa.ent",
+        "entity_id": 3441318661
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ttk_test_t3",
+        "entity_name": "Ttk_test_t3",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 770800367
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ttk_test_t2",
+        "entity_name": "Ttk_test_t2",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 1526090361
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ttk_test_t1",
+        "entity_name": "Ttk_test_t1",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3288275907
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.troyAssassinTemplate",
+        "entity_name": "TroyAssassinTemplate",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 429654750
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_scav_corpo",
+        "entity_name": "Throw_grenade_ma_scav_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3864905723
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_handgun_corpo",
+        "entity_name": "Throw_grenade_ma_handgun_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1754798233
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_corpo_shotgun",
+        "entity_name": "Throw_grenade_ma_corpo_shotgun",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1923386864
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_corpo_shotdual",
+        "entity_name": "Throw_grenade_ma_corpo_shotdual",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3202623310
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_corpo_precision",
+        "entity_name": "Throw_grenade_ma_corpo_precision",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2135084607
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_corpo_lmg",
+        "entity_name": "Throw_grenade_ma_corpo_lmg",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 501379817
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_arasaka_smg",
+        "entity_name": "Throw_grenade_ma_arasaka_smg",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2489105830
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_arasaka_rifle",
+        "entity_name": "Throw_grenade_ma_arasaka_rifle",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1258567505
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cpz_arasaka_bodyguard_ranged3_masamune_mb_rare",
+        "entity_name": "Cpz_arasaka_bodyguard_ranged3_masamune_mb_rare",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3269066840
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_security_squad_three",
+        "entity_name": "Q115_arasaka_security_squad_three",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1949527629
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_security_squad_one",
+        "entity_name": "Q115_arasaka_security_squad_one",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 339356556
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q116\\characters\\q116_arasaka_netrunner.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q115_arasaka_netrunner",
+        "entity_name": "Q115_arasaka_netrunner",
+        "entity_entname": "q116_arasaka_netrunner.ent",
+        "entity_id": 2161997480
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arasaka_guard2_ranged1_yukimura_wa",
+        "entity_name": "Arasaka_guard2_ranged1_yukimura_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 67660444
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_shotgun_ma_corpo",
+        "entity_name": "Crouch_precise_shoot_shotgun_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1945820218
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_netrunner_netrunner2_yukimura_ma_rare",
+        "entity_name": "Arasaka_netrunner_netrunner2_yukimura_ma_rare",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1119769886
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_arasaka_agent_fshotgun2_tactician_wa_rare",
+        "entity_name": "Hil_arasaka_agent_fshotgun2_tactician_wa_rare",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 2043731438
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q115\\characters\\q115_arasaka_security.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_nest_officer",
+        "entity_name": "Q115_arasaka_nest_officer",
+        "entity_entname": "q115_arasaka_security.ent",
+        "entity_id": 919691298
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_atrium_shotgunner_agent_rare",
+        "entity_name": "Q115_arasaka_atrium_shotgunner_agent_rare",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 418536985
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_atrium_melee_mantis_blades",
+        "entity_name": "Q115_arasaka_atrium_melee_mantis_blades",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3155950403
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_atrium_melee_knife",
+        "entity_name": "Q115_arasaka_atrium_melee_knife",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2684255064
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mm.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_massive\\man_massive.rig",
+        "entity_tweak": "Character.q115_arasaka_atrium_lmg_rare",
+        "entity_name": "Q115_arasaka_atrium_lmg_rare",
+        "entity_entname": "corpo__ep1_arasaka_mm.ent",
+        "entity_id": 782921190
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_security_squad_one_reinf",
+        "entity_name": "Q115_arasaka_security_squad_one_reinf",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 2156069931
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_arasaka_security1_melee1_baton_ma",
+        "entity_name": "Rcr_arasaka_security1_melee1_baton_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 853858882
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_arasaka_guard2_melee1_baton_wa",
+        "entity_name": "Rcr_arasaka_guard2_melee1_baton_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 480324684
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.CPO_Scientist_Test",
+        "entity_name": "CPO_Scientist_Test",
+        "entity_entname": "corpo__arasaka_wa.ent",
+        "entity_id": 2246714276
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_arasaka_ninja_fmelee3_katana_ma_elite",
+        "entity_name": "Nok_arasaka_ninja_fmelee3_katana_ma_elite",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 317246039
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nok_arasaka_ninja_fmelee3_katana_wa_elite",
+        "entity_name": "Nok_arasaka_ninja_fmelee3_katana_wa_elite",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 4287883188
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_arasaka_ninja_fmelee3_mantis_ma_elite",
+        "entity_name": "Nok_arasaka_ninja_fmelee3_mantis_ma_elite",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 546373859
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_arasaka_strong_elite_medium_range_m_medium",
+        "entity_name": "Nok_arasaka_strong_elite_medium_range_m_medium",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 4273892922
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.nok_arasaka_sumo_hmelee2_fists_mb_rare",
+        "entity_name": "Nok_arasaka_sumo_hmelee2_fists_mb_rare",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3754900502
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\citizen\\citizen__ep1_arasaka_corpo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_ep1_06_corpo_arasaka_wa",
+        "entity_name": "Sts_ep1_06_corpo_arasaka_wa",
+        "entity_entname": "citizen__ep1_arasaka_corpo_wa.ent",
+        "entity_id": 1163242702
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\citizen\\citizen__ep1_arasaka_corpo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_06_corpo_arasaka_ma",
+        "entity_name": "Sts_ep1_06_corpo_arasaka_ma",
+        "entity_entname": "citizen__ep1_arasaka_corpo_ma.ent",
+        "entity_id": 4118304277
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\citizen\\citizen__ep1_arasaka_corpo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_06_arasaka_business_ma",
+        "entity_name": "Sts_ep1_06_arasaka_business_ma",
+        "entity_entname": "citizen__ep1_arasaka_corpo_ma.ent",
+        "entity_id": 3845907925
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\citizen\\citizen__ep1_arasaka_corpo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.CorpoManArasakaDriver",
+        "entity_name": "CorpoManArasakaDriver",
+        "entity_entname": "citizen__ep1_arasaka_corpo_ma.ent",
+        "entity_id": 2461287016
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_ep1_02_kurt_netrunner_wa",
+        "entity_name": "Sts_ep1_02_kurt_netrunner_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 3722788041
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arasaka_agent_fshotgun2_tactician_wa_rare",
+        "entity_name": "Arasaka_agent_fshotgun2_tactician_wa_rare",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 781348860
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_arasaka_bodyguard_kenshin_mb_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_arasaka_bodyguard_kenshin_mb_rare",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3755710604
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\citizen\\citizen__arasaka_corpo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq017_lounge_fan_male_corpo",
+        "entity_name": "Sq017_lounge_fan_male_corpo",
+        "entity_entname": "citizen__arasaka_corpo_ma.ent",
+        "entity_id": 3072945844
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.smg_dude_corpo",
+        "entity_name": "Smg_dude_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3676665983
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Overture_SemiAuto_Power_Revolver_Base",
+        "entity_name": "Ma_corpo_Overture_SemiAuto_Power_Revolver_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1310495093
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Preset_Ajax_Default",
+        "entity_name": "Ma_corpo_Preset_Ajax_Default",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2834343089
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.shoot_shotgun_mb_corpo",
+        "entity_name": "Shoot_shotgun_mb_corpo",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 2116023950
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_shotgun_ma_corpo",
+        "entity_name": "Shoot_shotgun_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1341647891
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_lmg_ma_corpo",
+        "entity_name": "Shoot_lmg_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 4218727681
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.shoot_hmg_mb_corpo",
+        "entity_name": "Shoot_hmg_mb_corpo",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3382349027
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_ajax_ma_corpo",
+        "entity_name": "Shoot_ajax_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2074267669
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arasaka_netrunner_netrunner2_yukimura_wa_rare",
+        "entity_name": "Arasaka_netrunner_netrunner2_yukimura_wa_rare",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 2165347998
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_arasaka_cyborg_fshotgun3_zhuo_ma_elite",
+        "entity_name": "Cpz_arasaka_cyborg_fshotgun3_zhuo_ma_elite",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2006159380
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_arasaka_cyborg_grenadier3_yukimura_ma_elite",
+        "entity_name": "Cpz_arasaka_cyborg_grenadier3_yukimura_ma_elite",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2721391745
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cpz_arasaka_strong_elite_melee_m_hard",
+        "entity_name": "Cpz_arasaka_strong_elite_melee_m_hard",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 1559002347
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_arasaka_terminator_shotgun3_zhuo_mah_elite",
+        "entity_name": "Cpz_arasaka_terminator_shotgun3_zhuo_mah_elite",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 3911865007
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_smg_ma_arasaka",
+        "entity_name": "Crouch_precise_shoot_smg_ma_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1693652341
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.equip_shotgun_mb_corpo",
+        "entity_name": "Equip_shotgun_mb_corpo",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 1970448709
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_assault_rifle_ma_arasaka",
+        "entity_name": "Precise_shoot_assault_rifle_ma_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 4214795060
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Quasar_Auto_Tech_Revolver_Base",
+        "entity_name": "Ma_corpo_Quasar_Auto_Tech_Revolver_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1423371125
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_shotgun_ma_corpo",
+        "entity_name": "Precise_shoot_shotgun_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 4289650792
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_guard2_ranged1_kenshin_ma",
+        "entity_name": "Arasaka_guard2_ranged1_kenshin_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 11537708
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_guard2_melee1_baton_ma",
+        "entity_name": "Arasaka_guard2_melee1_baton_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2475011527
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_arasaka_guard2_ranged1_kenshin_ma",
+        "entity_name": "Dtn_arasaka_guard2_ranged1_kenshin_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3207720606
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_ranger1_ranged2_shingen_ma",
+        "entity_name": "Arasaka_ranger1_ranged2_shingen_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 711248524
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.crouch_shoot_hmg_mb_corpo",
+        "entity_name": "Crouch_shoot_hmg_mb_corpo",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 974748850
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_2020agent_fmelee2_katana_ma",
+        "entity_name": "Arasaka_2020agent_fmelee2_katana_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3409632696
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.nok_arasaka_strong_elite_medium_range_m_hard",
+        "entity_name": "Nok_arasaka_strong_elite_medium_range_m_hard",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 4067554447
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_smg_ma_arasaka",
+        "entity_name": "Shoot_smg_ma_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1803748221
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q101_arasaka_agent_handgun",
+        "entity_name": "Q101_arasaka_agent_handgun",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 985792775
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\citizen\\citizen__arasaka_corpo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_victim_male_rich_corpo",
+        "entity_name": "Kab_victim_male_rich_corpo",
+        "entity_entname": "citizen__arasaka_corpo_ma.ent",
+        "entity_id": 2299051442
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_dual_shotgun_ma_corpo",
+        "entity_name": "Equip_dual_shotgun_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3544064169
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_arasaka_guard2_ranged1_kenshin_ma",
+        "entity_name": "Cpz_arasaka_guard2_ranged1_kenshin_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1949550655
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_arasaka_agent_fshotgun2_tactician_ma_rare",
+        "entity_name": "Cpz_arasaka_agent_fshotgun2_tactician_ma_rare",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 358288097
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_smg_ma_arasaka",
+        "entity_name": "Reload_smg_ma_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2488825902
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.reload_shotgun_mb_corpo",
+        "entity_name": "Reload_shotgun_mb_corpo",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 677293942
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_shotgun_ma_corpo",
+        "entity_name": "Reload_shotgun_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 431404523
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_precision_rifle_ma_corpo",
+        "entity_name": "Reload_precision_rifle_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1882751435
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_lmg_ma_corpo",
+        "entity_name": "Reload_lmg_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1365743202
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.reload_hmg_mb_corpo",
+        "entity_name": "Reload_hmg_mb_corpo",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 1669969792
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_handgun_ma_corpo",
+        "entity_name": "Reload_handgun_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 4197511179
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.reload_assault_rifle_mb_arasaka",
+        "entity_name": "Reload_assault_rifle_mb_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 654139729
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_assault_rifle_ma_arasaka",
+        "entity_name": "Reload_assault_rifle_ma_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 527457684
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_ajax_ma_corpo",
+        "entity_name": "Reload_ajax_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2947806156
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_arasaka_ranger1_ranged2_shingen_wa",
+        "entity_name": "Arr_arasaka_ranger1_ranged2_shingen_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 1959958168
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.arasaka_tank2_gunner2_defender_mb_rare",
+        "entity_name": "Arasaka_tank2_gunner2_defender_mb_rare",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 2157088630
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_arasaka_guard2_melee1_baton_wa",
+        "entity_name": "Dtn_arasaka_guard2_melee1_baton_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 885744295
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q000\\characters\\q000_corpo_arasaka_f_corporate.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q000_corpo_arasaka_f_corporate",
+        "entity_name": "Q000_corpo_arasaka_f_corporate",
+        "entity_entname": "q000_corpo_arasaka_f_corporate.ent",
+        "entity_id": 1716003103
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q122_parade_soldier_2_shotgun2_masamune_mah_rare",
+        "entity_name": "Q122_parade_soldier_2_shotgun2_masamune_mah_rare",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 2048335289
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q116\\characters\\q116_arasaka_netrunner.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q116_arasaka_netrunner",
+        "entity_name": "Q116_arasaka_netrunner",
+        "entity_entname": "q116_arasaka_netrunner.ent",
+        "entity_id": 596373505
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_arasaka_security1_ranged1_kenshin_ma",
+        "entity_name": "Hil_arasaka_security1_ranged1_kenshin_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2871231291
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_nest_arasaka_deployment_elite",
+        "entity_name": "Q115_nest_arasaka_deployment_elite",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 2176777850
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_lobby_arasaka_shotgunner_elite",
+        "entity_name": "Q115_lobby_arasaka_shotgunner_elite",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 3256144667
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_lobby_arasaka_rifleman_normal",
+        "entity_name": "Q115_lobby_arasaka_rifleman_normal",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 402671538
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_lobby_arasaka_rifleman_elite",
+        "entity_name": "Q115_lobby_arasaka_rifleman_elite",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 1360071410
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_lobby_arasaka_rifleman_elite_with_lift_token",
+        "entity_name": "Q115_lobby_arasaka_rifleman_elite_with_lift_token",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 3077256101
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_lobby_arasaka_ninja_mantis_elite",
+        "entity_name": "Q115_lobby_arasaka_ninja_mantis_elite",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1578356759
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_lobby_arasaka_katana_rare_wa",
+        "entity_name": "Q115_lobby_arasaka_katana_rare_wa",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1538455548
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mm.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_massive\\man_massive.rig",
+        "entity_tweak": "Character.q115_lobby_arasaka_heavy_gunner_elite",
+        "entity_name": "Q115_lobby_arasaka_heavy_gunner_elite",
+        "entity_entname": "corpo__ep1_arasaka_mm.ent",
+        "entity_id": 600833588
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_lobby_arasaka_handgunner_normal",
+        "entity_name": "Q115_lobby_arasaka_handgunner_normal",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1638694026
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q115_atrium_netrunner",
+        "entity_name": "Q115_atrium_netrunner",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 3058981905
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q115_atrium_heavy_melee_fists",
+        "entity_name": "Q115_atrium_heavy_melee_fists",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 547158089
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_security_squad_two",
+        "entity_name": "Q115_arasaka_security_squad_two",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2140940059
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_security_squad_two_reinf",
+        "entity_name": "Q115_arasaka_security_squad_two_reinf",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 1771220425
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q114\\characters\\q114_arasaka_scientist.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_arasaka_netnest_scientist_hostile_quest",
+        "entity_name": "Q114_arasaka_netnest_scientist_hostile_quest",
+        "entity_entname": "q114_arasaka_scientist.ent",
+        "entity_id": 968207706
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_arasaka_manufacturing_takedown_guard",
+        "entity_name": "Q114_arasaka_manufacturing_takedown_guard",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2673789984
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q114_arasaka_manufacturing_takedown_guard_f",
+        "entity_name": "Q114_arasaka_manufacturing_takedown_guard_f",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 3749552750
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_arasaka_manufacturing_soldier_shotgunner_rare",
+        "entity_name": "Q114_arasaka_manufacturing_soldier_shotgunner_rare",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 2739864890
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_arasaka_manufacturing_sniper_rare",
+        "entity_name": "Q114_arasaka_manufacturing_sniper_rare",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2901458193
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_arasaka_manufacturing_shotgunner",
+        "entity_name": "Q114_arasaka_manufacturing_shotgunner",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 3292203193
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q114_arasaka_manufacturing_observer",
+        "entity_name": "Q114_arasaka_manufacturing_observer",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 381249916
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q114_arasaka_manufacturing_netrunner",
+        "entity_name": "Q114_arasaka_manufacturing_netrunner",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 3711803907
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_arasaka_manufacturing_guard",
+        "entity_name": "Q114_arasaka_manufacturing_guard",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 990531084
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q113_estate_mansion_netrunner",
+        "entity_name": "Q113_estate_mansion_netrunner",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 1397481651
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_estate_mansion_guard_ninja",
+        "entity_name": "Q113_estate_mansion_guard_ninja",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1615696601
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_ceo_floor_netrunner",
+        "entity_name": "Q113_ceo_floor_netrunner",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 119366604
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_ceo_floor_handgunner",
+        "entity_name": "Q113_ceo_floor_handgunner",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 396601165
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_arasaka_jungle_terminator",
+        "entity_name": "Q113_arasaka_jungle_terminator",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1320603526
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q113_arasaka_jungle_sumo",
+        "entity_name": "Q113_arasaka_jungle_sumo",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 2336079819
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q113\\characters\\q113_arasaka_board_female.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q113_arasaka_board_female",
+        "entity_name": "Q113_arasaka_board_female",
+        "entity_entname": "q113_arasaka_board_female.ent",
+        "entity_id": 441969382
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_parade_elite_shotgunner_terminator",
+        "entity_name": "Q112_parade_elite_shotgunner_terminator",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 2728014947
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q112_parade_bodyguard_handgun",
+        "entity_name": "Q112_parade_bodyguard_handgun",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3068592603
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_parade_arasaka_guard_keycard_drop",
+        "entity_name": "Q112_parade_arasaka_guard_keycard_drop",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 3358239354
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q112_infiltration_arasaka_sumo",
+        "entity_name": "Q112_infiltration_arasaka_sumo",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3480351563
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_infiltration_arasaka_sniper",
+        "entity_name": "Q112_infiltration_arasaka_sniper",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1598665373
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_infiltration_arasaka_shotgunner2",
+        "entity_name": "Q112_infiltration_arasaka_shotgunner2",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 206195196
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_infiltration_arasaka_shotgunner",
+        "entity_name": "Q112_infiltration_arasaka_shotgunner",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 4080579807
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q112_infiltration_arasaka_LMG",
+        "entity_name": "Q112_infiltration_arasaka_LMG",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 656373247
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q112_infiltration_arasaka_guard_officer_ninja",
+        "entity_name": "Q112_infiltration_arasaka_guard_officer_ninja",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 755408989
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q112\\characters\\q112_arasaka_guard.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_corrupt_guard",
+        "entity_name": "Q112_corrupt_guard",
+        "entity_entname": "q112_arasaka_guard.ent",
+        "entity_id": 1877115169
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_arasaka_sniper_03",
+        "entity_name": "Q112_arasaka_sniper_03",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 408301699
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_arasaka_sniper_02",
+        "entity_name": "Q112_arasaka_sniper_02",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1867579413
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_arasaka_agent_shotgunner",
+        "entity_name": "Q112_arasaka_agent_shotgunner",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 922063365
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q112_arasaka_agent_rifle",
+        "entity_name": "Q112_arasaka_agent_rifle",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 2567700584
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_2020guard_shotgun2_2020tactician_ma",
+        "entity_name": "Arasaka_2020guard_shotgun2_2020tactician_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3863357226
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mm.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_massive\\man_massive.rig",
+        "entity_tweak": "Character.arasaka_base_mm",
+        "entity_name": "Arasaka_base_mm",
+        "entity_entname": "corpo__ep1_arasaka_mm.ent",
+        "entity_id": 3142799581
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_2020agent_ranged3_2020nue_ma",
+        "entity_name": "Arasaka_2020agent_ranged3_2020nue_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2484978285
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arasaka_2020agent_ranged3_2020nue_wa",
+        "entity_name": "Arasaka_2020agent_ranged3_2020nue_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 607140022
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_2020agent_shotgun2_2020tactician_ma",
+        "entity_name": "Arasaka_2020agent_shotgun2_2020tactician_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3506875158
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_smg_ma_arasaka",
+        "entity_name": "Equip_smg_ma_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2370105666
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_palm_tree_enemy01",
+        "entity_name": "Ccl_palm_tree_enemy01",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3613478577
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_arasaka_netrunner_netrunner2_yukimura_wa_rare",
+        "entity_name": "Arr_arasaka_netrunner_netrunner2_yukimura_wa_rare",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 3382566670
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_shotgun_mb_corpo",
+        "entity_name": "Crouch_precise_shoot_shotgun_mb_corpo",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 1108526759
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_ranger1_ranged2_masamune_ma",
+        "entity_name": "Arasaka_ranger1_ranged2_masamune_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1604464676
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arasaka_cyborg_franged3_shingen_wa_elite",
+        "entity_name": "Arasaka_cyborg_franged3_shingen_wa_elite",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 143666474
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_arasaka_sniper_sniper3_nekomata_ma_elite",
+        "entity_name": "Nid_arasaka_sniper_sniper3_nekomata_ma_elite",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2369340376
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_2020guard_ranged1_2020nue_ma",
+        "entity_name": "Arasaka_2020guard_ranged1_2020nue_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3833035779
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_2020agent_ranged3_2020masamune_ma",
+        "entity_name": "Arasaka_2020agent_ranged3_2020masamune_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3180757839
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_arasaka_leader_1",
+        "entity_name": "Mws_gang_retaliation_enemies_arasaka_leader_1",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 2974740529
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arasaka_agent_fmelee2rare_knife_wa_rare",
+        "entity_name": "Arasaka_agent_fmelee2rare_knife_wa_rare",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 2859371762
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_arasaka_guard2_ranged1_shingen_ma",
+        "entity_name": "Dtn_arasaka_guard2_ranged1_shingen_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1114465046
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Omaha_SemiAuto_Tech_Handgun_Base",
+        "entity_name": "Ma_corpo_Omaha_SemiAuto_Tech_Handgun_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1957956925
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arasaka_2020agent_ranged3_2020masamune_wa",
+        "entity_name": "Arasaka_2020agent_ranged3_2020masamune_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 230390164
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_assault_rifle_mb_arasaka",
+        "entity_name": "Crouch_precise_shoot_assault_rifle_mb_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 1501346590
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arasaka_ranger1_ranged2_shingen_wa",
+        "entity_name": "Arasaka_ranger1_ranged2_shingen_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 2588487767
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arasaka_2020agent_fmelee2_katana_wa",
+        "entity_name": "Arasaka_2020agent_fmelee2_katana_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 2065114979
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_security1_melee1_baton_ma",
+        "entity_name": "Arasaka_security1_melee1_baton_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3947883604
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q000\\characters\\q000_corpo_arasaka_m_corporate.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q000_corpo_arasaka_m_corporate_crowd",
+        "entity_name": "Q000_corpo_arasaka_m_corporate_crowd",
+        "entity_entname": "q000_corpo_arasaka_m_corporate.ent",
+        "entity_id": 2479218118
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q000\\characters\\q000_corpo_arasaka_m_corporate.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q000_corpo_arasaka_m_corporate_no_reactions",
+        "entity_name": "Q000_corpo_arasaka_m_corporate_no_reactions",
+        "entity_entname": "q000_corpo_arasaka_m_corporate.ent",
+        "entity_id": 2670080645
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q000\\characters\\q000_corpo_arasaka_m_corporate.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q000_corpo_arasaka_m_corporate",
+        "entity_name": "Q000_corpo_arasaka_m_corporate",
+        "entity_entname": "q000_corpo_arasaka_m_corporate.ent",
+        "entity_id": 1164551771
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q000\\characters\\q000_corpo_arasaka_security_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q000_corpo_arasaka_security_mb",
+        "entity_name": "Q000_corpo_arasaka_security_mb",
+        "entity_entname": "q000_corpo_arasaka_security_mb.ent",
+        "entity_id": 3829067876
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_mah_test",
+        "entity_name": "Arasaka_mah_test",
+        "entity_entname": "corpo__arasaka_mah.ent",
+        "entity_id": 2339545370
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_ninja_fmelee3_katana_ma_elite",
+        "entity_name": "Arasaka_ninja_fmelee3_katana_ma_elite",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1520668514
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_ajax_ma_corpo",
+        "entity_name": "Equip_ajax_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3742166618
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_dual_shotgun_ma_corpo",
+        "entity_name": "Crouch_precise_shoot_dual_shotgun_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 985610327
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\citizen\\citizen__ep1_arasaka_corpo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.CorpoWomanArasakaDriver",
+        "entity_name": "CorpoWomanArasakaDriver",
+        "entity_entname": "citizen__ep1_arasaka_corpo_wa.ent",
+        "entity_id": 726212581
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q000\\characters\\q000_corpo_arasaka_m_corporate_crowd.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q000_corpo_arasaka_m_corporate_static_crowd",
+        "entity_name": "Q000_corpo_arasaka_m_corporate_static_crowd",
+        "entity_entname": "q000_corpo_arasaka_m_corporate_crowd.ent",
+        "entity_id": 2078614138
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_dual_shotgun_ma_corpo",
+        "entity_name": "Reload_dual_shotgun_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 781590974
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q000\\characters\\q000_corpo_arasaka_security.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q000_corpo_arasaka_security",
+        "entity_name": "Q000_corpo_arasaka_security",
+        "entity_entname": "q000_corpo_arasaka_security.ent",
+        "entity_id": 885253904
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q108_arasaka_m_rifle",
+        "entity_name": "Q108_arasaka_m_rifle",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 320610949
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q108_arasaka_m_melee",
+        "entity_name": "Q108_arasaka_m_melee",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1731175409
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q108_arasaka_lift_agent_wa",
+        "entity_name": "Q108_arasaka_lift_agent_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 2208931807
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q005_arasaka_kill_squad_4_officer",
+        "entity_name": "Q005_arasaka_kill_squad_4_officer",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3665160007
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.NPC_Katana",
+        "entity_name": "NPC_Katana",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 1521877908
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_precision_rifle_ma_corpo",
+        "entity_name": "Crouch_precise_shoot_precision_rifle_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 263805828
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_ninja_fmelee3_mantis_ma_elite",
+        "entity_name": "Arasaka_ninja_fmelee3_mantis_ma_elite",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1759135190
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_security1_ranged1_kenshin_ma",
+        "entity_name": "Arasaka_security1_ranged1_kenshin_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1832279575
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_arasaka_ranger1_ranged2_masamune_ma",
+        "entity_name": "Arr_arasaka_ranger1_ranged2_masamune_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1419211939
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_lobby_arasaka_shotgunner_large",
+        "entity_name": "Q115_lobby_arasaka_shotgunner_large",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 1290953908
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_lobby_arasaka_shotgunner_normal",
+        "entity_name": "Q115_lobby_arasaka_shotgunner_normal",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 3242530999
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_lobby_doorman_rifle_trash",
+        "entity_name": "Q115_lobby_doorman_rifle_trash",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2743437134
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_nest_arasaka_deployment_recruit",
+        "entity_name": "Q115_nest_arasaka_deployment_recruit",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3687886696
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_nest_arasaka_deployment_squad",
+        "entity_name": "Q115_nest_arasaka_deployment_squad",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2581831564
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mm.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_massive\\man_massive.rig",
+        "entity_tweak": "Character.q115_solo_nest_arasaka_fists_massive",
+        "entity_name": "Q115_solo_nest_arasaka_fists_massive",
+        "entity_entname": "corpo__ep1_arasaka_mm.ent",
+        "entity_id": 1116569001
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mm.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_massive\\man_massive.rig",
+        "entity_tweak": "Character.q115_solo_nest_arasaka_heavy_gunner_elite",
+        "entity_name": "Q115_solo_nest_arasaka_heavy_gunner_elite",
+        "entity_entname": "corpo__ep1_arasaka_mm.ent",
+        "entity_id": 4069019917
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_arasaka_ranger1_ranged2_shingen_ma",
+        "entity_name": "Nid_arasaka_ranger1_ranged2_shingen_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2847682810
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_solo_nest_arasaka_sniper",
+        "entity_name": "Q115_solo_nest_arasaka_sniper",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1199468802
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_soldier2_shotgun2_tactician_mah_rare",
+        "entity_name": "Arasaka_soldier2_shotgun2_tactician_mah_rare",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 1654954918
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_deployment_squad",
+        "entity_name": "Ccl_deployment_squad",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3444036690
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.arasaka_sumo_hmelee2_fists_mb_rare",
+        "entity_name": "Arasaka_sumo_hmelee2_fists_mb_rare",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3301255911
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mm.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_massive\\man_massive.rig",
+        "entity_tweak": "Character.arasaka_rare2_gunner3_hmg_mm_elite",
+        "entity_name": "Arasaka_rare2_gunner3_hmg_mm_elite",
+        "entity_entname": "corpo__ep1_arasaka_mm.ent",
+        "entity_id": 1605266525
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_04_guard_shotgun",
+        "entity_name": "Sts_wat_kab_04_guard_shotgun",
+        "entity_entname": "corpo__arasaka_ma.ent",
+        "entity_id": 2479633724
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\citizen\\citizen__arasaka_corpo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_04_chinese_stranger",
+        "entity_name": "Sts_wat_kab_04_chinese_stranger",
+        "entity_entname": "citizen__arasaka_corpo_ma.ent",
+        "entity_id": 3806326809
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\citizen\\citizen__arasaka_corpo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_04_chinese_bodyguard",
+        "entity_name": "Sts_wat_kab_04_chinese_bodyguard",
+        "entity_entname": "citizen__arasaka_corpo_ma.ent",
+        "entity_id": 2109487624
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_04_buckup",
+        "entity_name": "Sts_wat_kab_04_buckup",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1939490688
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_04_buckup_shard",
+        "entity_name": "Sts_wat_kab_04_buckup_shard",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1645217304
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q101\\characters\\q101_arasaka_soulkilling_agents.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q101_arasaka_soulkilling_agents",
+        "entity_name": "Q101_arasaka_soulkilling_agents",
+        "entity_entname": "q101_arasaka_soulkilling_agents.ent",
+        "entity_id": 2907142391
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Palica_Dual_Smart_Shotgun_Base",
+        "entity_name": "Ma_corpo_Palica_Dual_Smart_Shotgun_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2903922227
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q101\\characters\\q101_arasaka_scientist_male.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q101_arasaka_scientist_male",
+        "entity_name": "Q101_arasaka_scientist_male",
+        "entity_entname": "q101_arasaka_scientist_male.ent",
+        "entity_id": 772920428
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_handgun_ma_corpo",
+        "entity_name": "Precise_shoot_handgun_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 472425864
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_dual_shotgun_ma_corpo",
+        "entity_name": "Precise_shoot_dual_shotgun_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1041412814
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.precise_shoot_assault_rifle_mb_arasaka",
+        "entity_name": "Precise_shoot_assault_rifle_mb_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3266680817
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_arasaka_leader_2",
+        "entity_name": "Mws_gang_retaliation_enemies_arasaka_leader_2",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 675783051
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_arasaka_sidekick_2",
+        "entity_name": "Mws_gang_retaliation_enemies_arasaka_sidekick_2",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3878109497
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q108_arasaka_2020agent_ranged3_2020masamune_ma",
+        "entity_name": "Q108_arasaka_2020agent_ranged3_2020masamune_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1897592291
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q108_arasaka_2020agent_shotgun2_2020tactician_ma",
+        "entity_name": "Q108_arasaka_2020agent_shotgun2_2020tactician_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1792163958
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_arasaka_guard2_melee1_baton_ma",
+        "entity_name": "Dtn_arasaka_guard2_melee1_baton_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2229704828
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_assault_rifle_ma_arasaka",
+        "entity_name": "Crouch_precise_shoot_assault_rifle_ma_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1626441691
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_sniper_sniper3_ashura_ma_elite",
+        "entity_name": "Arasaka_sniper_sniper3_ashura_ma_elite",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1363682150
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_cyborg_grenadier3_yukimura_ma_elite",
+        "entity_name": "Arasaka_cyborg_grenadier3_yukimura_ma_elite",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1500458604
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q108_arasaka_guard2020_melee1_baton_ma",
+        "entity_name": "Q108_arasaka_guard2020_melee1_baton_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1860548204
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q108_arasaka_lift_agent_ma",
+        "entity_name": "Q108_arasaka_lift_agent_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 864314628
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.arasaka_mb_test",
+        "entity_name": "Arasaka_mb_test",
+        "entity_entname": "corpo__arasaka_mb.ent",
+        "entity_id": 3201128252
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q101_arasaka_agent_shotgun",
+        "entity_name": "Q101_arasaka_agent_shotgun",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 359524052
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q113_estate_mansion_guard_sniper",
+        "entity_name": "Q113_estate_mansion_guard_sniper",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1980026417
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mm.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_massive\\man_massive.rig",
+        "entity_tweak": "Character.q113_smasher_arasaka_masamune",
+        "entity_name": "Q113_smasher_arasaka_masamune",
+        "entity_entname": "corpo__ep1_arasaka_mm.ent",
+        "entity_id": 1212869651
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Preset_Crusher_Default",
+        "entity_name": "Ma_corpo_Preset_Crusher_Default",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 949615843
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\citizen\\citizen__ep1_arasaka_corpo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q306_spaceport_arasaka_f",
+        "entity_name": "Q306_spaceport_arasaka_f",
+        "entity_entname": "citizen__ep1_arasaka_corpo_wa.ent",
+        "entity_id": 1481752967
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\citizen\\citizen__ep1_arasaka_corpo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q306_spaceport_arasaka_m",
+        "entity_name": "Q306_spaceport_arasaka_m",
+        "entity_entname": "citizen__ep1_arasaka_corpo_ma.ent",
+        "entity_id": 3481475087
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arasaka_sniper_sniper3_nekomata_ma_elite",
+        "entity_name": "Arasaka_sniper_sniper3_nekomata_ma_elite",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1381355863
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q005_arasaka_kill_squad_4_security_guard_handgun",
+        "entity_name": "Q005_arasaka_kill_squad_4_security_guard_handgun",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1773280404
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q005_arasaka_kill_squad_4_security_guard_rifle",
+        "entity_name": "Q005_arasaka_kill_squad_4_security_guard_rifle",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 1998042550
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q005_arasaka_kill_squad_4_security_guard_smg",
+        "entity_name": "Q005_arasaka_kill_squad_4_security_guard_smg",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 672187196
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q005_arasaka_kill_squad_4_security_saburos",
+        "entity_name": "Q005_arasaka_kill_squad_4_security_saburos",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3219406419
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q005_arasaka_kill_squad_4_security",
+        "entity_name": "Q005_arasaka_kill_squad_4_security",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1266498576
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q005_arasaka_kill_squad_4",
+        "entity_name": "Q005_arasaka_kill_squad_4",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2625838455
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q005_arasaka_kill_squad_lobby",
+        "entity_name": "Q005_arasaka_kill_squad_lobby",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 1948442449
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q005_arasaka_kill_squad_netrunner",
+        "entity_name": "Q005_arasaka_kill_squad_netrunner",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1725279515
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q115_arasaka_atrium_guard_lockdown",
+        "entity_name": "Q115_arasaka_atrium_guard_lockdown",
+        "entity_entname": "corpo__ep1_arasaka_mah.ent",
+        "entity_id": 1598731030
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q005_arasaka_kill_squad_suitcase",
+        "entity_name": "Q005_arasaka_kill_squad_suitcase",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3990281789
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mm.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_massive\\man_massive.rig",
+        "entity_tweak": "Character.q115_arasaka_atrium_heavy_hmg",
+        "entity_name": "Q115_arasaka_atrium_heavy_hmg",
+        "entity_entname": "corpo__ep1_arasaka_mm.ent",
+        "entity_id": 1000722182
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q005\\characters\\q005_arasaka_netrunner.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q005_arasaka_netrunner",
+        "entity_name": "Q005_arasaka_netrunner",
+        "entity_entname": "q005_arasaka_netrunner.ent",
+        "entity_id": 2053164656
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Nue_SemiAuto_Power_Handgun_Base",
+        "entity_name": "Ma_corpo_Nue_SemiAuto_Power_Handgun_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 636282527
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Nekomata_SemiAuto_Tech_Sniper_Base",
+        "entity_name": "Ma_corpo_Nekomata_SemiAuto_Tech_Sniper_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3939896012
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Masamune_Burst_Power_Rifle_Base",
+        "entity_name": "Ma_corpo_Masamune_Burst_Power_Rifle_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2454342494
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Lexington_SemiAuto_Power_Handgun_Base",
+        "entity_name": "Ma_corpo_Lexington_SemiAuto_Power_Handgun_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 571026267
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Lexington_Auto_Power_Handgun_Base",
+        "entity_name": "Ma_corpo_Lexington_Auto_Power_Handgun_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 869343442
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Kenshin_SemiAuto_Tech_Handgun_Base",
+        "entity_name": "Ma_corpo_Kenshin_SemiAuto_Tech_Handgun_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2337153022
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_palm_tree_enemy02",
+        "entity_name": "Ccl_palm_tree_enemy02",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1315446539
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Igla_Dual_Power_Shotgun_Base",
+        "entity_name": "Ma_corpo_Igla_Dual_Power_Shotgun_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2939708823
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_palm_tree_enemy03",
+        "entity_name": "Ccl_palm_tree_enemy03",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 963587997
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Dian_Auto_Smart_Rifle_Base",
+        "entity_name": "Ma_corpo_Dian_Auto_Smart_Rifle_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1397691216
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_assault_rifle_ma_arasaka",
+        "entity_name": "Equip_assault_rifle_ma_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3339710983
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.arr_arasaka_bodyguard_ranged3_masamune_mb_rare",
+        "entity_name": "Arr_arasaka_bodyguard_ranged3_masamune_mb_rare",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 723821814
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.arasaka_sumo_hmelee2_hammer_mb_rare",
+        "entity_name": "Arasaka_sumo_hmelee2_hammer_mb_rare",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3224282192
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q000\\characters\\q000_corpo_arasaka_f_corporate.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q000_corpo_arasaka_f_corporate_crowd",
+        "entity_name": "Q000_corpo_arasaka_f_corporate_crowd",
+        "entity_entname": "q000_corpo_arasaka_f_corporate.ent",
+        "entity_id": 642763228
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\citizen\\citizen__arasaka_corpo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_hey_spr_02_corpo_arasaka",
+        "entity_name": "Ma_hey_spr_02_corpo_arasaka",
+        "entity_entname": "citizen__arasaka_corpo_ma.ent",
+        "entity_id": 1538182464
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_arasaka_sidekick_1",
+        "entity_name": "Mws_gang_retaliation_enemies_arasaka_sidekick_1",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2116948099
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_arasaka_fast_sniper_long_range_m_medium",
+        "entity_name": "Nok_arasaka_fast_sniper_long_range_m_medium",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1464400038
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_arasaka_guard2_ranged1_kenshin_ma",
+        "entity_name": "Nok_arasaka_guard2_ranged1_kenshin_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 184780665
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_arasaka_netrunner_netrunner2_yukimura_ma_rare",
+        "entity_name": "Nok_arasaka_netrunner_netrunner2_yukimura_ma_rare",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2495396862
+    },
+    {
+        "entity_entpath": "base\\quest\\tertiary_characters\\arasaka_coworker.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.Arasaka_Coworker",
+        "entity_name": "Arasaka_Coworker",
+        "entity_entname": "arasaka_coworker.ent",
+        "entity_id": 2837560226
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_arasaka_ranger1_ranged2_shingen_ma",
+        "entity_name": "Arr_arasaka_ranger1_ranged2_shingen_ma",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3305073731
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_ajax_ma_corpo",
+        "entity_name": "Crouch_precise_shoot_ajax_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 189656156
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Preset_Shingen_Military",
+        "entity_name": "Ma_corpo_Preset_Shingen_Military",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 1492782934
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Preset_Unity_Default",
+        "entity_name": "Ma_corpo_Preset_Unity_Default",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 758142274
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Pulsar_Auto_Power_SMG_Base",
+        "entity_name": "Ma_corpo_Pulsar_Auto_Power_SMG_Base",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3873940205
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_nid_20_arasaka",
+        "entity_name": "Ma_wat_nid_20_arasaka",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 3747116329
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_handgun_ma_corpo",
+        "entity_name": "Equip_handgun_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2803693112
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.equip_hmg_mb_corpo",
+        "entity_name": "Equip_hmg_mb_corpo",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 3059789445
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cpz_arasaka_bodyguard_ranged3_kenshin_mb_rare",
+        "entity_name": "Cpz_arasaka_bodyguard_ranged3_kenshin_mb_rare",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 1260140358
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arasaka_guard2_melee1_baton_wa",
+        "entity_name": "Arasaka_guard2_melee1_baton_wa",
+        "entity_entname": "corpo__ep1_arasaka_wa.ent",
+        "entity_id": 598234908
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q000\\characters\\q000_corpo_arasaka_f_corporate_crowd.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q000_corpo_arasaka_f_corporate_static_crowd",
+        "entity_name": "Q000_corpo_arasaka_f_corporate_static_crowd",
+        "entity_entname": "q000_corpo_arasaka_f_corporate_crowd.ent",
+        "entity_id": 4059477996
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q000\\characters\\q000_corpo_arasaka_m_corporate.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q000_corpo_arasaka_m_cleaner",
+        "entity_name": "Q000_corpo_arasaka_m_cleaner",
+        "entity_entname": "q000_corpo_arasaka_m_corporate.ent",
+        "entity_id": 3320754589
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\prologue\\q000\\characters\\q000_corpo_arasaka_security.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q000_nomad_arasaka_agent",
+        "entity_name": "Q000_nomad_arasaka_agent",
+        "entity_entname": "q000_corpo_arasaka_security.ent",
+        "entity_id": 252247417
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.precise_shoot_hmg_mb_corpo",
+        "entity_name": "Precise_shoot_hmg_mb_corpo",
+        "entity_entname": "corpo__ep1_arasaka_mb.ent",
+        "entity_id": 638635932
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_arasaka_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_precision_rifle_ma_corpo",
+        "entity_name": "Precise_shoot_precision_rifle_ma_corpo",
+        "entity_entname": "corpo__ep1_arasaka_ma.ent",
+        "entity_id": 2490398571
+    }
+]

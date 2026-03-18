@@ -1,0 +1,506 @@
+[
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q304_cab_driver",
+        "entity_name": "Q304_cab_driver",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 1491154535
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.afterlife_rare_fshotgun3_zhuo_mb_elite",
+        "entity_name": "Afterlife_rare_fshotgun3_zhuo_mb_elite",
+        "entity_entname": "gang__ep1_cyberpunk_mb.ent",
+        "entity_id": 3411629022
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_rare_franged2_ajax_wa_rare",
+        "entity_name": "Afterlife_rare_franged2_ajax_wa_rare",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 800989350
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_rare_fmelee3_mantis_wa_elite",
+        "entity_name": "Afterlife_rare_fmelee3_mantis_wa_elite",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 4059361679
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_netrunner_netrunner2_yukimura_wa_rare",
+        "entity_name": "Afterlife_netrunner_netrunner2_yukimura_wa_rare",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 223590459
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_netrunner_netrunner2_yukimura_ma_rare",
+        "entity_name": "Afterlife_netrunner_netrunner2_yukimura_ma_rare",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 3472718779
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_strong_short_range_w_medium",
+        "entity_name": "Afterlife_merc_strong_short_range_w_medium",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 4262317966
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_netrunner_m_medium",
+        "entity_name": "Afterlife_merc_netrunner_m_medium",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 3555179920
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.afterlife_merc_fast_melee_m_hard",
+        "entity_name": "Afterlife_merc_fast_melee_m_hard",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 141453148
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_fast_melee_w_hard",
+        "entity_name": "Afterlife_merc_fast_melee_w_hard",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 2854438561
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.afterlife_merc_generic_medium_range_m_easy",
+        "entity_name": "Afterlife_merc_generic_medium_range_m_easy",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 315794396
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.afterlife_merc_strong_short_range_m_easy",
+        "entity_name": "Afterlife_merc_strong_short_range_m_easy",
+        "entity_entname": "gang__ep1_cyberpunk_mb.ent",
+        "entity_id": 528842447
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.afterlife_rare_fmelee3_katana_ma_elite",
+        "entity_name": "Afterlife_rare_fmelee3_katana_ma_elite",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 787879640
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_strong_short_range_w_easy",
+        "entity_name": "Afterlife_merc_strong_short_range_w_easy",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 3184025394
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_netrunner_w_medium",
+        "entity_name": "Afterlife_merc_netrunner_w_medium",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 1050447987
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_base_wa",
+        "entity_name": "Afterlife_base_wa",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 2221445152
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ma_wbr_nok_05_netrunner",
+        "entity_name": "Ma_wbr_nok_05_netrunner",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 969286042
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_strong_short_range_w_hard",
+        "entity_name": "Afterlife_merc_strong_short_range_w_hard",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 901765751
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ShootingRangeMercFemale",
+        "entity_name": "ShootingRangeMercFemale",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 795599185
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_netrunner_w_hard",
+        "entity_name": "Afterlife_merc_netrunner_w_hard",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 2998220749
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_netrunner_w_easy",
+        "entity_name": "Afterlife_merc_netrunner_w_easy",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 985838216
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq011_contestant_02",
+        "entity_name": "Mq011_contestant_02",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 3039970363
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.prevention_bountyhunter_netrunner_wa",
+        "entity_name": "Prevention_bountyhunter_netrunner_wa",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 2352931179
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.prevention_bountyhunter_rifle_ma",
+        "entity_name": "Prevention_bountyhunter_rifle_ma",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 903280365
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.prevention_bountyhunter_rifle_wa",
+        "entity_name": "Prevention_bountyhunter_rifle_wa",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 2247822390
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.prevention_bountyhunter_shotgun_mb",
+        "entity_name": "Prevention_bountyhunter_shotgun_mb",
+        "entity_entname": "gang__ep1_cyberpunk_mb.ent",
+        "entity_id": 3288772378
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.prevention_bountyhunter_smg_ma",
+        "entity_name": "Prevention_bountyhunter_smg_ma",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 2490182773
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.afterlife_merc_fast_melee_m_medium",
+        "entity_name": "Afterlife_merc_fast_melee_m_medium",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 1034797063
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ep1_stadium_merc_non_reaction_ma",
+        "entity_name": "Ep1_stadium_merc_non_reaction_ma",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 3581714876
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ep1_stadium_merc_non_reaction_wa",
+        "entity_name": "Ep1_stadium_merc_non_reaction_wa",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 1699830631
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_pac_cvi_13_afterlife_merc_generic_medium_range_m_medium",
+        "entity_name": "Ma_pac_cvi_13_afterlife_merc_generic_medium_range_m_medium",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 3601436010
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_rare_franged2_overture_wa_rare",
+        "entity_name": "Afterlife_rare_franged2_overture_wa_rare",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 1148040997
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_06_mercs_ma",
+        "entity_name": "Sts_ep1_06_mercs_ma",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 2641413287
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_ep1_06_mercs_mb",
+        "entity_name": "Sts_ep1_06_mercs_mb",
+        "entity_entname": "gang__ep1_cyberpunk_mb.ent",
+        "entity_id": 75076893
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_ep1_06_mercs_wa",
+        "entity_name": "Sts_ep1_06_mercs_wa",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 761085564
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_generic_medium_range_friendly",
+        "entity_name": "Afterlife_merc_generic_medium_range_friendly",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 81070223
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wst_ep1_09_ambush_mercenary",
+        "entity_name": "Wst_ep1_09_ambush_mercenary",
+        "entity_entname": "gang__ep1_cyberpunk_mb.ent",
+        "entity_id": 1426821330
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wst_ep1_09_ambush_leader",
+        "entity_name": "Wst_ep1_09_ambush_leader",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 1819748628
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_fast_melee_w_medium",
+        "entity_name": "Afterlife_merc_fast_melee_w_medium",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 3503746532
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_netrunner_m_hard",
+        "entity_name": "Afterlife_merc_netrunner_m_hard",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 284694064
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_rare_franged2_saratoga_wa_rare",
+        "entity_name": "Afterlife_rare_franged2_saratoga_wa_rare",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 9113969
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.afterlife_merc_strong_short_range_m_medium",
+        "entity_name": "Afterlife_merc_strong_short_range_m_medium",
+        "entity_entname": "gang__ep1_cyberpunk_mb.ent",
+        "entity_id": 326558317
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.afterlife_base_ma",
+        "entity_name": "Afterlife_base_ma",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 876964603
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_fast_melee_w_easy",
+        "entity_name": "Afterlife_merc_fast_melee_w_easy",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 575980516
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ShootingRangeMercMale",
+        "entity_name": "ShootingRangeMercMale",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 3983406080
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_pac_cvi_13_afterlife_rare_fmelee3_katana_ma_elite",
+        "entity_name": "Ma_pac_cvi_13_afterlife_rare_fmelee3_katana_ma_elite",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 2658736171
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.afterlife_merc_generic_medium_range_m_medium",
+        "entity_name": "Afterlife_merc_generic_medium_range_m_medium",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 2331705537
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.afterlife_merc_generic_medium_range_m_hard",
+        "entity_name": "Afterlife_merc_generic_medium_range_m_hard",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 2594514585
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_generic_medium_range_w_hard",
+        "entity_name": "Afterlife_merc_generic_medium_range_w_hard",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 954730340
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq011_contestant_05",
+        "entity_name": "Mq011_contestant_05",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 727110040
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.afterlife_merc_fast_melee_m_easy",
+        "entity_name": "Afterlife_merc_fast_melee_m_easy",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 2149179929
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.afterlife_rare_fmelee3_mantis_ma_elite",
+        "entity_name": "Afterlife_rare_fmelee3_mantis_ma_elite",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 479190124
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.afterlife_rare_sniper3_ashura_ma_elite",
+        "entity_name": "Afterlife_rare_sniper3_ashura_ma_elite",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 590979477
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.afterlife_rare_franged2_saratoga_ma_rare",
+        "entity_name": "Afterlife_rare_franged2_saratoga_ma_rare",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 3274035953
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq011_contestant_03",
+        "entity_name": "Mq011_contestant_03",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 3258283181
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.afterlife_base_mb",
+        "entity_name": "Afterlife_base_mb",
+        "entity_entname": "gang__ep1_cyberpunk_mb.ent",
+        "entity_id": 2907454273
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_generic_medium_range_w_easy",
+        "entity_name": "Afterlife_merc_generic_medium_range_w_easy",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 2963243553
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_rare_fmelee3_katana_wa_elite",
+        "entity_name": "Afterlife_rare_fmelee3_katana_wa_elite",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 3280812859
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.afterlife_rare_gunner3_hmg_mb_elite",
+        "entity_name": "Afterlife_rare_gunner3_hmg_mb_elite",
+        "entity_entname": "gang__ep1_cyberpunk_mb.ent",
+        "entity_id": 2289521830
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.afterlife_merc_strong_short_range_m_hard",
+        "entity_name": "Afterlife_merc_strong_short_range_m_hard",
+        "entity_entname": "gang__ep1_cyberpunk_mb.ent",
+        "entity_id": 2549283722
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.afterlife_rare_franged2_ajax_ma_rare",
+        "entity_name": "Afterlife_rare_franged2_ajax_ma_rare",
+        "entity_entname": "gang__ep1_cyberpunk_ma.ent",
+        "entity_id": 3960529702
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_netrunner_m_easy",
+        "entity_name": "Afterlife_merc_netrunner_m_easy",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 2559546229
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_cyberpunk_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.afterlife_merc_generic_medium_range_w_medium",
+        "entity_name": "Afterlife_merc_generic_medium_range_w_medium",
+        "entity_entname": "gang__ep1_cyberpunk_wa.ent",
+        "entity_id": 1736453410
+    }
+]

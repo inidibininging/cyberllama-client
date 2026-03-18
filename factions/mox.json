@@ -1,0 +1,114 @@
+[
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_mox_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq056_pacifica_race_lizzie_female_racer",
+        "entity_name": "Mq056_pacifica_race_lizzie_female_racer",
+        "entity_entname": "gang__ep1_mox_wa.ent",
+        "entity_id": 2164818385
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_mox_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_wbr_04_the_mox_elite3_fmelee3_mantis_wa_elite",
+        "entity_name": "Mws_wbr_04_the_mox_elite3_fmelee3_mantis_wa_elite",
+        "entity_entname": "gang__ep1_mox_wa.ent",
+        "entity_id": 4142778451
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_mox_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.the_mox_1_ranged1_lexington_wa",
+        "entity_name": "The_mox_1_ranged1_lexington_wa",
+        "entity_entname": "gang__ep1_mox_wa.ent",
+        "entity_id": 3026978039
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_mox_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.the_mox_1_ranged1_lexington_wa_chat",
+        "entity_name": "The_mox_1_ranged1_lexington_wa_chat",
+        "entity_entname": "gang__ep1_mox_wa.ent",
+        "entity_id": 2360000595
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_mox_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_01_lizzie",
+        "entity_name": "Sts_wat_nid_01_lizzie",
+        "entity_entname": "gang__ep1_mox_wa.ent",
+        "entity_id": 3970512221
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_mox_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq024_pacifica_race_lizzie_female_racer",
+        "entity_name": "Sq024_pacifica_race_lizzie_female_racer",
+        "entity_entname": "gang__ep1_mox_wa.ent",
+        "entity_id": 3487517763
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_mox_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.the_mox_elite3_fmelee3_mantis_wa_elite",
+        "entity_name": "The_mox_elite3_fmelee3_mantis_wa_elite",
+        "entity_entname": "gang__ep1_mox_wa.ent",
+        "entity_id": 2551056536
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_mox_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.the_mox_elite2_fmelee2_machete_wa_rare",
+        "entity_name": "The_mox_elite2_fmelee2_machete_wa_rare",
+        "entity_entname": "gang__ep1_mox_wa.ent",
+        "entity_id": 3023540315
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_mox_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.the_mox_elite2_fmelee2_knife_wa_rare",
+        "entity_name": "The_mox_elite2_fmelee2_knife_wa_rare",
+        "entity_entname": "gang__ep1_mox_wa.ent",
+        "entity_id": 2530477999
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_mox_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.the_mox_base_wa",
+        "entity_name": "The_mox_base_wa",
+        "entity_entname": "gang__ep1_mox_wa.ent",
+        "entity_id": 532159334
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_mox_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.the_mox_1_ranged1_pulsar_wa",
+        "entity_name": "The_mox_1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_mox_wa.ent",
+        "entity_id": 3480419425
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_mox_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_the_mox_1_ranged1_lexington_wa",
+        "entity_name": "Kab_the_mox_1_ranged1_lexington_wa",
+        "entity_entname": "gang__ep1_mox_wa.ent",
+        "entity_id": 93255628
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_mox_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.the_mox_1_melee2_baseball_wa",
+        "entity_name": "The_mox_1_melee2_baseball_wa",
+        "entity_entname": "gang__ep1_mox_wa.ent",
+        "entity_id": 2949989555
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_mox_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_the_mox_1_ranged1_pulsar_wa",
+        "entity_name": "Kab_the_mox_1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_mox_wa.ent",
+        "entity_id": 2848218728
+    }
+]

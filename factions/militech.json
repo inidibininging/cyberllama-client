@@ -1,0 +1,1186 @@
+[
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.militech_soldier3_shotgun3_crusher_mah_elite",
+        "entity_name": "Militech_soldier3_shotgun3_crusher_mah_elite",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 2624259604
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.militech_enforcer3_gunner3_HMG_mb_elite",
+        "entity_name": "Militech_enforcer3_gunner3_HMG_mb_elite",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 3212931599
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_militech_ranger1_ranged1_saratoga_ma",
+        "entity_name": "Cpz_militech_ranger1_ranged1_saratoga_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 213539777
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_militech_ranger2_ranged2_omaha_ma",
+        "entity_name": "Bls_se_militech_ranger2_ranged2_omaha_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3514662320
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_palm_tree_enemySmart",
+        "entity_name": "Ccl_palm_tree_enemySmart",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 867159142
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.mq003_militech_intercept_big",
+        "entity_name": "Mq003_militech_intercept_big",
+        "entity_entname": "corpo__militech_mb.ent",
+        "entity_id": 3084776324
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.militech_enforcer2_shotgun2_tactician_mah_rare",
+        "entity_name": "Militech_enforcer2_shotgun2_tactician_mah_rare",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 2492022640
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_militech_fast_elite_medium_range_m_medium",
+        "entity_name": "Cpz_militech_fast_elite_medium_range_m_medium",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 3077788332
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_cct_dtn_05_enemy_security",
+        "entity_name": "Sts_cct_dtn_05_enemy_security",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3491041608
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_cct_dtn_05_enemy_security_smg",
+        "entity_name": "Sts_cct_dtn_05_enemy_security_smg",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 356154021
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_cct_dtn_05_enemy_security_shotgun",
+        "entity_name": "Sts_cct_dtn_05_enemy_security_shotgun",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 2077823183
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_cct_dtn_05_enemy_security_officer",
+        "entity_name": "Sts_cct_dtn_05_enemy_security_officer",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 386174196
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_cct_cpz_01_enemy_security",
+        "entity_name": "Sts_cct_cpz_01_enemy_security",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3640919590
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_cct_cpz_01_enemy_security_shotgun",
+        "entity_name": "Sts_cct_cpz_01_enemy_security_shotgun",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 3646665545
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_cct_cpz_01_enemy_security_omaha_hg",
+        "entity_name": "Sts_cct_cpz_01_enemy_security_omaha_hg",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2932904621
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_cct_cpz_01_enemy_security_officer",
+        "entity_name": "Sts_cct_cpz_01_enemy_security_officer",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3045470066
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_cct_cpz_01_enemy_security_ajax",
+        "entity_name": "Sts_cct_cpz_01_enemy_security_ajax",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2761589133
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_101_miltech_security",
+        "entity_name": "Sts_bls_ina_101_miltech_security",
+        "entity_entname": "corpo__militech_ma.ent",
+        "entity_id": 62691483
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_101_arden_bentzen",
+        "entity_name": "Sts_bls_ina_101_arden_bentzen",
+        "entity_entname": "corpo__militech_ma.ent",
+        "entity_id": 4136592964
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_bls_ina_05_miltech_tech_grenadier2_omaha_ma",
+        "entity_name": "Sts_bls_ina_05_miltech_tech_grenadier2_omaha_ma",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 1480149773
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_05_miltech_sniper",
+        "entity_name": "Sts_bls_ina_05_miltech_sniper",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 650136102
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_05_miltech_ranger2_ma",
+        "entity_name": "Sts_bls_ina_05_miltech_ranger2_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2399430510
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_bls_ina_05_militech_strongarms_hmelee3_fists_mb_elite",
+        "entity_name": "Sts_bls_ina_05_militech_strongarms_hmelee3_fists_mb_elite",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 1382669674
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_meat_factory_militech_ranger1_ranged1_saratoga_ma",
+        "entity_name": "Q003_meat_factory_militech_ranger1_ranged1_saratoga_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2899819840
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.militech_base_mah",
+        "entity_name": "Militech_base_mah",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 387064658
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.militech_base_mb",
+        "entity_name": "Militech_base_mb",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 872296554
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_militech_ranger1_ranged1_saratoga_ma",
+        "entity_name": "Dtn_militech_ranger1_ranged1_saratoga_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 4191194709
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_militech_tech_franged2_omaha_ma_rare",
+        "entity_name": "Dtn_militech_tech_franged2_omaha_ma_rare",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3803009936
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_militech_alfa_beta_smg",
+        "entity_name": "Q114_militech_alfa_beta_smg",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2465027377
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_militech_canyon_guard_rifle",
+        "entity_name": "Q114_militech_canyon_guard_rifle",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1465008305
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q114_militech_delta_gamma_HMG",
+        "entity_name": "Q114_militech_delta_gamma_HMG",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 39992637
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_militech_delta_gamma_rifle",
+        "entity_name": "Q114_militech_delta_gamma_rifle",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2055672279
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_militech_delta_gamma_shotgun",
+        "entity_name": "Q114_militech_delta_gamma_shotgun",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 3946892224
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q114_militech_guard_officer",
+        "entity_name": "Q114_militech_guard_officer",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 3231391850
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_militech_response_officer",
+        "entity_name": "Q114_militech_response_officer",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1855592812
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_militech_ranger2_ranged2_ajax_ma",
+        "entity_name": "Gle_militech_ranger2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 36230012
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.hil_militech_enforcer3_gunner3_HMG_mb_elite",
+        "entity_name": "Hil_militech_enforcer3_gunner3_HMG_mb_elite",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 3617428212
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_militech_ranger1_ranged1_saratoga_ma",
+        "entity_name": "Hil_militech_ranger1_ranged1_saratoga_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 385051169
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_militech_ranger2_ranged2_ajax_ma",
+        "entity_name": "Hil_militech_ranger2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3000884118
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_militech_ranger2_ranged2_omaha_ma",
+        "entity_name": "Hil_militech_ranger2_ranged2_omaha_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3658096567
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_militech_recon_sniper2_achilles_ma_rare",
+        "entity_name": "Hil_militech_recon_sniper2_achilles_ma_rare",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 985772401
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_militech_soldier3_shotgun3_crusher_mah_elite",
+        "entity_name": "Hil_militech_soldier3_shotgun3_crusher_mah_elite",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 3454574043
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_militech_tech_grenadier2_omaha_ma_rare",
+        "entity_name": "Hil_militech_tech_grenadier2_omaha_ma_rare",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 43069530
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.prevention_militech_shotgun_mah",
+        "entity_name": "Prevention_militech_shotgun_mah",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 3233481522
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_04_militech_enforcer2_shotgun2_tactician_mah_rare",
+        "entity_name": "Ina_04_militech_enforcer2_shotgun2_tactician_mah_rare",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 448840621
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ina_04_militech_strongarms_hmelee3_fists_mb_elite",
+        "entity_name": "Ina_04_militech_strongarms_hmelee3_fists_mb_elite",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 1129925881
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_militech_guard_medium_range_m_hard",
+        "entity_name": "Bls_se_militech_guard_medium_range_m_hard",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1888485504
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_militech_guard_medium_range_m_easy",
+        "entity_name": "Bls_se_militech_guard_medium_range_m_easy",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 4175922629
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__militech_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_04_militech_officer",
+        "entity_name": "Ina_04_militech_officer",
+        "entity_entname": "corpo__militech_wa.ent",
+        "entity_id": 729418579
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_garage_war_team_a_archetype2",
+        "entity_name": "Ccl_garage_war_team_a_archetype2",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 956801269
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_garage_war_team_a",
+        "entity_name": "Ccl_garage_war_team_a",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2397363878
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.pf",
+        "entity_name": "Pf",
+        "entity_entname": "corpo__militech_ma.ent",
+        "entity_id": 691711966
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_militech_shotgun3_crusher_mah_elite",
+        "entity_name": "Sa_ep1_courier_loop_enemies_militech_shotgun3_crusher_mah_elite",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 3612535442
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq003_militech_intercept_normal",
+        "entity_name": "Mq003_militech_intercept_normal",
+        "entity_entname": "corpo__militech_ma.ent",
+        "entity_id": 958843774
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.prevention_bountyhunter_smg_wa",
+        "entity_name": "Prevention_bountyhunter_smg_wa",
+        "entity_entname": "corpo__ep1_militech_wa.ent",
+        "entity_id": 608229038
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ow_prolog_roadblocks",
+        "entity_name": "Ow_prolog_roadblocks",
+        "entity_entname": "corpo__militech_ma.ent",
+        "entity_id": 2826463015
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq027_militech_escort",
+        "entity_name": "Sq027_militech_escort",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2569888708
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq027_militech_escort_officer",
+        "entity_name": "Sq027_militech_escort_officer",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3584909979
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq027_militech_escort_driver",
+        "entity_name": "Sq027_militech_escort_driver",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 2810058925
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.militech_tech_grenadier2_omaha_ma_rare",
+        "entity_name": "Militech_tech_grenadier2_omaha_ma_rare",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3284284296
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.militech_base_ma",
+        "entity_name": "Militech_base_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2868339152
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq024_sampson_gunner",
+        "entity_name": "Sq024_sampson_gunner",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3793375024
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq024_city_race_corpo_racer",
+        "entity_name": "Sq024_city_race_corpo_racer",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2941344075
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.militech_recon_sniper2_achilles_ma_rare",
+        "entity_name": "Militech_recon_sniper2_achilles_ma_rare",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1390236042
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wat_roadblock_militech_recon_sniper2_achilles_ma_rare",
+        "entity_name": "Wat_roadblock_militech_recon_sniper2_achilles_ma_rare",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1982797528
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wat_roadblock_militech_ranger2_ranged2_ajax_ma",
+        "entity_name": "Wat_roadblock_militech_ranger2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 363027322
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wat_roadblock_militech_ranger1_ranged1_saratoga_ma",
+        "entity_name": "Wat_roadblock_militech_ranger1_ranged1_saratoga_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2455891218
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_militech_enforcer2_shotgun2_tactician_mah_rare",
+        "entity_name": "Gle_militech_enforcer2_shotgun2_tactician_mah_rare",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 3137954052
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_militech_fast_elite_medium_range_m_hard",
+        "entity_name": "Bls_se_militech_fast_elite_medium_range_m_hard",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 1016803972
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.militech_ranger2_ranged2_omaha_ma",
+        "entity_name": "Militech_ranger2_ranged2_omaha_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2951901541
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.test_arch",
+        "entity_name": "Test_arch",
+        "entity_entname": "corpo__militech_ma.ent",
+        "entity_id": 1161048588
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_jpn_09_enemy",
+        "entity_name": "Sts_wbr_jpn_09_enemy",
+        "entity_entname": "corpo__militech_ma.ent",
+        "entity_id": 1105928101
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_militech_enforcer2_shotgun2_tactician_mah_rare",
+        "entity_name": "Cpz_militech_enforcer2_shotgun2_tactician_mah_rare",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 1155673112
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_militech_soldier3_shotgun3_crusher_mah_elite",
+        "entity_name": "Cpz_militech_soldier3_shotgun3_crusher_mah_elite",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 1110164187
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_04_long_hard",
+        "entity_name": "Ina_04_long_hard",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2709335922
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ina_04_med_hard",
+        "entity_name": "Ina_04_med_hard",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 215022662
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_04_militech_ranger2_ranged2_ajax_ma",
+        "entity_name": "Ina_04_militech_ranger2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1414150147
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_07_militech_rifle",
+        "entity_name": "Ina_07_militech_rifle",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 671716250
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_security_area_officer",
+        "entity_name": "Ccl_security_area_officer",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3008331811
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_militech_soldier3_shotgun3_crusher_mah_elite",
+        "entity_name": "Dtn_militech_soldier3_shotgun3_crusher_mah_elite",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 966895395
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.gle_militech_enforcer3_gunner3_HMG_mb_elite",
+        "entity_name": "Gle_militech_enforcer3_gunner3_HMG_mb_elite",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 28866679
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_militech_ranger2_ranged2_omaha_ma",
+        "entity_name": "Gle_militech_ranger2_ranged2_omaha_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2590368217
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_meat_factory_militech_ranger2_ranged2_ajax_ma",
+        "entity_name": "Q003_meat_factory_militech_ranger2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3566809999
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_05_miltech_security_saratoga_ma",
+        "entity_name": "Sts_bls_ina_05_miltech_security_saratoga_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1331801461
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_militech_rifle_01",
+        "entity_name": "Q003_militech_rifle_01",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1924325363
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_02_kurt_soldier_ma",
+        "entity_name": "Sts_ep1_02_kurt_soldier_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1305818198
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_02_kurt_sniper_ma",
+        "entity_name": "Sts_ep1_02_kurt_sniper_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2995215965
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_02_kurt_shotgun_ma",
+        "entity_name": "Sts_ep1_02_kurt_shotgun_ma",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 2160122983
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_ep1_02_kurt_HMG_ma",
+        "entity_name": "Sts_ep1_02_kurt_HMG_ma",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 2053733271
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_05_oficer",
+        "entity_name": "Sts_bls_ina_05_oficer",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 454168506
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_05_militech_soldier3_shotgun3_crusher_mah_elite",
+        "entity_name": "Sts_bls_ina_05_militech_soldier3_shotgun3_crusher_mah_elite",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 813477307
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_militech_shotgun2_tactician_mah_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_militech_shotgun2_tactician_mah_rare",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 1962389003
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_militech_ranged2_omaha_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_militech_ranged2_omaha_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 340188356
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_militech_ranged2_ajax_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_militech_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2683975649
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_militech_franged2_omaha_ma_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_militech_franged2_omaha_ma_rare",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1819197002
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_palm_tree_enemyTech",
+        "entity_name": "Ccl_palm_tree_enemyTech",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 4281008582
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.prevention_militech_sniper_ma",
+        "entity_name": "Prevention_militech_sniper_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3378246080
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.prevention_militech_smg_ma",
+        "entity_name": "Prevention_militech_smg_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 289083071
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_militech_ranger2_ranged2_ajax_ma",
+        "entity_name": "Dtn_militech_ranger2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1905406311
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_militech_ranger1_ranged1_saratoga_ma",
+        "entity_name": "Arr_militech_ranger1_ranged1_saratoga_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2737935562
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_02_enemy_security_keycard_entrance",
+        "entity_name": "Rcr_02_enemy_security_keycard_entrance",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1475478190
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_militech_recon_sniper2_achilles_ma_rare",
+        "entity_name": "Bls_se_militech_recon_sniper2_achilles_ma_rare",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1049350688
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_02_enemy_security_keycard",
+        "entity_name": "Rcr_02_enemy_security_keycard",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2154928848
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_02_enemy_security_officer",
+        "entity_name": "Rcr_02_enemy_security_officer",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2373241331
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_02_enemy_security",
+        "entity_name": "Rcr_02_enemy_security",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2852971746
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.lmg_dude_corpo",
+        "entity_name": "Lmg_dude_corpo",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 3942904037
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cpz_militech_strong_elite_short_range_m_hard",
+        "entity_name": "Cpz_militech_strong_elite_short_range_m_hard",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 1602664760
+    },
+    {
+        "entity_entpath": "ep1\\mechanical\\mech\\mch_005__militech_cerberus\\mch_005__militech_cerberus.ent",
+        "entity_entrigs": "ep1\\mechanical\\mech\\mch_005__militech_cerberus\\rig\\mch_005__militech_cerberus.rig",
+        "entity_tweak": "Character.q305_cerberus_robot_fake",
+        "entity_name": "Q305_cerberus_robot_fake",
+        "entity_entname": "mch_005__militech_cerberus.ent",
+        "entity_id": 3428909855
+    },
+    {
+        "entity_entpath": "ep1\\mechanical\\mech\\mch_004__militech_chimera__basic_01.ent",
+        "entity_entrigs": "ep1\\mechanical\\mech\\mch_004__militech_chimera\\rig\\mch_004__militech_chimera_rig.rig",
+        "entity_tweak": "Character.q302_militech_chimera",
+        "entity_name": "Q302_militech_chimera",
+        "entity_entname": "mch_004__militech_chimera__basic_01.ent",
+        "entity_id": 4134957596
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q114_militech_broadcast",
+        "entity_name": "Q114_militech_broadcast",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 1151415476
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq056_sampson_gunner",
+        "entity_name": "Mq056_sampson_gunner",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3155621466
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.militech_strongarms_hmelee3_fists_mb_elite",
+        "entity_name": "Militech_strongarms_hmelee3_fists_mb_elite",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 3518738245
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq056_city_race_corpo_racer",
+        "entity_name": "Mq056_city_race_corpo_racer",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1399889357
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq056_dominic",
+        "entity_name": "Mq056_dominic",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1291276435
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_security_area_guard",
+        "entity_name": "Ccl_security_area_guard",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 115772287
+    },
+    {
+        "entity_entpath": "ep1\\mechanical\\mech\\mch_004__militech_chimera__basic_01.ent",
+        "entity_entrigs": "ep1\\mechanical\\mech\\mch_004__militech_chimera\\rig\\mch_004__militech_chimera_rig.rig",
+        "entity_tweak": "Character.main_boss_chimera",
+        "entity_name": "Main_boss_chimera",
+        "entity_entname": "mch_004__militech_chimera__basic_01.ent",
+        "entity_id": 3393322136
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_militech_soldier3_shotgun3_crusher_mah_elite",
+        "entity_name": "Bls_se_militech_soldier3_shotgun3_crusher_mah_elite",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 4167691871
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_militech_tech_franged2_omaha_ma_rare",
+        "entity_name": "Bls_se_militech_tech_franged2_omaha_ma_rare",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2439728336
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.militech_officer_officer_omaha_ma",
+        "entity_name": "Militech_officer_officer_omaha_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2626304687
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.militech_ranger1_ranged1_lexington_ma",
+        "entity_name": "Militech_ranger1_ranged1_lexington_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3545389937
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.militech_ranger1_ranged1_saratoga_ma",
+        "entity_name": "Militech_ranger1_ranged1_saratoga_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3504781069
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.militech_ranger2_ranged2_ajax_ma",
+        "entity_name": "Militech_ranger2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 537957716
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.militech_tech_franged2_omaha_ma_rare",
+        "entity_name": "Militech_tech_franged2_omaha_ma_rare",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3415960264
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq003_militech_intercept_hard",
+        "entity_name": "Mq003_militech_intercept_hard",
+        "entity_entname": "corpo__militech_mah.ent",
+        "entity_id": 614762446
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.bls_se_militech_strongarms_hmelee3_fists_mb_elite",
+        "entity_name": "Bls_se_militech_strongarms_hmelee3_fists_mb_elite",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 2549237974
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_01_enemy_officer",
+        "entity_name": "Sts_wat_kab_01_enemy_officer",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 3937658868
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_01_enemy_medium_range_w",
+        "entity_name": "Sts_wat_kab_01_enemy_medium_range_w",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 785357950
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_01_enemy_medium_range_m",
+        "entity_name": "Sts_wat_kab_01_enemy_medium_range_m",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3551356164
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_01_enemy_medium_range_m_bouncer",
+        "entity_name": "Sts_wat_kab_01_enemy_medium_range_m_bouncer",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1013424453
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_wat_kab_01_enemy_hmg",
+        "entity_name": "Sts_wat_kab_01_enemy_hmg",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 1209561672
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.prevention_militech_HMG_mb",
+        "entity_name": "Prevention_militech_HMG_mb",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 2273060945
+    },
+    {
+        "entity_entpath": "base\\quest\\main_quests\\part1\\q101\\characters\\q101_militech_pilot.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q101_pilot",
+        "entity_name": "Q101_pilot",
+        "entity_entname": "q101_militech_pilot.ent",
+        "entity_id": 1789581577
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.bls_se_militech_enforcer3_gunner3_HMG_mb_elite",
+        "entity_name": "Bls_se_militech_enforcer3_gunner3_HMG_mb_elite",
+        "entity_entname": "corpo__ep1_militech_mb.ent",
+        "entity_id": 3554144677
+    },
+    {
+        "entity_entpath": "base\\mechanical\\mech\\mch_005__militech_exo.ent",
+        "entity_entrigs": "base\\mechanical\\mech\\mch_002__centaur\\mch_002__centaur.rig",
+        "entity_tweak": "Character.Exo_NPC_Base",
+        "entity_name": "Exo_NPC_Base",
+        "entity_entname": "mch_005__militech_exo.ent",
+        "entity_id": 1206206779
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_militech_soldier",
+        "entity_name": "Q003_militech_soldier",
+        "entity_entname": "corpo__militech_ma.ent",
+        "entity_id": 4053391767
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_militech_response_sniper",
+        "entity_name": "Q114_militech_response_sniper",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 604821514
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_mech_enemyOfficer",
+        "entity_name": "Ccl_mech_enemyOfficer",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 401620314
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_mech_enemyShotgun",
+        "entity_name": "Ccl_mech_enemyShotgun",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 2066588001
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_palm_tree_enemyOfficer",
+        "entity_name": "Ccl_palm_tree_enemyOfficer",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 2697286426
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_palm_tree_enemyShotgun",
+        "entity_name": "Ccl_palm_tree_enemyShotgun",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 3424177953
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_hey_gle_13_militech_ranger2_ranged2_ajax_ma_Elizabeth_Roider",
+        "entity_name": "Ma_hey_gle_13_militech_ranger2_ranged2_ajax_ma_Elizabeth_Roider",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 1153608721
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_militech_ranger2_ranged2_omaha_ma",
+        "entity_name": "Arr_militech_ranger2_ranged2_omaha_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 976589415
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_militech_ranger1_ranged1_saratoga_ma",
+        "entity_name": "Bls_se_militech_ranger1_ranged1_saratoga_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 2316734741
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.prevention_militech_rifle_ma",
+        "entity_name": "Prevention_militech_rifle_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 3517123995
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_militech_ranger2_ranged2_ajax_ma",
+        "entity_name": "Cpz_militech_ranger2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 302456023
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_militech_strong_elite_short_range_m_medium",
+        "entity_name": "Bls_se_militech_strong_elite_short_range_m_medium",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 2505615699
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_militech_enforcer2_shotgun2_tactician_mah_rare",
+        "entity_name": "Bls_se_militech_enforcer2_shotgun2_tactician_mah_rare",
+        "entity_entname": "corpo__ep1_militech_mah.ent",
+        "entity_id": 701868022
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_militech_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_militech_ranger2_ranged2_ajax_ma",
+        "entity_name": "Bls_se_militech_ranger2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_militech_ma.ent",
+        "entity_id": 509672793
+    }
+]

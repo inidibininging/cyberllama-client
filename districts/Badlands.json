@@ -1,0 +1,346 @@
+[
+    {
+        "py/object": "__main__.Point",
+        "x": -1456.6254882813,
+        "y": 1181.3449707031,
+        "z": 45.969848632813,
+        "markerref": "#wat_lch_metro_ftp_08",
+        "name": "Metro: Zocalo"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1556.0311279297,
+        "y": 1246.0213623047,
+        "z": 19.075365066528,
+        "markerref": "#wat_lch_dataterm_05",
+        "name": "Bradbury & Buran"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1520.2315673828,
+        "y": 1551.8796386719,
+        "z": 18.199981689453,
+        "markerref": "#wat_lch_dataterm_01",
+        "name": "Goldsmith St"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1416.7523193359,
+        "y": 1757.6116943359,
+        "z": 16.270000457764,
+        "markerref": "#wat_lch_metro_ftp_02",
+        "name": "Metro: Med Center"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1158.7810058594,
+        "y": 2014.2175292969,
+        "z": 12.064865112305,
+        "markerref": "#wat_kab_dataterm_01",
+        "name": "Kabuki Market"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1213.8695068359,
+        "y": 1880.7591552734,
+        "z": 22.5,
+        "markerref": "#wat_kab_dataterm_02",
+        "name": "Kennedy North"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -845.90405273438,
+        "y": 1835.4284667969,
+        "z": 36.189323425293,
+        "markerref": "#wat_kab_dataterm_06",
+        "name": "Charter St"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -541.7021484375,
+        "y": 1855.4565429688,
+        "z": 36.304096221924,
+        "markerref": "#wat_nid_dataterm_03",
+        "name": "NID: East"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -715.86737060547,
+        "y": 2181.9016113281,
+        "z": 53.089996337891,
+        "markerref": "#wat_nid_dataterm_07",
+        "name": "All Foods Plant"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1397.3062744141,
+        "y": 1278.0677490234,
+        "z": 123.07693481445,
+        "markerref": "#wat_lch_dataterm_10",
+        "name": "Megabuilding H10: Atrium"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1381.7875976563,
+        "y": 1970.7313232422,
+        "z": 23.309999465942,
+        "markerref": "#wat_lch_dataterm_09",
+        "name": "Megabuilding H11"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1202.8096923828,
+        "y": 1616.3762207031,
+        "z": 22.918962478638,
+        "markerref": "#wat_kab_dataterm_07",
+        "name": "Sutter St"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1183.1750488281,
+        "y": 1364.92578125,
+        "z": 20.306875228882,
+        "markerref": "#wat_kab_dataterm_04",
+        "name": "Kabuki: Central"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1974.5493164063,
+        "y": 1180.2984619141,
+        "z": 12.140000343323,
+        "markerref": "#wat_lch_dataterm_07",
+        "name": "Clarendon St"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -2022.4318847656,
+        "y": 1641.8247070313,
+        "z": 9.1076440811157,
+        "markerref": "#wat_lch_dataterm_03",
+        "name": "California & Cartwright"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1419.1872558594,
+        "y": 2225.5856933594,
+        "z": 18.197374343872,
+        "markerref": "#wat_nid_dataterm_01",
+        "name": "Martin St"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1087.1630859375,
+        "y": 1312.5062255859,
+        "z": 5.3599996566772,
+        "markerref": "#wat_kab_dataterm_10",
+        "name": "Allen St South"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": 1634.1553955078,
+        "y": -738.68566894531,
+        "z": 49.829444885254,
+        "markerref": "#bls_bls_dataterm_01",
+        "name": "Sunset Motel"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": 2458.2404785156,
+        "y": -1281.0017089844,
+        "z": 63.630516052246,
+        "markerref": "#bls_bls_dataterm_27",
+        "name": "Edgewood Farm"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1608.4401855469,
+        "y": 1474.6574707031,
+        "z": 18.209999084473,
+        "markerref": "#wat_lch_metro_ftp_01",
+        "name": "Metro: Farrier St"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -457.24099731445,
+        "y": 1402.6040039063,
+        "z": 37.284057617188,
+        "markerref": "#wbr_jpn_dataterm_08",
+        "name": "Skyline & Salinas"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": 3583.7414550781,
+        "y": -895.67852783203,
+        "z": 119.4747543335,
+        "markerref": "#bls_bls_dataterm_16",
+        "name": "Sunshine Motel"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1154.4166259766,
+        "y": 1160.8092041016,
+        "z": 17.333700180054,
+        "markerref": "#wat_kab_dataterm_05",
+        "name": "Pinewood St South"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -836.02874755859,
+        "y": 1334.494140625,
+        "z": 22.440000534058,
+        "markerref": "#wbr_jpn_dataterm_10",
+        "name": "Japantown West"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1731.353515625,
+        "y": 2308.1936035156,
+        "z": 18.158525466919,
+        "markerref": "#wat_nid_dataterm_06",
+        "name": "Pershing St"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1129.6437988281,
+        "y": 1486.7232666016,
+        "z": 30.29711151123,
+        "markerref": "#wat_kab_dataterm_08",
+        "name": "Bellevue Overwalk"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1054.5708007813,
+        "y": 1573.0587158203,
+        "z": 2.539999961853,
+        "markerref": "#wat_kab_dataterm_03",
+        "name": "Creek Loop"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -3478.9094238281,
+        "y": -4183.6635742188,
+        "z": 68.05672454834,
+        "markerref": "#bls_bls_dataterm_12",
+        "name": "Protein Farm"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -519.16632080078,
+        "y": 1608.5042724609,
+        "z": 32.851528167725,
+        "markerref": "#wbr_jpn_dataterm_01",
+        "name": "Capitola St"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": 2534.7202148438,
+        "y": -95.229057312012,
+        "z": 81.400566101074,
+        "markerref": "#bls_bls_dataterm_04",
+        "name": "Rocky Ridge"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -86.015083312988,
+        "y": -4357.5131835938,
+        "z": 58.925632476807,
+        "markerref": "#bls_bls_dataterm_22",
+        "name": "Autowerks"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1513.8560791016,
+        "y": -5080.9052734375,
+        "z": 83.008766174316,
+        "markerref": "#bls_bls_dataterm_13",
+        "name": "Regional Airport"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1795.6608886719,
+        "y": -4323.810546875,
+        "z": 74.413078308105,
+        "markerref": "#bls_bls_dataterm_10",
+        "name": "Fuel Station"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1608.1141357422,
+        "y": 1772.7012939453,
+        "z": 18.380001068115,
+        "markerref": "#wat_lch_dataterm_02",
+        "name": "Drake Ave"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": 1194.1749267578,
+        "y": -592.33526611328,
+        "z": 32.617656707764,
+        "markerref": "#std_rcr_dataterm_07",
+        "name": "Trailer Park"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": 3079.3159179688,
+        "y": -2223.8640136719,
+        "z": 131.49398803711,
+        "markerref": "#bls_bls_dataterm_15",
+        "name": "Wraith Camp"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": 911.50164794922,
+        "y": -3498.1032714844,
+        "z": 184.08485412598,
+        "markerref": "#bls_bls_dataterm_21",
+        "name": "Lake Farm"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -715.03344726563,
+        "y": 1278.1424560547,
+        "z": 29.569910049438,
+        "markerref": "#wbr_jpn_dataterm_04",
+        "name": "Sagan & Diamond"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1770.5189208984,
+        "y": 1868.5670166016,
+        "z": 18.260000228882,
+        "markerref": "#wat_nid_metro_ftp_01",
+        "name": "Metro: Eisenhower St"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -528.15057373047,
+        "y": 1131.6843261719,
+        "z": 34.689998626709,
+        "markerref": "#wbr_jpn_metro_ftp_01",
+        "name": "Metro: Monroe St"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -72.285934448242,
+        "y": 1988.2366943359,
+        "z": 100.89966583252,
+        "markerref": "#wbr_nok_dataterm_04",
+        "name": "Drive-In Theater"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -2158.6853027344,
+        "y": 1993.1072998047,
+        "z": 18.188344955444,
+        "markerref": "#wat_awf_dataterm_03",
+        "name": "California & Pershing"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": 485.98422241211,
+        "y": 1224.2333984375,
+        "z": 229.2541809082,
+        "markerref": "#wbr_nok_dataterm_01",
+        "name": "Arasaka Estate"
+    }
+]

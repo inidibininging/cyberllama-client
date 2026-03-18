@@ -1,0 +1,250 @@
+[
+    {
+        
+        "x": -1456.6254882813,
+        "y": 1181.3449707031,
+        "z": 45.969848632813,
+        "markerref": "#wat_lch_metro_ftp_08",
+        "name": "Metro: Zocalo"
+    },
+    {
+        
+        "x": -1556.0311279297,
+        "y": 1246.0213623047,
+        "z": 19.075365066528,
+        "markerref": "#wat_lch_dataterm_05",
+        "name": "Bradbury & Buran"
+    },
+    {
+        
+        "x": -1470.3101806641,
+        "y": 1062.6676025391,
+        "z": 22.687755584717,
+        "markerref": "#wat_lch_dataterm_04",
+        "name": "Afterlife"
+    },
+    {
+        
+        "x": -1388.4503173828,
+        "y": 1031.4814453125,
+        "z": 27.139623641968,
+        "markerref": "#wat_lch_metro_ftp_09",
+        "name": "Metro: Ellison St"
+    },
+    {
+        
+        "x": -1520.2315673828,
+        "y": 1551.8796386719,
+        "z": 18.199981689453,
+        "markerref": "#wat_lch_dataterm_01",
+        "name": "Goldsmith St"
+    },
+    {
+        
+        "x": -1416.7523193359,
+        "y": 1757.6116943359,
+        "z": 16.270000457764,
+        "markerref": "#wat_lch_metro_ftp_02",
+        "name": "Metro: Med Center"
+    },
+    {
+        
+        "x": -1158.7810058594,
+        "y": 2014.2175292969,
+        "z": 12.064865112305,
+        "markerref": "#wat_kab_dataterm_01",
+        "name": "Kabuki Market"
+    },
+    {
+        
+        "x": -1213.8695068359,
+        "y": 1880.7591552734,
+        "z": 22.5,
+        "markerref": "#wat_kab_dataterm_02",
+        "name": "Kennedy North"
+    },
+    {
+        
+        "x": -845.90405273438,
+        "y": 1835.4284667969,
+        "z": 36.189323425293,
+        "markerref": "#wat_kab_dataterm_06",
+        "name": "Charter St"
+    },
+    {
+        
+        "x": -541.7021484375,
+        "y": 1855.4565429688,
+        "z": 36.304096221924,
+        "markerref": "#wat_nid_dataterm_03",
+        "name": "NID: East"
+    },
+    {
+        
+        "x": -715.86737060547,
+        "y": 2181.9016113281,
+        "z": 53.089996337891,
+        "markerref": "#wat_nid_dataterm_07",
+        "name": "All Foods Plant"
+    },
+    {
+        
+        "x": -1397.3062744141,
+        "y": 1278.0677490234,
+        "z": 123.07693481445,
+        "markerref": "#wat_lch_dataterm_10",
+        "name": "Megabuilding H10: Atrium"
+    },
+    {
+        
+        "x": -1381.7875976563,
+        "y": 1970.7313232422,
+        "z": 23.309999465942,
+        "markerref": "#wat_lch_dataterm_09",
+        "name": "Megabuilding H11"
+    },
+    {
+        
+        "x": -1202.8096923828,
+        "y": 1616.3762207031,
+        "z": 22.918962478638,
+        "markerref": "#wat_kab_dataterm_07",
+        "name": "Sutter St"
+    },
+    {
+        
+        "x": -1183.1750488281,
+        "y": 1364.92578125,
+        "z": 20.306875228882,
+        "markerref": "#wat_kab_dataterm_04",
+        "name": "Kabuki: Central"
+    },
+    {
+        
+        "x": -1658.8746337891,
+        "y": 997.36566162109,
+        "z": 23.699998855591,
+        "markerref": "#wat_lch_dataterm_11",
+        "name": "Riot"
+    },
+    {
+        
+        "x": -1974.5493164063,
+        "y": 1180.2984619141,
+        "z": 12.140000343323,
+        "markerref": "#wat_lch_dataterm_07",
+        "name": "Clarendon St"
+    },
+    {
+        
+        "x": -2022.4318847656,
+        "y": 1641.8247070313,
+        "z": 9.1076440811157,
+        "markerref": "#wat_lch_dataterm_03",
+        "name": "California & Cartwright"
+    },
+    {
+        
+        "x": -1869.2717285156,
+        "y": 2701.6203613281,
+        "z": 7.1965379714966,
+        "markerref": "#wat_nid_dataterm_02",
+        "name": "NID: Docks"
+    },
+    {
+        
+        "x": -1419.1872558594,
+        "y": 2225.5856933594,
+        "z": 18.197374343872,
+        "markerref": "#wat_nid_dataterm_01",
+        "name": "Martin St"
+    },
+    {
+        
+        "x": -1087.1630859375,
+        "y": 1312.5062255859,
+        "z": 5.3599996566772,
+        "markerref": "#wat_kab_dataterm_10",
+        "name": "Allen St South"
+    },
+    {
+        
+        "x": -1608.4401855469,
+        "y": 1474.6574707031,
+        "z": 18.209999084473,
+        "markerref": "#wat_lch_metro_ftp_01",
+        "name": "Metro: Farrier St"
+    },
+    {
+        
+        "x": -600.88342285156,
+        "y": 2582.9584960938,
+        "z": 53.799999237061,
+        "markerref": "#wat_nid_dataterm_04",
+        "name": "Longshore North"
+    },
+    {
+        
+        "x": -1731.353515625,
+        "y": 2308.1936035156,
+        "z": 18.158525466919,
+        "markerref": "#wat_nid_dataterm_06",
+        "name": "Pershing St"
+    },
+    {
+        
+        "x": -1129.6437988281,
+        "y": 1486.7232666016,
+        "z": 30.29711151123,
+        "markerref": "#wat_kab_dataterm_08",
+        "name": "Bellevue Overwalk"
+    },
+    {
+        
+        "x": -1054.5708007813,
+        "y": 1573.0587158203,
+        "z": 2.539999961853,
+        "markerref": "#wat_kab_dataterm_03",
+        "name": "Creek Loop"
+    },
+    {
+        
+        "x": -1608.1141357422,
+        "y": 1772.7012939453,
+        "z": 18.380001068115,
+        "markerref": "#wat_lch_dataterm_02",
+        "name": "Drake Ave"
+    },
+    {
+        
+        "x": -1770.5189208984,
+        "y": 1868.5670166016,
+        "z": 18.260000228882,
+        "markerref": "#wat_nid_metro_ftp_01",
+        "name": "Metro: Eisenhower St"
+    },
+    {
+        
+        "x": -1481.1020507813,
+        "y": 2956.6457519531,
+        "z": 7.1899995803833,
+        "markerref": "#wat_nid_dataterm_08",
+        "name": "Ebunike Docks"
+    },
+    {
+        
+        "x": -1256.3790283203,
+        "y": 2913.9089355469,
+        "z": 7.193489074707,
+        "markerref": "#wat_nid_dataterm_05",
+        "name": "Offshore St"
+    },
+    {
+        
+        "x": -2158.6853027344,
+        "y": 1993.1072998047,
+        "z": 18.188344955444,
+        "markerref": "#wat_awf_dataterm_03",
+        "name": "California & Pershing"
+    }
+]

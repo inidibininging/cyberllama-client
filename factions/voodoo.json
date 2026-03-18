@@ -1,0 +1,434 @@
+[
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_voodoo_grunt1_ranged2_saratoga_ma",
+        "entity_name": "Mws_voodoo_grunt1_ranged2_saratoga_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 2895500671
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cvi_voodooboys_netrunner2_netrunner2_lexington_wa_rare",
+        "entity_name": "Cvi_voodooboys_netrunner2_netrunner2_lexington_wa_rare",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 4278381878
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_vdb_ranged2_saratoga_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_vdb_ranged2_saratoga_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 2750200156
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_vdb_ranged2_saratoga_wa",
+        "entity_name": "Sa_ep1_courier_loop_enemies_vdb_ranged2_saratoga_wa",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 331432839
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_vdb_ranged2_sidewinder_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_vdb_ranged2_sidewinder_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 2978085405
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_vdb_shotgun2_palica_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_vdb_shotgun2_palica_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 3898075330
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_vdb_shotgun2_palica_wa",
+        "entity_name": "Sa_ep1_courier_loop_enemies_vdb_shotgun2_palica_wa",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 1484395033
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gym_encounters_pre_combat_enemy01",
+        "entity_name": "Gym_encounters_pre_combat_enemy01",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 3012225964
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.HandcuffedGoon_VB_f",
+        "entity_name": "HandcuffedGoon_VB_f",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 2559728299
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.HandcuffedGoon_VB_m",
+        "entity_name": "HandcuffedGoon_VB_m",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 255886115
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cvi_voodooboys_grunt2coat_shotgun2_palica_wa",
+        "entity_name": "Cvi_voodooboys_grunt2coat_shotgun2_palica_wa",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 3113622595
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cvi_voodooboys_grunt1_ranged2_saratoga_wa",
+        "entity_name": "Cvi_voodooboys_grunt1_ranged2_saratoga_wa",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 86009361
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.voodooboys_netrunner3_netrunner3_quasar_wa_elite",
+        "entity_name": "Voodooboys_netrunner3_netrunner3_quasar_wa_elite",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 292060436
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.voodooboys_netrunner2_netrunner2_lexington_wa_rare",
+        "entity_name": "Voodooboys_netrunner2_netrunner2_lexington_wa_rare",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 1386689294
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.voodooboys_netrunner2_netrunner2_lexington_ma_rare",
+        "entity_name": "Voodooboys_netrunner2_netrunner2_lexington_ma_rare",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 2433347726
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.voodooboys_grunt3coat_shotgun3_zhuo_ma_elite",
+        "entity_name": "Voodooboys_grunt3coat_shotgun3_zhuo_ma_elite",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 3048610137
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.voodooboys_grunt2coat_shotgun2_palica_wa",
+        "entity_name": "Voodooboys_grunt2coat_shotgun2_palica_wa",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 3733600984
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.voodooboys_grunt1coat_shotgun2_palica_ma",
+        "entity_name": "Voodooboys_grunt1coat_shotgun2_palica_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 918120747
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.voodooboys_grunt1_ranged2_sidewinder_wa",
+        "entity_name": "Voodooboys_grunt1_ranged2_sidewinder_wa",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 2900342887
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.voodooboys_grunt1_ranged2_sidewinder_ma",
+        "entity_name": "Voodooboys_grunt1_ranged2_sidewinder_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 485638844
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.voodooboys_grunt1_ranged2_saratoga_wa",
+        "entity_name": "Voodooboys_grunt1_ranged2_saratoga_wa",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 578447003
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.voodooboys_grunt1_ranged2_saratoga_ma",
+        "entity_name": "Voodooboys_grunt1_ranged2_saratoga_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 2455215168
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.voodooboys_grunt1_fmelee2rare_baseball_ma_rare",
+        "entity_name": "Voodooboys_grunt1_fmelee2rare_baseball_ma_rare",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 3770632799
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.voodooboys_base_wa",
+        "entity_name": "Voodooboys_base_wa",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 2091214619
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.voodooboys_base_ma",
+        "entity_name": "Voodooboys_base_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 3431505344
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_voodooboys_netrunner2_netrunner2_lexington_ma_rare",
+        "entity_name": "Cvi_voodooboys_netrunner2_netrunner2_lexington_ma_rare",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 1017917110
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_voodooboys_netrunner3_netrunner3_quasar_wa_elite",
+        "entity_name": "Wwd_voodooboys_netrunner3_netrunner3_quasar_wa_elite",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 254264355
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_voodooboys_netrunner2_netrunner2_lexington_wa_rare",
+        "entity_name": "Wwd_voodooboys_netrunner2_netrunner2_lexington_wa_rare",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 1880983133
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_voodooboys_netrunner2_netrunner2_lexington_ma_rare",
+        "entity_name": "Wwd_voodooboys_netrunner2_netrunner2_lexington_ma_rare",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 3014870493
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_voodooboys_grunt2coat_shotgun2_palica_wa",
+        "entity_name": "Wwd_voodooboys_grunt2coat_shotgun2_palica_wa",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 3638701809
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_voodooboys_grunt1coat_shotgun2_palica_ma",
+        "entity_name": "Wwd_voodooboys_grunt1coat_shotgun2_palica_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 819035394
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_voodooboys_grunt1_ranged2_sidewinder_ma",
+        "entity_name": "Wwd_voodooboys_grunt1_ranged2_sidewinder_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 3260249337
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_voodooboys_grunt1_ranged2_saratoga_wa",
+        "entity_name": "Wwd_voodooboys_grunt1_ranged2_saratoga_wa",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 1345255055
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_voodooboys_grunt1_ranged2_saratoga_ma",
+        "entity_name": "Wwd_voodooboys_grunt1_ranged2_saratoga_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 3758296148
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_vdb_fmelee2rare_baseball_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_vdb_fmelee2rare_baseball_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 4225113563
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_voodooboys_grunt1coat_shotgun2_palica_ma",
+        "entity_name": "Cvi_voodooboys_grunt1coat_shotgun2_palica_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 1369788336
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q110_esc_officer_voodooboys_grunt1coat_shotgun2_palica_ma",
+        "entity_name": "Q110_esc_officer_voodooboys_grunt1coat_shotgun2_palica_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 2599740446
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q110_esc_reinforcementcaller_voodooboys_netrunner2_netrunner2_lexington_wa_rare",
+        "entity_name": "Q110_esc_reinforcementcaller_voodooboys_netrunner2_netrunner2_lexington_wa_rare",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 3761175930
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q110_esc_voodooboys_grunt1_ranged2_saratoga_ma",
+        "entity_name": "Q110_esc_voodooboys_grunt1_ranged2_saratoga_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 3763050331
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q110_esc_voodooboys_grunt1_ranged2_sidewinder_wa",
+        "entity_name": "Q110_esc_voodooboys_grunt1_ranged2_sidewinder_wa",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 2453395561
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q304_voodooboys_car_rental_voodooboys_netrunner3_netrunner3_quasar_wa_elite",
+        "entity_name": "Q304_voodooboys_car_rental_voodooboys_netrunner3_netrunner3_quasar_wa_elite",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 3881321917
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q304_voodooboys_car_rental_voodooboys_grunt2coat_shotgun2_palica_wa",
+        "entity_name": "Q304_voodooboys_car_rental_voodooboys_grunt2coat_shotgun2_palica_wa",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 3593435000
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q304_voodooboys_car_rental_4",
+        "entity_name": "Q304_voodooboys_car_rental_4",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 4159902637
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q304_voodooboys_car_rental_3",
+        "entity_name": "Q304_voodooboys_car_rental_3",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 1771537934
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q304_voodooboys_car_rental_2",
+        "entity_name": "Q304_voodooboys_car_rental_2",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 512800408
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q304_voodooboys_car_rental_1",
+        "entity_name": "Q304_voodooboys_car_rental_1",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 2275010338
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q110_esc_voodooboys_netrunner3_netrunner3_quasar_wa_elite",
+        "entity_name": "Q110_esc_voodooboys_netrunner3_netrunner3_quasar_wa_elite",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 3235832548
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq025_voodooboy_male",
+        "entity_name": "Mq025_voodooboy_male",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 35006080
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cvi_voodooboys_grunt1_ranged2_sidewinder_wa",
+        "entity_name": "Cvi_voodooboys_grunt1_ranged2_sidewinder_wa",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 1840508924
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_voodooboys_grunt_medium_range_m_medium",
+        "entity_name": "Cvi_voodooboys_grunt_medium_range_m_medium",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 589401878
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_voodoo_sidekick_1",
+        "entity_name": "Mws_gang_retaliation_enemies_voodoo_sidekick_1",
+        "entity_entname": "gang__ep1_voodoo_wa.ent",
+        "entity_id": 1155598167
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_voodoo_sidekick_2",
+        "entity_name": "Mws_gang_retaliation_enemies_voodoo_sidekick_2",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 3722991341
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_voodoo_grunt_shotgun2_palica_ma",
+        "entity_name": "Mws_voodoo_grunt_shotgun2_palica_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 3245695635
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_voodoo_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_voodooboys_grunt1_ranged2_saratoga_ma",
+        "entity_name": "Cvi_voodooboys_grunt1_ranged2_saratoga_ma",
+        "entity_entname": "gang__ep1_voodoo_ma.ent",
+        "entity_id": 3037568202
+    }
+]

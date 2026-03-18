@@ -1,0 +1,74 @@
+[
+    {
+        "py/object": "__main__.Point",
+        "x": -1447.8912353516,
+        "y": 43.989212036133,
+        "z": 16.20072555542,
+        "markerref": "#cct_cpz_dataterm_02",
+        "name": "Arasaka Tower"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1333.2921142578,
+        "y": -86.132751464844,
+        "z": -3.8499999046326,
+        "markerref": "#cct_cpz_metro_ftp_15",
+        "name": "Metro: Memorial Park"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1755.3469238281,
+        "y": 185.96363830566,
+        "z": 16.6809425354,
+        "markerref": "#cct_dtn_dataterm_01",
+        "name": "Halsey & MLK"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1473.4285888672,
+        "y": 460.06097412109,
+        "z": 5.8199996948242,
+        "markerref": "#cct_cpz_metro_ftp_01",
+        "name": "Metro: Republic Way"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1148.6505126953,
+        "y": 135.85823059082,
+        "z": 7.3489050865173,
+        "markerref": "#cct_cpz_dataterm_01",
+        "name": "Ring Road"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -2115.1342773438,
+        "y": 260.09552001953,
+        "z": 7.9015612602234,
+        "markerref": "#cct_dtn_dataterm_07",
+        "name": "Downtown Central"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -923.71759033203,
+        "y": 105.70306396484,
+        "z": 7.3232703208923,
+        "markerref": "#hey_rey_dataterm_02",
+        "name": "Petrel St"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -2068.25,
+        "y": 481.64953613281,
+        "z": 8.0500001907349,
+        "markerref": "#cct_dtn_metro_ftp_02",
+        "name": "Metro: Downtown - Alexander St"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -2392.8049316406,
+        "y": 88.863052368164,
+        "z": 12.246580123901,
+        "markerref": "#cct_dtn_dataterm_04",
+        "name": "Gold Beach Marina"
+    }
+]

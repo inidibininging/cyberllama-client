@@ -1,0 +1,1594 @@
+[
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.HandcuffedGoon_6th_f",
+        "entity_name": "HandcuffedGoon_6th_f",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1419603269
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.HandcuffedGoon_6th_m",
+        "entity_name": "HandcuffedGoon_6th_m",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3276780749
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_sixthstreet_patrol2_ranged2_ajax_wa",
+        "entity_name": "Hil_sixthstreet_patrol2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1084351128
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq008_6th_street_comp3",
+        "entity_name": "Mq008_6th_street_comp3",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1896694196
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq008_6th_street_comp1",
+        "entity_name": "Mq008_6th_street_comp1",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2667782296
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq008_6th_street_civ_judge_ma",
+        "entity_name": "Mq008_6th_street_civ_judge_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 21121162
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_arr_10_seamus",
+        "entity_name": "Ma_std_arr_10_seamus",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 242501138
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq008_6th_street_civ_judge_wa",
+        "entity_name": "Mq008_6th_street_civ_judge_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 2976887377
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sixthstreet_menace1_fmelee2_baton_wa_rare",
+        "entity_name": "Sixthstreet_menace1_fmelee2_baton_wa_rare",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1391463652
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rey_sixthstreet_hooligan_ranged1_nova_ma",
+        "entity_name": "Rey_sixthstreet_hooligan_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1707729143
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_sixthstreet_hooligan_ranged1_nova_wa",
+        "entity_name": "Rey_sixthstreet_hooligan_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 3588495916
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_rcr_02_mike",
+        "entity_name": "Ma_std_rcr_02_mike",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 4176940640
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_06_sixthstreet_veteran3_ranged2_ajax_ma",
+        "entity_name": "Sts_std_arr_06_sixthstreet_veteran3_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1060671236
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_06_sixthstreet_veteran3_ranged2_ajax_ma_James",
+        "entity_name": "Sts_std_arr_06_sixthstreet_veteran3_ranged2_ajax_ma_James",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 4274338734
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_std_arr_06_sixthstreet_patrol2_ranged2_ajax_wa",
+        "entity_name": "Sts_std_arr_06_sixthstreet_patrol2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 752794528
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_std_arr_06_sixthstreet_patrol2_ranged2_ajax_wa_Patricia",
+        "entity_name": "Sts_std_arr_06_sixthstreet_patrol2_ranged2_ajax_wa_Patricia",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1178299262
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_06_sixthstreet_menace1_shotgun2_igla_ma",
+        "entity_name": "Sts_std_arr_06_sixthstreet_menace1_shotgun2_igla_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1001383060
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_06_sixthstreet_hooligan_ranged1_saratoga_ma",
+        "entity_name": "Sts_std_arr_06_sixthstreet_hooligan_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 4204241297
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_06_sixthstreet_hooligan_ranged1_saratoga_ma_Jeff",
+        "entity_name": "Sts_std_arr_06_sixthstreet_hooligan_ranged1_saratoga_ma_Jeff",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1578942811
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_std_arr_06_sixthstreet_hooligan_ranged1_nova_wa",
+        "entity_name": "Sts_std_arr_06_sixthstreet_hooligan_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1843589519
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ma_std_arr_09_hilary",
+        "entity_name": "Ma_std_arr_09_hilary",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 4265936963
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_arr_03_darius",
+        "entity_name": "Ma_std_arr_03_darius",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 964071932
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_rcr_13_liam",
+        "entity_name": "Ma_std_rcr_13_liam",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3646214572
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_rcr_14_loaf",
+        "entity_name": "Ma_std_rcr_14_loaf",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1460552750
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_arr_01_forrest",
+        "entity_name": "Ma_std_arr_01_forrest",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 688240959
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_rcr_06_captain",
+        "entity_name": "Ma_std_rcr_06_captain",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1140415240
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_menace1_shotgun2_tactician_ma",
+        "entity_name": "Arr_sixthstreet_menace1_shotgun2_tactician_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2827836150
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_patrol2_melee2_baton_wa",
+        "entity_name": "Arr_sixthstreet_patrol2_melee2_baton_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 599901089
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_veteran3_ranged2_ajax_ma",
+        "entity_name": "Arr_sixthstreet_veteran3_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2727654952
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_hooligan_melee1_ironpipe_ma",
+        "entity_name": "Arr_sixthstreet_hooligan_melee1_ironpipe_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 382837936
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.handgun_dude_gang",
+        "entity_name": "Handgun_dude_gang",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1445151418
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_sixthstreet_menace1_fmelee2_baton_wa_rare",
+        "entity_name": "Gle_sixthstreet_menace1_fmelee2_baton_wa_rare",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1438885949
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.courier_sixthstreet_enemy_handgun_ma",
+        "entity_name": "Courier_sixthstreet_enemy_handgun_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3975351854
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_hooligan_melee1_knife_wa",
+        "entity_name": "Arr_sixthstreet_hooligan_melee1_knife_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 2259655115
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq008_6th_street_female",
+        "entity_name": "Mq008_6th_street_female",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 421331264
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_11_shotgunner",
+        "entity_name": "Sts_std_arr_11_shotgunner",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 656204672
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_11_officer",
+        "entity_name": "Sts_std_arr_11_officer",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1416087113
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_11_6thStreet_ganger",
+        "entity_name": "Sts_std_arr_11_6thStreet_ganger",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2928402216
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_std_arr_11_6thStreet_ganger_netrunner",
+        "entity_name": "Sts_std_arr_11_6thStreet_ganger_netrunner",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 2030068620
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_01_sixthstreet_officer_officer_overture_ma",
+        "entity_name": "Sts_std_arr_01_sixthstreet_officer_officer_overture_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 144530453
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_std_arr_01_sixthstreet_hooligan_ranged1_nova_wa",
+        "entity_name": "Sts_std_arr_01_sixthstreet_hooligan_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 2075790499
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ep1_stadium_sixth_street_non_reaction_ma",
+        "entity_name": "Ep1_stadium_sixth_street_non_reaction_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 52703261
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ep1_stadium_sixth_street_non_reaction_wa",
+        "entity_name": "Ep1_stadium_sixth_street_non_reaction_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 3003763398
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_melee1_ironpipe_ma_arr_11",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_melee1_ironpipe_ma_arr_11",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 692784201
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_melee1_ironpipe_ma_rcr_03",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_melee1_ironpipe_ma_rcr_03",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 110924323
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_melee1_ironpipe_ma",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_melee1_ironpipe_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2691982577
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_melee1_knife_ma_arr_11",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_melee1_knife_ma_arr_11",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2377350618
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_melee1_knife_ma_rcr_03",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_melee1_knife_ma_rcr_03",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2724520880
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_melee1_knife_ma",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_melee1_knife_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3397682779
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_melee2_baton_wa_arr_11",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_melee2_baton_wa_arr_11",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 2323789401
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_melee2_baton_wa_rcr_03",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_melee2_baton_wa_rcr_03",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 2773854259
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_melee2_baton_wa",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_melee2_baton_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 499144820
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_menace1_fmelee2_baton_wa_rare_arr_11",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_menace1_fmelee2_baton_wa_rare_arr_11",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 3310534953
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_menace1_fmelee2_baton_wa_rare_rcr_03",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_menace1_fmelee2_baton_wa_rare_rcr_03",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 3934609219
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_menace1_fmelee2_baton_wa_rare",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_menace1_fmelee2_baton_wa_rare",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1467034326
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_patrol2_shotgun3_satara_ma_elite_rcr_03",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_patrol2_shotgun3_satara_ma_elite_rcr_03",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 29006959
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_prepers3_shotgun3_carnage_ma_arr_11_boss",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_prepers3_shotgun3_carnage_ma_arr_11_boss",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 445433124
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_ranged1_saratoga_ma_arr_11",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_ranged1_saratoga_ma_arr_11",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2031475017
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_ranged1_saratoga_ma_rcr_03",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_ranged1_saratoga_ma_rcr_03",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1455572771
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_ranged1_saratoga_ma",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3064506322
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_ranged2_ajax_wa_arr_11",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_ranged2_ajax_wa_arr_11",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1602105568
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_ranged2_ajax_wa_rcr_03",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_ranged2_ajax_wa_rcr_03",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1890168458
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_ranged2_ajax_wa",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1821484016
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_shotgun3_carnage_ma_rare_arr_11",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_shotgun3_carnage_ma_rare_arr_11",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3565375113
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_shotgun3_carnage_ma_rare_rcr_03",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_shotgun3_carnage_ma_rare_rcr_03",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 4216639715
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_shotgun3_carnage_ma_rare",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_shotgun3_carnage_ma_rare",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3340834652
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_veteran3_ajax_ma_arr_11",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_veteran3_ajax_ma_arr_11",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 860325993
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_patrol2_ranged2_ajax_wa",
+        "entity_name": "Arr_sixthstreet_patrol2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1385183269
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_veteran3_ajax_ma",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_veteran3_ajax_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 4246979765
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_hooligan_melee1_ironpipe_wa",
+        "entity_name": "Arr_sixthstreet_hooligan_melee1_ironpipe_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 2801557099
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_04_enemy_elite_shotgun",
+        "entity_name": "Rcr_04_enemy_elite_shotgun",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 772357324
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_04_enemy_handgun_wa",
+        "entity_name": "Rcr_04_enemy_handgun_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 4079009852
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_04_enemy_handgun",
+        "entity_name": "Rcr_04_enemy_handgun",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3300762134
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_sixthstreet_hooligan_ranged1_nova_wa",
+        "entity_name": "Gle_sixthstreet_hooligan_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1358389464
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq011_contestant_04",
+        "entity_name": "Mq011_contestant_04",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1548869902
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rey_sixthstreet_menace1_shotgun2_tactician_ma",
+        "entity_name": "Rey_sixthstreet_menace1_shotgun2_tactician_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 729416950
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rey_sixthstreet_hooligan_ranged1_saratoga_ma",
+        "entity_name": "Rey_sixthstreet_hooligan_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2468262915
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_hil_06_officer",
+        "entity_name": "Sts_wbr_hil_06_officer",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3373184620
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_hil_06_6th_street_marksman_ma",
+        "entity_name": "Sts_wbr_hil_06_6th_street_marksman_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2051265904
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_hil_06_6th_street_ganger",
+        "entity_name": "Sts_wbr_hil_06_6th_street_ganger",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3575984369
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_wbr_hil_06_6th_street_ganger_wa",
+        "entity_name": "Sts_wbr_hil_06_6th_street_ganger_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 3794728422
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_hooligan_melee1_knife_ma",
+        "entity_name": "Arr_sixthstreet_hooligan_melee1_knife_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 914514704
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_gle_06_6th_street_smg_wa",
+        "entity_name": "Sts_hey_gle_06_6th_street_smg_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 2460686645
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_gle_06_6th_street_smg_ma",
+        "entity_name": "Sts_hey_gle_06_6th_street_smg_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 579265518
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_gle_06_6th_street_short",
+        "entity_name": "Sts_hey_gle_06_6th_street_short",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 4128470100
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_gle_06_6th_street_officer",
+        "entity_name": "Sts_hey_gle_06_6th_street_officer",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1743967931
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_gle_06_6th_street_melee_wa",
+        "entity_name": "Sts_hey_gle_06_6th_street_melee_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 3525656265
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_gle_06_6th_street_long",
+        "entity_name": "Sts_hey_gle_06_6th_street_long",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 3704355681
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_01_sixthstreet_menace1_shotgun2_igla_ma",
+        "entity_name": "Sts_std_arr_01_sixthstreet_menace1_shotgun2_igla_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 771168696
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_01_sixthstreet_hooligan_ranged1_nova_ma",
+        "entity_name": "Sts_std_arr_01_sixthstreet_hooligan_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3415733880
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_sixthstreet_hooligan_ranged1_saratoga_ma",
+        "entity_name": "Hil_sixthstreet_hooligan_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1260788024
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_ep1_07_6thstreet_grunt1_ranged1_nova_wa",
+        "entity_name": "Sts_ep1_07_6thstreet_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 969715098
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_07_6thstreet_grunt1_ranged1_nova_ma",
+        "entity_name": "Sts_ep1_07_6thstreet_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2313246529
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_07_6thstreet_grunt1_ranged1_nova_ma_deal",
+        "entity_name": "Sts_ep1_07_6thstreet_grunt1_ranged1_nova_ma_deal",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3488837242
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sixthstreet_veteran3_ranged2_ajax_ma",
+        "entity_name": "Sixthstreet_veteran3_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3510867439
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sixthstreet_sniper2_sniper2_sor22_ma_rare",
+        "entity_name": "Sixthstreet_sniper2_sniper2_sor22_ma_rare",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 4214746152
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sixthstreet_sniper2_sniper2_grad_ma_rare",
+        "entity_name": "Sixthstreet_sniper2_sniper2_grad_ma_rare",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 4171368790
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sixthstreet_prepers3_shotgun3_carnage_ma_rare",
+        "entity_name": "Sixthstreet_prepers3_shotgun3_carnage_ma_rare",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2445949351
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sixthstreet_patrol2_shotgun3_satara_ma_elite",
+        "entity_name": "Sixthstreet_patrol2_shotgun3_satara_ma_elite",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1711498365
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sixthstreet_patrol2_ranged2_ajax_wa",
+        "entity_name": "Sixthstreet_patrol2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1504017570
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sixthstreet_patrol2_melee2_baton_wa",
+        "entity_name": "Sixthstreet_patrol2_melee2_baton_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 687114022
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sixthstreet_patrol2_melee2_baseball_wa",
+        "entity_name": "Sixthstreet_patrol2_melee2_baseball_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 3650293621
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sixthstreet_officer_officer_overture_ma",
+        "entity_name": "Sixthstreet_officer_officer_overture_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 791005297
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sixthstreet_menace1_shotgun2_tactician_ma",
+        "entity_name": "Sixthstreet_menace1_shotgun2_tactician_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3454756717
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sixthstreet_menace1_shotgun2_igla_ma",
+        "entity_name": "Sixthstreet_menace1_shotgun2_igla_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3587505791
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sixthstreet_menace1_fshotgun2_tactician_wa_rare",
+        "entity_name": "Sixthstreet_menace1_fshotgun2_tactician_wa_rare",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 342459182
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sixthstreet_hooligan_ranged1_saratoga_wa",
+        "entity_name": "Sixthstreet_hooligan_ranged1_saratoga_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 3507278999
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sixthstreet_hooligan_ranged1_saratoga_ma",
+        "entity_name": "Sixthstreet_hooligan_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1629564492
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sixthstreet_hooligan_melee1_ironpipe_wa",
+        "entity_name": "Sixthstreet_hooligan_melee1_ironpipe_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 2483220171
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sixthstreet_hooligan_melee1_ironpipe_ma",
+        "entity_name": "Sixthstreet_hooligan_melee1_ironpipe_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 607065104
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sixth_street_base_wa",
+        "entity_name": "Sixth_street_base_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 455402538
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sixth_street_base_ma",
+        "entity_name": "Sixth_street_base_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2869501681
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_sixthstreet_veteran3_ajax_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_sixthstreet_veteran3_ajax_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 187202008
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_sixthstreet_shotgun3_carnage_ma_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_sixthstreet_shotgun3_carnage_ma_rare",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1625217384
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_sixthstreet_ranged2_ajax_wa",
+        "entity_name": "Sa_ep1_courier_loop_enemies_sixthstreet_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 3725235493
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_sixthstreet_ranged1_saratoga_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_sixthstreet_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 807335466
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_sixthstreet_menace1_fmelee2_baton_wa_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_sixthstreet_menace1_fmelee2_baton_wa_rare",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 3399267174
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_sixthstreet_melee2_baton_wa",
+        "entity_name": "Sa_ep1_courier_loop_enemies_sixthstreet_melee2_baton_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 2942004897
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_sixthstreet_melee1_knife_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_sixthstreet_melee1_knife_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2015342734
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_sixthstreet_melee1_ironpipe_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_sixthstreet_melee1_ironpipe_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3321317409
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_sixthstreet_menace1_fshotgun2_tactician_wa_rare",
+        "entity_name": "Gle_sixthstreet_menace1_fshotgun2_tactician_wa_rare",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1127134805
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_sixthstreet_veteran3_ranged2_ajax_ma",
+        "entity_name": "Hil_sixthstreet_veteran3_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 391530691
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_sixthstreet_patrol2_shotgun3_satara_ma_elite",
+        "entity_name": "Gle_sixthstreet_patrol2_shotgun3_satara_ma_elite",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2447405630
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_patrol2_melee2_baseball_wa",
+        "entity_name": "Arr_sixthstreet_patrol2_melee2_baseball_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 4283386969
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_hey_gle_09_sixthstreet_hooligan_ranged1_saratoga_ma_Quincy_Rivers",
+        "entity_name": "Ma_hey_gle_09_sixthstreet_hooligan_ranged1_saratoga_ma_Quincy_Rivers",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1396310726
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_hooligan_ranged1_saratoga_wa",
+        "entity_name": "Arr_sixthstreet_hooligan_ranged1_saratoga_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 132680143
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_menace1_fmelee2_baton_wa_rare",
+        "entity_name": "Arr_sixthstreet_menace1_fmelee2_baton_wa_rare",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 932589951
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_sixthstreet_hooligan_ranged1_nova_ma",
+        "entity_name": "Hil_sixthstreet_hooligan_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 4121021587
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_sixthstreet_sniper2_sniper2_grad_ma_rare",
+        "entity_name": "Gle_sixthstreet_sniper2_sniper2_grad_ma_rare",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2797783378
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq024_pacifica_race_6th_street_racer",
+        "entity_name": "Sq024_pacifica_race_6th_street_racer",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3458987865
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_sixthstreet_hooligan_ranged1_saratoga_wa",
+        "entity_name": "Gle_sixthstreet_hooligan_ranged1_saratoga_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 2406225043
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_sixthstreet_patrol2_ranged2_ajax_wa",
+        "entity_name": "Rey_sixthstreet_patrol2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 2542802839
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_sixthstreet_hooligan_ranged1_saratoga_wa",
+        "entity_name": "Rey_sixthstreet_hooligan_ranged1_saratoga_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 590565080
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ma_std_arr_05_kamala",
+        "entity_name": "Ma_std_arr_05_kamala",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1621091471
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_veteran3_ranged2_ajax_ma",
+        "entity_name": "Rcr_sixthstreet_veteran3_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 32547297
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_sniper2_sniper2_grad_ma_rare",
+        "entity_name": "Rcr_sixthstreet_sniper2_sniper2_grad_ma_rare",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1914969222
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_prepers3_shotgun3_carnage_ma_rare",
+        "entity_name": "Rcr_sixthstreet_prepers3_shotgun3_carnage_ma_rare",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1529673376
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_prepers3_grenadier2_nova_ma_rare",
+        "entity_name": "Rcr_sixthstreet_prepers3_grenadier2_nova_ma_rare",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 4075354206
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_patrol2_shotgun3_satara_ma_elite",
+        "entity_name": "Rcr_sixthstreet_patrol2_shotgun3_satara_ma_elite",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 974055820
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_menace1_shotgun2_tactician_ma",
+        "entity_name": "Rcr_sixthstreet_menace1_shotgun2_tactician_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1269969836
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_menace1_shotgun2_igla_ma",
+        "entity_name": "Rcr_sixthstreet_menace1_shotgun2_igla_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 90688113
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_menace1_fshotgun2_tactician_wa_rare",
+        "entity_name": "Rcr_sixthstreet_menace1_fshotgun2_tactician_wa_rare",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1358102574
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_menace1_fmelee2_baton_wa_rare",
+        "entity_name": "Rcr_sixthstreet_menace1_fmelee2_baton_wa_rare",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 3567867941
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_hooligan_ranged1_saratoga_wa",
+        "entity_name": "Rcr_sixthstreet_hooligan_ranged1_saratoga_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1535820103
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_hooligan_ranged1_saratoga_ma",
+        "entity_name": "Rcr_sixthstreet_hooligan_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3953605532
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_hooligan_ranged1_nova_wa",
+        "entity_name": "Rcr_sixthstreet_hooligan_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1395318634
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_hooligan_ranged1_nova_ma",
+        "entity_name": "Rcr_sixthstreet_hooligan_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3808896433
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_hooligan_melee1_knife_wa",
+        "entity_name": "Rcr_sixthstreet_hooligan_melee1_knife_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 634097154
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_hooligan_melee1_knife_ma",
+        "entity_name": "Rcr_sixthstreet_hooligan_melee1_knife_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2514908377
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_hooligan_melee1_ironpipe_ma",
+        "entity_name": "Rcr_sixthstreet_hooligan_melee1_ironpipe_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3354601483
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_sixth_street_sniper_long_range_m_medium",
+        "entity_name": "Rcr_sixth_street_sniper_long_range_m_medium",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 4244794183
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_sixth_street_grunt_short_range_w_medium",
+        "entity_name": "Rcr_sixth_street_grunt_short_range_w_medium",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 3686629796
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_sixth_street_grunt_short_range_w_easy",
+        "entity_name": "Rcr_sixth_street_grunt_short_range_w_easy",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1101868702
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_sixth_street_grunt_short_range_m_hard",
+        "entity_name": "Rcr_sixth_street_grunt_short_range_m_hard",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1805093414
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_std_arr_01_sixthstreet_patrol2_ranged2_ajax_wa",
+        "entity_name": "Sts_std_arr_01_sixthstreet_patrol2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 418173567
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_04_enemy_sniper",
+        "entity_name": "Rcr_04_enemy_sniper",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 308903692
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_04_enemy_rifle",
+        "entity_name": "Rcr_04_enemy_rifle",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2623547236
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_04_enemy_rifle_wa",
+        "entity_name": "Rcr_04_enemy_rifle_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 449035837
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_sixthstreet_veteran3_ranged2_ajax_ma",
+        "entity_name": "Gle_sixthstreet_veteran3_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 36511315
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_sixthstreet_patrol2_melee2_baseball_wa",
+        "entity_name": "Hil_sixthstreet_patrol2_melee2_baseball_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 415239335
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_sniper2_sniper2_sor22_ma_rare",
+        "entity_name": "Arr_sixthstreet_sniper2_sniper2_sor22_ma_rare",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2656162227
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_hooligan_ranged1_nova_wa",
+        "entity_name": "Arr_sixthstreet_hooligan_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 4031695011
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq056_pacifica_race_6th_street_racer",
+        "entity_name": "Mq056_pacifica_race_6th_street_racer",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 772942875
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq025_6th_friendly",
+        "entity_name": "Mq025_6th_friendly",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1157110215
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.courier_sixthstreet_enemy_handgun_wa",
+        "entity_name": "Courier_sixthstreet_enemy_handgun_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1558115573
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_hooligan_ranged1_nova_ma",
+        "entity_name": "Arr_sixthstreet_hooligan_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1080242808
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ma_std_rcr_01_solo",
+        "entity_name": "Ma_std_rcr_01_solo",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1706843913
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_prepers3_shotgun3_carnage_ma_rare",
+        "entity_name": "Arr_sixthstreet_prepers3_shotgun3_carnage_ma_rare",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3645337655
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_patrol2_ranged2_ajax_wa",
+        "entity_name": "Rcr_sixthstreet_patrol2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 2324137287
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_patrol2_melee2_baton_wa",
+        "entity_name": "Rcr_sixthstreet_patrol2_melee2_baton_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 4225138371
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_patrol2_melee2_baseball_wa",
+        "entity_name": "Rcr_sixthstreet_patrol2_melee2_baseball_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 1722025725
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_sixthstreet_officer_officer_overture_ma",
+        "entity_name": "Rcr_sixthstreet_officer_officer_overture_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3438933098
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sixthstreet_hooligan_melee1_knife_ma",
+        "entity_name": "Sixthstreet_hooligan_melee1_knife_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1163215063
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sixthstreet_hooligan_melee1_knife_wa",
+        "entity_name": "Sixthstreet_hooligan_melee1_knife_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 4118329868
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sixthstreet_hooligan_ranged1_nova_ma",
+        "entity_name": "Sixthstreet_hooligan_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 867439039
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sixthstreet_hooligan_ranged1_nova_wa",
+        "entity_name": "Sixthstreet_hooligan_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 2207902564
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sixthstreet_prepers3_grenadier2_nova_ma_rare",
+        "entity_name": "Sixthstreet_prepers3_grenadier2_nova_ma_rare",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2934273455
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq008_6th_street_comp2",
+        "entity_name": "Mq008_6th_street_comp2",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 101347618
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_rcr_09_captain",
+        "entity_name": "Ma_std_rcr_09_captain",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2621478105
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_rcr_02_luke",
+        "entity_name": "Ma_std_rcr_02_luke",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1433875217
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq008_6th_street_comp4",
+        "entity_name": "Mq008_6th_street_comp4",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 4016690199
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_rcr_03_gangers_short_med_m",
+        "entity_name": "Sts_std_rcr_03_gangers_short_med_m",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1209424858
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_rcr_03_gangers_short_med_f",
+        "entity_name": "Sts_std_rcr_03_gangers_short_med_f",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3754197586
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_rcr_03_gangers_officer",
+        "entity_name": "Sts_std_rcr_03_gangers_officer",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3948116425
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_rcr_03_gangers_melee_med",
+        "entity_name": "Sts_std_rcr_03_gangers_melee_med",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1409998824
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_rcr_03_gangers_dave",
+        "entity_name": "Sts_std_rcr_03_gangers_dave",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 572466066
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_rcr_03_gangers_ajax",
+        "entity_name": "Sts_std_rcr_03_gangers_ajax",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2131874830
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_patrol2_shotgun3_satara_ma_elite",
+        "entity_name": "Arr_sixthstreet_patrol2_shotgun3_satara_ma_elite",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1501347802
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_sniper2_sniper2_grad_ma_rare",
+        "entity_name": "Arr_sixthstreet_sniper2_sniper2_grad_ma_rare",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 776360974
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_arr_05_sixthstreet_patrol2_melee2_baseball_wa",
+        "entity_name": "Mws_arr_05_sixthstreet_patrol2_melee2_baseball_wa",
+        "entity_entname": "gang__ep1_6thstreet_wa.ent",
+        "entity_id": 2440990590
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_sixthstreet_hooligan_ranged1_nova_ma",
+        "entity_name": "Gle_sixthstreet_hooligan_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3772422659
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_menace1_shotgun2_igla_ma",
+        "entity_name": "Arr_sixthstreet_menace1_shotgun2_igla_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2785271224
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq008_6th_street_male",
+        "entity_name": "Mq008_6th_street_male",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 757711554
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_prepers3_grenadier2_nova_ma_rare",
+        "entity_name": "Arr_sixthstreet_prepers3_grenadier2_nova_ma_rare",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2442833416
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_sixthstreet_veteran3_ajax_ma_rcr_03",
+        "entity_name": "Gang_retaliation_enemies_sixthstreet_veteran3_ajax_ma_rcr_03",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 479204867
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_sixthstreet_hooligan_ranged1_saratoga_ma",
+        "entity_name": "Arr_sixthstreet_hooligan_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 3083170580
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.courier_sixthstreet_enemy_rifle_ma",
+        "entity_name": "Courier_sixthstreet_enemy_rifle_ma",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 1373551856
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_rcr_08_captain",
+        "entity_name": "Ma_std_rcr_08_captain",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2335932570
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_6thstreet_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_rcr_14_young",
+        "entity_name": "Ma_std_rcr_14_young",
+        "entity_entname": "gang__ep1_6thstreet_ma.ent",
+        "entity_id": 2795733419
+    }
+]

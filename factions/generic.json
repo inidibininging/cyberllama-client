@@ -1,0 +1,1474 @@
+[
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_generic_shotgun_fshotgun2_palica_ma",
+        "entity_name": "Dtn_generic_shotgun_fshotgun2_palica_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2994970055
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_security_security2_ranged2_ajax_ma",
+        "entity_name": "Bls_se_security_security2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 199163099
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_generic_grunt_ranged1_pulsar_wa",
+        "entity_name": "Bls_se_generic_grunt_ranged1_pulsar_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 317560227
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_generic_grunt_melee1_knife_ma",
+        "entity_name": "Lch_generic_grunt_melee1_knife_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 327389239
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.generic_netrunner_netrunner_chao_ma_rare",
+        "entity_name": "Generic_netrunner_netrunner_chao_ma_rare",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 4107142785
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_cct_arr_05_enemy_security_keycard",
+        "entity_name": "Sts_cct_arr_05_enemy_security_keycard",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3596844278
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_security_grunt1_melee1_baton_ma",
+        "entity_name": "Hil_security_grunt1_melee1_baton_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2102047306
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_security_guard1_ranged1_nue_ma",
+        "entity_name": "Hil_security_guard1_ranged1_nue_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1847589968
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.street_goon_medium_range_w_medium",
+        "entity_name": "Street_goon_medium_range_w_medium",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 3575597003
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.street_goon_medium_range_w_hard",
+        "entity_name": "Street_goon_medium_range_w_hard",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 1530857426
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.street_goon_medium_range_w_easy",
+        "entity_name": "Street_goon_medium_range_w_easy",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 3544744599
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.street_goon_medium_range_m_medium",
+        "entity_name": "Street_goon_medium_range_m_medium",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 946104872
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.street_goon_medium_range_m_hard",
+        "entity_name": "Street_goon_medium_range_m_hard",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 4185007663
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_05_enemy_security",
+        "entity_name": "Sts_std_arr_05_enemy_security",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1032374717
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_05_enemy_security_smg",
+        "entity_name": "Sts_std_arr_05_enemy_security_smg",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1028428330
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_std_arr_05_enemy_security_nue",
+        "entity_name": "Sts_std_arr_05_enemy_security_nue",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 1168595836
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_generic_grunt_melee1_knife_ma",
+        "entity_name": "Bls_se_generic_grunt_melee1_knife_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 218897784
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_generic_grunt_ranged1_slaughtomatic_wa",
+        "entity_name": "Bls_se_generic_grunt_ranged1_slaughtomatic_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 3918608600
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.generic_netrunner_netrunner_chao_ma_rare_ow_city_scene",
+        "entity_name": "Generic_netrunner_netrunner_chao_ma_rare_ow_city_scene",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1969006092
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_nid_07_proper_shard_merc",
+        "entity_name": "Ma_wat_nid_07_proper_shard_merc",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1627944522
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_nid_07_shard_merc",
+        "entity_name": "Ma_wat_nid_07_shard_merc",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2654416013
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cpz_security_security2_melee2_baton_wa",
+        "entity_name": "Cpz_security_security2_melee2_baton_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 3098515144
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_11_guard_sniper",
+        "entity_name": "Ina_11_guard_sniper",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3710169997
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.generic_fast_fmelee2_machete_ma_rare",
+        "entity_name": "Generic_fast_fmelee2_machete_ma_rare",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 408962156
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.street_goon_medium_range_m_easy",
+        "entity_name": "Street_goon_medium_range_m_easy",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1896194922
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.handgun_dude_corpo",
+        "entity_name": "Handgun_dude_corpo",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 554558949
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_security_netrunner_netrunner2_lexington_ma_rare",
+        "entity_name": "Dtn_security_netrunner_netrunner2_lexington_ma_rare",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 51134679
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_generic_merc_ranged2_ajax_wa",
+        "entity_name": "Dtn_generic_merc_ranged2_ajax_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 545977550
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_102_enemy_security2_ranged2_smg",
+        "entity_name": "Sts_wat_kab_102_enemy_security2_ranged2_smg",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 295188015
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_102_enemy_security2_officer_ranged2_rifle",
+        "entity_name": "Sts_wat_kab_102_enemy_security2_officer_ranged2_rifle",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2165048634
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_102_enemy_security_generic1_handgun",
+        "entity_name": "Sts_wat_kab_102_enemy_security_generic1_handgun",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 4241511858
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_102_enemy_security_blackmasked_sniper3_grad_ma_elite",
+        "entity_name": "Sts_wat_kab_102_enemy_security_blackmasked_sniper3_grad_ma_elite",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 4220113203
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.security_security2_ranged2_saratoga_wa",
+        "entity_name": "Security_security2_ranged2_saratoga_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 4260409837
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.security_security2_ranged2_ajax_wa",
+        "entity_name": "Security_security2_ranged2_ajax_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 1295298391
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.security_security2_melee2_baton_wa",
+        "entity_name": "Security_security2_melee2_baton_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 1013273811
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.security_security2_melee2_baton_ma",
+        "entity_name": "Security_security2_melee2_baton_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2353573384
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.security_grunt1_melee1_baton_wa",
+        "entity_name": "Security_grunt1_melee1_baton_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 3534164317
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.security_base_ma",
+        "entity_name": "Security_base_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3395309650
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_generic_grunt_ranged1_pulsar_ma",
+        "entity_name": "Bls_se_generic_grunt_ranged1_pulsar_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2730520440
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.generic_grunt_melee1_knife_ma",
+        "entity_name": "Generic_grunt_melee1_knife_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 678553578
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.generic_merc_ranged2_ajax_wa",
+        "entity_name": "Generic_merc_ranged2_ajax_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 272795821
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Pulsar",
+        "entity_name": "NPC_Pulsar",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 804165105
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.generic_grunt_ranged1_slaughtomatic_ma",
+        "entity_name": "Generic_grunt_ranged1_slaughtomatic_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 162170199
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_01_security_officer",
+        "entity_name": "Gle_01_security_officer",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2127406929
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_01_security",
+        "entity_name": "Gle_01_security",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3723724884
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_lch_03_corpo_002",
+        "entity_name": "Ma_wat_lch_03_corpo_002",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 957344987
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.generic_street_base_ma",
+        "entity_name": "Generic_street_base_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1243313293
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.generic_street_base_wb",
+        "entity_name": "Generic_street_base_wb",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 1665130476
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_generic_shotgun_fshotgun2_palica_ma",
+        "entity_name": "Wwd_generic_shotgun_fshotgun2_palica_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 426879820
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_generic_merc_ranged2_copperhead_wa",
+        "entity_name": "Wwd_generic_merc_ranged2_copperhead_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 688194823
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_generic_merc_ranged2_ajax_ma",
+        "entity_name": "Wwd_generic_merc_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 394168609
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wwd_generic_gunner_gunner3_hmg_mb_elite",
+        "entity_name": "Wwd_generic_gunner_gunner3_hmg_mb_elite",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 4107962463
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_generic_grunt_melee1_knife_ma",
+        "entity_name": "Wwd_generic_grunt_melee1_knife_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3720950342
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_generic_fast_fmelee2_machete_ma_rare",
+        "entity_name": "Wwd_generic_fast_fmelee2_machete_ma_rare",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1268241834
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.street_big_goon_short_range_w_medium",
+        "entity_name": "Street_big_goon_short_range_w_medium",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 1141247476
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.street_big_goon_short_range_w_hard",
+        "entity_name": "Street_big_goon_short_range_w_hard",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 2047473757
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.street_big_goon_short_range_w_easy",
+        "entity_name": "Street_big_goon_short_range_w_easy",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 4068375832
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.street_big_goon_short_range_m_medium",
+        "entity_name": "Street_big_goon_short_range_m_medium",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 2843549719
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.street_big_goon_short_range_m_hard",
+        "entity_name": "Street_big_goon_short_range_m_hard",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 3628390816
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.street_big_goon_short_range_m_easy",
+        "entity_name": "Street_big_goon_short_range_m_easy",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 1345543397
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_generic_netrunner_netrunner_chao_wa_rare",
+        "entity_name": "Nid_generic_netrunner_netrunner_chao_wa_rare",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 3893122958
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_arr_14_john",
+        "entity_name": "Ma_std_arr_14_john",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1376018581
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.GuardMaleDE",
+        "entity_name": "GuardMaleDE",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3365331822
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ina_11_guard_rifle",
+        "entity_name": "Ina_11_guard_rifle",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1798913874
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_gle_03_sec_short",
+        "entity_name": "Sts_hey_gle_03_sec_short",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1799023821
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_gle_03_sec_melee",
+        "entity_name": "Sts_hey_gle_03_sec_melee",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 737478606
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_gle_03_sec_med",
+        "entity_name": "Sts_hey_gle_03_sec_med",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 840848787
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_gle_03_sec_med_02",
+        "entity_name": "Sts_hey_gle_03_sec_med_02",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1302742277
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_13_guard_netrunner2_lexington_ma_rare",
+        "entity_name": "Sts_ep1_13_guard_netrunner2_lexington_ma_rare",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3861447320
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_hil_101_enemy_security",
+        "entity_name": "Sts_wbr_hil_101_enemy_security",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2101722818
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_hil_101_enemy_security_officer",
+        "entity_name": "Sts_wbr_hil_101_enemy_security_officer",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3760580017
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_hil_01_enemy_security",
+        "entity_name": "Sts_wbr_hil_01_enemy_security",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3729359283
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.security_worker_melee1_wrench_ma",
+        "entity_name": "Security_worker_melee1_wrench_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1613185045
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_generic_merc_ranged2_copperhead_wa",
+        "entity_name": "Bls_se_generic_merc_ranged2_copperhead_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 3642305852
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Saratoga",
+        "entity_name": "NPC_Saratoga",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2445912369
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nok_security_security2_ranged2_ajax_wa",
+        "entity_name": "Nok_security_security2_ranged2_ajax_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 1446951334
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.generic_gunner_gunner3_hmg_mb_elite",
+        "entity_name": "Generic_gunner_gunner3_hmg_mb_elite",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 2966978221
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.generic_grunt_ranged1_pulsar_wa",
+        "entity_name": "Generic_grunt_ranged1_pulsar_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 217203524
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.generic_grunt_ranged1_pulsar_ma",
+        "entity_name": "Generic_grunt_ranged1_pulsar_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3168778655
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.generic_street_base_wa",
+        "entity_name": "Generic_street_base_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 4197879382
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.security_security2_ranged2_saratoga_ma",
+        "entity_name": "Security_security2_ranged2_saratoga_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1306348342
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.security_security2_ranged2_ajax_ma",
+        "entity_name": "Security_security2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 4246295948
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.security_guard1_ranged1_nue_ma",
+        "entity_name": "Security_guard1_ranged1_nue_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1959091843
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.security_grunt1_melee1_baton_ma",
+        "entity_name": "Security_grunt1_melee1_baton_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1653271430
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.security_blackmasked_sniper3_grad_ma_elite",
+        "entity_name": "Security_blackmasked_sniper3_grad_ma_elite",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 610035570
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.security_base_wa",
+        "entity_name": "Security_base_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 2051910281
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_security_guard1_ranged1_nue_wa",
+        "entity_name": "Bls_se_security_guard1_ranged1_nue_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 3670813642
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_security_security2_melee2_baton_ma",
+        "entity_name": "Hil_security_security2_melee2_baton_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3839944094
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.generic_street_base_mb",
+        "entity_name": "Generic_street_base_mb",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 3541181751
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_security_security2_melee2_baton_ma",
+        "entity_name": "Lch_security_security2_melee2_baton_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2167915843
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_generic_merc_ranged2_ajax_ma",
+        "entity_name": "Arr_generic_merc_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2411646288
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_security_security2_ranged2_ajax_ma",
+        "entity_name": "Arr_security_security2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 327349059
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_generic_gunner_gunner3_hmg_mb_elite",
+        "entity_name": "Dtn_generic_gunner_gunner3_hmg_mb_elite",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 1596505812
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.security_guard1_ranged1_nue_wa",
+        "entity_name": "Security_guard1_ranged1_nue_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 3303580760
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.security_guard1_ranged1_saratoga_ma",
+        "entity_name": "Security_guard1_ranged1_saratoga_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 964871617
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.security_netrunner_netrunner2_lexington_ma_rare",
+        "entity_name": "Security_netrunner_netrunner2_lexington_ma_rare",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 4001699169
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.security_officer_officer_nue_ma",
+        "entity_name": "Security_officer_officer_nue_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1135228003
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_security_netrunner_netrunner2_lexington_ma_rare",
+        "entity_name": "Hil_security_netrunner_netrunner2_lexington_ma_rare",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2456962310
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_security_security2_ranged2_ajax_wa",
+        "entity_name": "Hil_security_security2_ranged2_ajax_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 631039169
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_security_security2_ranged2_saratoga_ma",
+        "entity_name": "Hil_security_security2_ranged2_saratoga_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2358135012
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ma_hey_gle_07_afterlife_merc_generic_medium_range_w_hard_Tracy_Phillips",
+        "entity_name": "Ma_hey_gle_07_afterlife_merc_generic_medium_range_w_hard_Tracy_Phillips",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 3433983684
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_security_security2_ranged2_ajax_ma",
+        "entity_name": "Rcr_security_security2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 152325099
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_security_security2_melee2_baton_ma",
+        "entity_name": "Rcr_security_security2_melee2_baton_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2017833071
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_security_netrunner_netrunner2_lexington_ma_rare",
+        "entity_name": "Rcr_security_netrunner_netrunner2_lexington_ma_rare",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2854196833
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_security_guard1_ranged1_saratoga_ma",
+        "entity_name": "Rcr_security_guard1_ranged1_saratoga_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3936369700
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_security_guard1_ranged1_nue_ma",
+        "entity_name": "Rcr_security_guard1_ranged1_nue_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1271670227
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_security_grunt1_melee1_baton_ma",
+        "entity_name": "Rcr_security_grunt1_melee1_baton_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 165589769
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_security_security2_melee2_baton_wa",
+        "entity_name": "Hil_security_security2_melee2_baton_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 1422729029
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_security_security2_ranged2_saratoga_wa",
+        "entity_name": "Hil_security_security2_ranged2_saratoga_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 1017360959
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_security_guard1_ranged1_saratoga_ma",
+        "entity_name": "Hil_security_guard1_ranged1_saratoga_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 545676283
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_SOR22",
+        "entity_name": "NPC_SOR22",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 1665192685
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_Testera",
+        "entity_name": "NPC_Testera",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 2916426978
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_rcr_16_sec",
+        "entity_name": "Ma_std_rcr_16_sec",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 281036223
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_Umbra",
+        "entity_name": "NPC_Umbra",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 3226200611
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_arasaka_manufacturing_worker",
+        "entity_name": "Q114_arasaka_manufacturing_worker",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 71460239
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.generic_shotgun_shotgun3_carnage_mb_elite",
+        "entity_name": "Generic_shotgun_shotgun3_carnage_mb_elite",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 4132949016
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.generic_merc_ranged2_copperhead_wa",
+        "entity_name": "Generic_merc_ranged2_copperhead_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 803112043
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_generic_fast_fmelee2_machete_ma_rare",
+        "entity_name": "Dtn_generic_fast_fmelee2_machete_ma_rare",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 827751732
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_generic_netrunner_netrunner_chao_ma_rare",
+        "entity_name": "Nid_generic_netrunner_netrunner_chao_ma_rare",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 732075022
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_generic_merc_ranged2_copperhead_ma",
+        "entity_name": "Nid_generic_merc_ranged2_copperhead_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 472614086
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_generic_merc_ranged2_ajax_ma",
+        "entity_name": "Nid_generic_merc_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2818076488
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_generic_grunt_ranged1_slaughtomatic_ma",
+        "entity_name": "Nid_generic_grunt_ranged1_slaughtomatic_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3271365020
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_generic_grunt_ranged1_pulsar_ma",
+        "entity_name": "Nid_generic_grunt_ranged1_pulsar_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 53287929
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_security_security2_ranged2_saratoga_ma",
+        "entity_name": "Arr_security_security2_ranged2_saratoga_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1795229722
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_generic_shotgun_fshotgun2_palica_ma",
+        "entity_name": "Lch_generic_shotgun_fshotgun2_palica_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3161504461
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_hey_07_zetatech_dead_02",
+        "entity_name": "Mws_hey_07_zetatech_dead_02",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 248221097
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.generic_merc_ranged2_ajax_ma",
+        "entity_name": "Generic_merc_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2691658358
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_security_guard1_ranged1_nue_ma",
+        "entity_name": "Arr_security_guard1_ranged1_nue_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3972357227
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_security_guard1_ranged1_nue_ma",
+        "entity_name": "Cpz_security_guard1_ranged1_nue_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 724626357
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Overture",
+        "entity_name": "NPC_Overture",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 6223055
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_generic_merc_ranged2_ajax_ma",
+        "entity_name": "Bls_se_generic_merc_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2991014084
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_security_guard1_ranged1_saratoga_ma",
+        "entity_name": "Arr_security_guard1_ranged1_saratoga_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 850886982
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_generic_grunt_melee1_knife_ma",
+        "entity_name": "Arr_generic_grunt_melee1_knife_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 4199789480
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_rcr_13_james",
+        "entity_name": "Ma_std_rcr_13_james",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1333844538
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_generic_fast_fmelee2_knife_wa_rare",
+        "entity_name": "Gle_generic_fast_fmelee2_knife_wa_rare",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 1562899582
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_Igla",
+        "entity_name": "NPC_Igla",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 4085907353
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_security_guard1_ranged1_saratoga_ma",
+        "entity_name": "Cpz_security_guard1_ranged1_saratoga_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3009660655
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_generic_merc_ranged2_ajax_ma",
+        "entity_name": "Dtn_generic_merc_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2426867221
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.generic_netrunner_netrunner_chao_wa_rare",
+        "entity_name": "Generic_netrunner_netrunner_chao_wa_rare",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 929088769
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_Kyubi",
+        "entity_name": "NPC_Kyubi",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 2643471518
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Lexington",
+        "entity_name": "NPC_Lexington",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 4182811475
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Liberty",
+        "entity_name": "NPC_Liberty",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1734095581
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_MA70",
+        "entity_name": "NPC_MA70",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 84457313
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_Masamune",
+        "entity_name": "NPC_Masamune",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 3651868782
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Nova",
+        "entity_name": "NPC_Nova",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3495980099
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_security_grunt1_melee1_baton_ma",
+        "entity_name": "Lch_security_grunt1_melee1_baton_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2558365625
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.generic_shotgun_fshotgun2_palica_ma",
+        "entity_name": "Generic_shotgun_fshotgun2_palica_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1567841726
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_generic_grunt_ranged1_pulsar_ma",
+        "entity_name": "Arr_generic_grunt_ranged1_pulsar_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 311874519
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_rcr_01_enemy_security",
+        "entity_name": "Sts_std_rcr_01_enemy_security",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1558349142
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_std_rcr_01_enemy_security_smg",
+        "entity_name": "Sts_std_rcr_01_enemy_security_smg",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 3759534676
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_security_blackmasked_sniper3_grad_ma_elite",
+        "entity_name": "Arr_security_blackmasked_sniper3_grad_ma_elite",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1139035011
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_security_security2_ranged2_ajax_ma",
+        "entity_name": "Hil_security_security2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2511412762
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Borg4a",
+        "entity_name": "NPC_Borg4a",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2738584205
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Grit",
+        "entity_name": "NPC_Grit",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 420608415
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_Kolac",
+        "entity_name": "NPC_Kolac",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 820840191
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Metel",
+        "entity_name": "NPC_Metel",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 922106214
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_Osprey",
+        "entity_name": "NPC_Osprey",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 3130871427
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Pozhar",
+        "entity_name": "NPC_Pozhar",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1623154176
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.generic_sniper_sniper2_grad_ma_rare",
+        "entity_name": "Generic_sniper_sniper2_grad_ma_rare",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2385385452
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.generic_fast_fmelee2_knife_wa_rare",
+        "entity_name": "Generic_fast_fmelee2_knife_wa_rare",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 2680527945
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_Carnage",
+        "entity_name": "NPC_Carnage",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 2703806510
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_Copperhead",
+        "entity_name": "NPC_Copperhead",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 2110230677
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Crusher",
+        "entity_name": "NPC_Crusher",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2316119939
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_Defender",
+        "entity_name": "NPC_Defender",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 4215679003
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_generic_fast_fmelee2_machete_ma_rare",
+        "entity_name": "Lch_generic_fast_fmelee2_machete_ma_rare",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3515705101
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_security_grunt1_melee1_baton_ma",
+        "entity_name": "Arr_security_grunt1_melee1_baton_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3435364814
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_security_security2_ranged2_ajax_ma",
+        "entity_name": "Dtn_security_security2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3637053135
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.generic_merc_ranged2_copperhead_ma",
+        "entity_name": "Generic_merc_ranged2_copperhead_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2683535024
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.generic_grunt_ranged1_slaughtomatic_wa",
+        "entity_name": "Generic_grunt_ranged1_slaughtomatic_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 3112664972
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_security_security2_ranged2_ajax_wa",
+        "entity_name": "Arr_security_security2_ranged2_ajax_wa",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 2746157464
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Nue",
+        "entity_name": "NPC_Nue",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 998473639
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.generic_netrunner_netrunner_chao_wa_rare_ow_city_scene",
+        "entity_name": "Generic_netrunner_netrunner_chao_wa_rare_ow_city_scene",
+        "entity_entname": "corpo__ep1_generic_wa.ent",
+        "entity_id": 4287544555
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_security_blackmasked_sniper3_grad_ma_elite",
+        "entity_name": "Nok_security_blackmasked_sniper3_grad_ma_elite",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2771935143
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_Ajax",
+        "entity_name": "NPC_Ajax",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 4011889320
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_Grad",
+        "entity_name": "NPC_Grad",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 3430900723
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Guillotine",
+        "entity_name": "NPC_Guillotine",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3531414363
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_HMG",
+        "entity_name": "NPC_HMG",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 4260494858
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Silverhand",
+        "entity_name": "NPC_Silverhand",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 3777416634
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_Tactician",
+        "entity_name": "NPC_Tactician",
+        "entity_entname": "corpo__ep1_generic_mb.ent",
+        "entity_id": 128762459
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Unity",
+        "entity_name": "NPC_Unity",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2610796028
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_security_blackmasked_sniper3_grad_ma_elite",
+        "entity_name": "Cpz_security_blackmasked_sniper3_grad_ma_elite",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2853891885
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_security_netrunner_m_hard",
+        "entity_name": "Cpz_security_netrunner_m_hard",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 1840869009
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_security_security2_ranged2_ajax_ma",
+        "entity_name": "Cpz_security_security2_ranged2_ajax_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2043910039
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_generic_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_security_security2_ranged2_saratoga_ma",
+        "entity_name": "Cpz_security_security2_ranged2_saratoga_ma",
+        "entity_entname": "corpo__ep1_generic_ma.ent",
+        "entity_id": 2200871291
+    }
+]

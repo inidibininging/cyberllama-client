@@ -1,0 +1,2882 @@
+[
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq036_scavenger_netrunner",
+        "entity_name": "Mq036_scavenger_netrunner",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1643769697
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq036_scavenger_regular_smg_wa",
+        "entity_name": "Mq036_scavenger_regular_smg_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 642035427
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_name": "Bls_se_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2749683390
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Bls_se_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1935551939
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Bls_se_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3129307033
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Lch_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2218733679
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt2_melee2_pipewrench_ma",
+        "entity_name": "Nid_scavenger_grunt2_melee2_pipewrench_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2525008324
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_scavenger_elite3_sniper2_grad_ma",
+        "entity_name": "Lch_scavenger_elite3_sniper2_grad_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1911008973
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_name": "Lch_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 41940396
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_name": "Lch_scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1141812933
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_name": "Nid_scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2483105087
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Nid_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3060565049
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.lch_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_name": "Lch_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 3627971085
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_name": "Kab_scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3766806091
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Kab_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3307152585
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q001_scavenger_rifle7",
+        "entity_name": "Q001_scavenger_rifle7",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2329960540
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_precision_rifle_ma_scavenger",
+        "entity_name": "Precise_shoot_precision_rifle_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1171261398
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.rey_scavengers_strong_elite_medium_range_m_medium",
+        "entity_name": "Rey_scavengers_strong_elite_medium_range_m_medium",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 182332714
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_scavengers_strong_elite_medium_range_w_hard",
+        "entity_name": "Rey_scavengers_strong_elite_medium_range_w_hard",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2915300494
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_scavengers_strong_short_range_w_easy",
+        "entity_name": "Rey_scavengers_strong_short_range_w_easy",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 4062246090
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_scavengers_strong_short_range_w_hard",
+        "entity_name": "Rey_scavengers_strong_short_range_w_hard",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2052551055
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q105_bds_scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_name": "Q105_bds_scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3477672196
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Cvi_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1475666472
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt2_melee2_pipewrench_wa",
+        "entity_name": "Cvi_scavenger_grunt2_melee2_pipewrench_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 936389669
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Cvi_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2149440310
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_smg_ma_scavenger",
+        "entity_name": "Precise_shoot_smg_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4037037125
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_scavenger",
+        "entity_name": "Throw_grenade_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3449046782
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_scav_smg",
+        "entity_name": "Throw_grenade_ma_scav_smg",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3550723297
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_scav_shotgun",
+        "entity_name": "Throw_grenade_ma_scav_shotgun",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 671703937
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_scav_shotdual",
+        "entity_name": "Throw_grenade_ma_scav_shotdual",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2579286794
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q001_scavenger_rare",
+        "entity_name": "Q001_scavenger_rare",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4026705937
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_assault_rifle_ma_scavenger",
+        "entity_name": "Crouch_precise_shoot_assault_rifle_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1383143194
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_lmg_ma_scavenger",
+        "entity_name": "Precise_shoot_lmg_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2557285857
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_shotgun_ma_scavenger",
+        "entity_name": "Precise_shoot_shotgun_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1793218060
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q001_scavenger_chase_driver",
+        "entity_name": "Q001_scavenger_chase_driver",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3054171774
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_name": "Lch_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3000937888
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Kab_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1966267922
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_scavenger_grunt2_melee2_knife_ma",
+        "entity_name": "Kab_scavenger_grunt2_melee2_knife_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3645860924
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Kab_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2711889492
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_name": "Kab_scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4289447009
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q105_bds_officer_scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_name": "Q105_bds_officer_scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4152534630
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q105_bds_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Q105_bds_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2065344029
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_revolver_ma_scavenger",
+        "entity_name": "Equip_revolver_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 259845691
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq044_scav_iron",
+        "entity_name": "Mq044_scav_iron",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3505627136
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt1_melee1_fists_wa",
+        "entity_name": "Cvi_scavenger_grunt1_melee1_fists_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3968095254
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_handgun_ma_scavenger",
+        "entity_name": "Equip_handgun_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 168268688
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_kab_06_merc_03",
+        "entity_name": "Ma_wat_kab_06_merc_03",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3319749177
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ma_wat_kab_06_merc_02",
+        "entity_name": "Ma_wat_kab_06_merc_02",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3000527535
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_kab_06_merc_01",
+        "entity_name": "Ma_wat_kab_06_merc_01",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 735132437
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_scavenger_grunt2_melee2_knife_wa",
+        "entity_name": "Arr_scavenger_grunt2_melee2_knife_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 164490067
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq036_scavenger_regular_handgun_wa",
+        "entity_name": "Mq036_scavenger_regular_handgun_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2353350991
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Dtn_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2689193943
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_scavenger_grunt1_ranged1_nova_wa",
+        "entity_name": "Dtn_scavenger_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 4004150855
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_shotgun_ma_scavenger",
+        "entity_name": "Crouch_precise_shoot_shotgun_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 474929802
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q105_bds_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_name": "Q105_bds_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2552409977
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q105_bds_scavenger_elite2_shotgun_tactician_ma",
+        "entity_name": "Q105_bds_scavenger_elite2_shotgun_tactician_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3313361534
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q105_bds_scavenger_butcher3_hmelee2_machete_mb_rare",
+        "entity_name": "Q105_bds_scavenger_butcher3_hmelee2_machete_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 73566412
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.scavenger_base_wa",
+        "entity_name": "Scavenger_base_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 80084319
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.scavenger_butcher3_hmelee2_machete_mb_rare",
+        "entity_name": "Scavenger_butcher3_hmelee2_machete_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 110733042
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_elite2_shotgun_igla_ma",
+        "entity_name": "Scavenger_elite2_shotgun_igla_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4181777647
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_elite2_shotgun_tactician_ma",
+        "entity_name": "Scavenger_elite2_shotgun_tactician_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3590151242
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_elite3_sniper2_grad_ma",
+        "entity_name": "Scavenger_elite3_sniper2_grad_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3346756756
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_fast2_fmelee2rare_knife_ma_rare",
+        "entity_name": "Scavenger_fast2_fmelee2rare_knife_ma_rare",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3648940181
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.scavenger_fast3_fmelee3_machete_wa_elite",
+        "entity_name": "Scavenger_fast3_fmelee3_machete_wa_elite",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3796006767
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_handgun_ma_scavenger",
+        "entity_name": "Shoot_handgun_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2334809976
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_grunt1_melee1_fists_ma",
+        "entity_name": "Scavenger_grunt1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3931748292
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_dual_shotgun_ma_scavenger",
+        "entity_name": "Shoot_dual_shotgun_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1075252943
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.scavenger_grunt1_ranged1_nova_wa",
+        "entity_name": "Scavenger_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3207125620
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_name": "Rcr_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 4211966080
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Lch_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 873646772
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Palica",
+        "entity_name": "NPC_Palica",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 498573641
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_name": "Scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3207423036
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Quasar",
+        "entity_name": "NPC_Quasar",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 383295113
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1522455062
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.scavenger_grunt2_melee2_pipewrench_wa",
+        "entity_name": "Scavenger_grunt2_melee2_pipewrench_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 277490863
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_grunt2_melee2_pipewrench_ma",
+        "entity_name": "Scavenger_grunt2_melee2_pipewrench_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2695353972
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.scavenger_grunt2_melee2_knife_wa",
+        "entity_name": "Scavenger_grunt2_melee2_knife_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1902406555
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_name": "Scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1509172679
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_name": "Scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3923369756
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 901021263
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2241430676
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_lmg_ma_scavenger",
+        "entity_name": "Shoot_lmg_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 674503066
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_precision_rifle_ma_scavenger",
+        "entity_name": "Shoot_precision_rifle_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 393731572
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_name": "Rcr_scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 312283907
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_ajax_ma_scavenger",
+        "entity_name": "Shoot_ajax_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2445067240
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_assault_rifle_ma_scavenger",
+        "entity_name": "Shoot_assault_rifle_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1003365669
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ma_wbr_jpn_07_scavenger_mb",
+        "entity_name": "Ma_wbr_jpn_07_scavenger_mb",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 2096851673
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_kab_09_shard_ganger",
+        "entity_name": "Ma_wat_kab_09_shard_ganger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1459916220
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.precision_rifle_dude",
+        "entity_name": "Precision_rifle_dude",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2251528436
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq002_scavenger_smg",
+        "entity_name": "Mq002_scavenger_smg",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4049533846
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Dtn_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 275000588
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_grunt1_melee1_fists_wa",
+        "entity_name": "Rcr_scavenger_grunt1_melee1_fists_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 655919094
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_name": "Rcr_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1875545982
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt2_melee2_pipewrench_ma",
+        "entity_name": "Cvi_scavenger_grunt2_melee2_pipewrench_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2281559806
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_scavenger_grunt1_ranged1_nova_ma",
+        "entity_name": "Kab_scavenger_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 386129363
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_name": "Kab_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1132953257
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_name": "Rcr_scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3752685830
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_scavenger_grunt1_melee1_fists_wa",
+        "entity_name": "Kab_scavenger_grunt1_melee1_fists_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1114812515
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_grunt2_melee2_pipewrench_ma",
+        "entity_name": "Rcr_scavenger_grunt2_melee2_pipewrench_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1204766791
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Cvi_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3889764595
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt2_melee2_knife_wa",
+        "entity_name": "Cvi_scavenger_grunt2_melee2_knife_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3348394642
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_scavenger_elite2_shotgun_tactician_ma",
+        "entity_name": "Kab_scavenger_elite2_shotgun_tactician_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 457538325
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wwd_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_name": "Wwd_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 2030076658
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_name": "Wwd_scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2658341626
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_name": "Wwd_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 165355403
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_name": "Wwd_scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3119965520
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Wwd_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1075204859
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Wwd_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4030441504
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt2_melee2_knife_wa",
+        "entity_name": "Wwd_scavenger_grunt2_melee2_knife_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2566112654
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt2_melee2_knife_ma",
+        "entity_name": "Wwd_scavenger_grunt2_melee2_knife_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 685653845
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_name": "Wwd_scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 457233855
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_precision_rifle_ma_scavenger",
+        "entity_name": "Equip_precision_rifle_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2068551957
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_fast3_fmelee3_machete_wa_elite",
+        "entity_name": "Wwd_scavenger_fast3_fmelee3_machete_wa_elite",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3827983174
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_elite3_sniper2_grad_ma",
+        "entity_name": "Wwd_scavenger_elite3_sniper2_grad_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 787274369
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_elite2_shotgun_tactician_ma",
+        "entity_name": "Wwd_scavenger_elite2_shotgun_tactician_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2812922974
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_elite2_shotgun_igla_ma",
+        "entity_name": "Wwd_scavenger_elite2_shotgun_igla_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 282555130
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_name": "Kab_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1334197946
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q105_bds_scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_name": "Q105_bds_scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 747064217
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq002_scavenger_leader",
+        "entity_name": "Mq002_scavenger_leader",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1937772921
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_scavenger_elite2_shotgun_tactician_ma",
+        "entity_name": "Lch_scavenger_elite2_shotgun_tactician_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4018266279
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_name": "Lch_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3072209459
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Lch_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 952833284
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q105_bd_scavenger_f_floor0_handgun",
+        "entity_name": "Q105_bd_scavenger_f_floor0_handgun",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3770115077
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q105_bds_reinforcementcaller_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Q105_bds_reinforcementcaller_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3380695097
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_scavengers_fast_elite_short_range_w_hard",
+        "entity_name": "Rey_scavengers_fast_elite_short_range_w_hard",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1311248229
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Bls_se_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3279148824
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q001_scavenger_rifle6",
+        "entity_name": "Q001_scavenger_rifle6",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4259795146
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q001_scavenger_rifle5",
+        "entity_name": "Q001_scavenger_rifle5",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1693319536
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq036_scavenger_shotgunner",
+        "entity_name": "Mq036_scavenger_shotgunner",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1731972224
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_scav_revolver",
+        "entity_name": "Throw_grenade_ma_scav_revolver",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1589195077
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_scav_precision",
+        "entity_name": "Throw_grenade_ma_scav_precision",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 248779610
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_scav_lmg",
+        "entity_name": "Throw_grenade_ma_scav_lmg",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3302578348
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_scav_handgun",
+        "entity_name": "Throw_grenade_ma_scav_handgun",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 128353362
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_scav_ajax",
+        "entity_name": "Throw_grenade_ma_scav_ajax",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4060563910
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_elite2_shotgun_tactician_ma",
+        "entity_name": "Cvi_scavenger_elite2_shotgun_tactician_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4071054528
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_name": "Kab_scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 393567114
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.HandcuffedGoon_Scavenger_m",
+        "entity_name": "HandcuffedGoon_Scavenger_m",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2024300995
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt2_melee2_knife_ma",
+        "entity_name": "Cvi_scavenger_grunt2_melee2_knife_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2008647753
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_lmg_ma_scavenger",
+        "entity_name": "Crouch_precise_shoot_lmg_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 339290547
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_scavenger_fast2_fmelee2rare_knife_ma_rare",
+        "entity_name": "Dtn_scavenger_fast2_fmelee2rare_knife_ma_rare",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 949902717
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_grunt1_melee1_fists_ma",
+        "entity_name": "Rcr_scavenger_grunt1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2536865069
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.rcr_scavenger_butcher3_hmelee2_machete_mb_rare",
+        "entity_name": "Rcr_scavenger_butcher3_hmelee2_machete_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 3933998464
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q105_bds_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Q105_bds_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1426444714
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_precision_rifle_ma_scavenger",
+        "entity_name": "Crouch_precise_shoot_precision_rifle_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2273234935
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Sidewinder",
+        "entity_name": "NPC_Sidewinder",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 157000946
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Burya",
+        "entity_name": "NPC_Burya",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2029298810
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Ashura",
+        "entity_name": "NPC_Ashura",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 110779078
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Achilles",
+        "entity_name": "NPC_Achilles",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4237375121
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_lmg_ma_scavenger",
+        "entity_name": "Reload_lmg_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2121613410
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_precision_rifle_ma_scavenger",
+        "entity_name": "Reload_precision_rifle_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 641069789
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_ep1_03_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_name": "Sts_ep1_03_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 3449643072
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_03_scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_name": "Sts_ep1_03_scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3411959984
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_03_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Sts_ep1_03_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2800124184
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_ep1_03_scavenger_grunt2_melee2_knife_wa",
+        "entity_name": "Sts_ep1_03_scavenger_grunt2_melee2_knife_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 606113338
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_03_scavenger_grunt2_melee2_knife_ma",
+        "entity_name": "Sts_ep1_03_scavenger_grunt2_melee2_knife_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2483909857
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_ep1_03_scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_name": "Sts_ep1_03_scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2367443011
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_03_scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_name": "Sts_ep1_03_scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1026665112
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_ep1_03_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Sts_ep1_03_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1388884052
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_03_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Sts_ep1_03_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3806677647
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_ep1_03_scavenger_grunt1_ranged1_nova_wa",
+        "entity_name": "Sts_ep1_03_scavenger_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3932962773
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_03_scavenger_grunt1_ranged1_nova_ma",
+        "entity_name": "Sts_ep1_03_scavenger_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1514259726
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_03_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_name": "Sts_ep1_03_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2484836972
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_03_scavenger_elite2_shotgun_igla_ma",
+        "entity_name": "Sts_ep1_03_scavenger_elite2_shotgun_igla_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2885957966
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_03_scavenger_drugged",
+        "entity_name": "Sts_ep1_03_scavenger_drugged",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3400808422
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq002_scavenger_sniper",
+        "entity_name": "Mq002_scavenger_sniper",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 676049765
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_name": "Dtn_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3980132018
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_scavenger_elite2_shotgun_tactician_ma",
+        "entity_name": "Dtn_scavenger_elite2_shotgun_tactician_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2959389621
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq036_scavenger_regular_handgun_ma",
+        "entity_name": "Mq036_scavenger_regular_handgun_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1013494676
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.throw_grenade_ma_scav_rifle",
+        "entity_name": "Throw_grenade_ma_scav_rifle",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2201721338
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_name": "Cvi_scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4278657096
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.spr_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_name": "Spr_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1322786495
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.spr_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Spr_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 4245213386
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Spr_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1294281233
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_smg_ma_scavenger",
+        "entity_name": "Shoot_smg_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1090076734
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_shotgun_ma_scavenger",
+        "entity_name": "Shoot_shotgun_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2145312100
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shoot_revolver_ma_scavenger",
+        "entity_name": "Shoot_revolver_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2704058813
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_name": "Scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 251698919
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3935512781
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_grunt2_melee2_knife_ma",
+        "entity_name": "Scavenger_grunt2_melee2_knife_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3242824000
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_grunt2_melee2_baseball_ma",
+        "entity_name": "Scavenger_grunt2_melee2_baseball_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1820145903
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_grunt1_ranged1_nova_ma",
+        "entity_name": "Scavenger_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 251994287
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.scavenger_grunt1_melee1_tireiron_wa",
+        "entity_name": "Scavenger_grunt1_melee1_tireiron_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3861917595
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_grunt1_melee1_tireiron_ma",
+        "entity_name": "Scavenger_grunt1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1444795712
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.scavenger_grunt1_melee1_pipewrench_wa",
+        "entity_name": "Scavenger_grunt1_melee1_pipewrench_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 948956054
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_name": "Scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2292322637
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.scavenger_grunt1_melee1_fists_wa",
+        "entity_name": "Scavenger_grunt1_melee1_fists_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1517571359
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.scavenger_base_mb",
+        "entity_name": "Scavenger_base_mb",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 769742398
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_base_ma",
+        "entity_name": "Scavenger_base_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3035105156
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_elite2_shotgun_tactician_ma",
+        "entity_name": "Rcr_scavenger_elite2_shotgun_tactician_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 848675449
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Rcr_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3851017118
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_scav_ranged2_pulsar_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_scav_ranged2_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3332003635
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_scav_ranged1_slaughtomatic_wa",
+        "entity_name": "Sa_ep1_courier_loop_enemies_scav_ranged1_slaughtomatic_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1809184455
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_scav_ranged1_slaughtomatic_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_scav_ranged1_slaughtomatic_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3690466332
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_scav_ranged1_nova_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_scav_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3160770171
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_scav_melee2_knife_wa",
+        "entity_name": "Sa_ep1_courier_loop_enemies_scav_melee2_knife_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2443089611
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_scav_fmelee2rare_knife_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_scav_fmelee2rare_knife_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3341131672
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_scav_elite2_shotgun_igla_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_scav_elite2_shotgun_igla_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3852141422
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Nid_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 566541318
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_smg_ma_scavenger",
+        "entity_name": "Equip_smg_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1267998709
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_dual_shotgun_ma_scavenger",
+        "entity_name": "Crouch_precise_shoot_dual_shotgun_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4192718684
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ma_wat_nid_12_shard_scav",
+        "entity_name": "Ma_wat_nid_12_shard_scav",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 1669036927
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Arr_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1795301979
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_name": "Dtn_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3119322425
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Kab_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 294247567
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_grunt2_melee2_knife_ma",
+        "entity_name": "Rcr_scavenger_grunt2_melee2_knife_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3156564905
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_grunt1_ranged1_nova_wa",
+        "entity_name": "Rcr_scavenger_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3259240605
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_grunt1_ranged1_nova_ma",
+        "entity_name": "Rcr_scavenger_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1919543878
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_name": "Rcr_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2235509925
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_grunt1_melee1_pipewrench_wa",
+        "entity_name": "Rcr_scavenger_grunt1_melee1_pipewrench_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3756488101
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.nid_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_name": "Nid_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 2240177804
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_scavenger_netrunner2_netrunner2_nova_wa_rare",
+        "entity_name": "Nid_scavenger_netrunner2_netrunner2_nova_wa_rare",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2100836463
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_75_scavenger_elite3_sniper2_grad_ma",
+        "entity_name": "Nid_75_scavenger_elite3_sniper2_grad_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1591700956
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt1_melee1_fists_ma",
+        "entity_name": "Cvi_scavenger_grunt1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1554624205
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_scavenger_butcher3_hmelee2_machete_mb_rare",
+        "entity_name": "Dtn_scavenger_butcher3_hmelee2_machete_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 2829659277
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_scavenger_elite2_shotgun_tactician_ma",
+        "entity_name": "Spr_scavenger_elite2_shotgun_tactician_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 81387950
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_scavenger_grunt1_melee1_fists_ma",
+        "entity_name": "Spr_scavenger_grunt1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3329020906
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.spr_scavenger_grunt1_ranged1_nova_wa",
+        "entity_name": "Spr_scavenger_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2468200026
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.spr_scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_name": "Spr_scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3444808975
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.rcr_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_name": "Rcr_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 3413730430
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.kab_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_name": "Kab_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 1041126905
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_scavenger_grunt2_melee2_knife_ma",
+        "entity_name": "Dtn_scavenger_grunt2_melee2_knife_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2429236595
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_scavengers_grunt_medium_range_w_hard",
+        "entity_name": "Rey_scavengers_grunt_medium_range_w_hard",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 295953326
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_smg_ma_scavenger",
+        "entity_name": "Reload_smg_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 381163974
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_shotgun_ma_scavenger",
+        "entity_name": "Reload_shotgun_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 873168022
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_revolver_ma_scavenger",
+        "entity_name": "Reload_revolver_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4074041132
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_handgun_ma_scavenger",
+        "entity_name": "Reload_handgun_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3238002314
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_dual_shotgun_ma_scavenger",
+        "entity_name": "Reload_dual_shotgun_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 536547975
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_assault_rifle_ma_scavenger",
+        "entity_name": "Reload_assault_rifle_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1133904027
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.reload_ajax_ma_scavenger",
+        "entity_name": "Reload_ajax_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 579664031
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt1_melee1_pipewrench_wa",
+        "entity_name": "Cvi_scavenger_grunt1_melee1_pipewrench_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 534113052
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_pac_cvi_07_scavenger_grunt3_netrunner2_nova_ma_rare_Michal_Glowinski",
+        "entity_name": "Ma_pac_cvi_07_scavenger_grunt3_netrunner2_nova_ma_rare_Michal_Glowinski",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 793682918
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_name": "Scavenger_grunt3_netrunner2_nova_ma_rare",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2551908051
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.scavenger_netrunner2_netrunner2_nova_wa_rare",
+        "entity_name": "Scavenger_netrunner2_netrunner2_nova_wa_rare",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3920697714
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_name": "Scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 664588044
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_name": "Arr_scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1370931955
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Lch_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2296836063
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_scavenger_grunt1_melee1_fists_ma",
+        "entity_name": "Dtn_scavenger_grunt1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3151696887
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q302_caliente_scav_soldier_wa",
+        "entity_name": "Q302_caliente_scav_soldier_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 79559430
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q302_caliente_scav_soldier_shotgun",
+        "entity_name": "Q302_caliente_scav_soldier_shotgun",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 675972505
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q302_caliente_scav_soldier_ma",
+        "entity_name": "Q302_caliente_scav_soldier_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3029336541
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q302_caliente_scav_melee_wa",
+        "entity_name": "Q302_caliente_scav_melee_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2446732341
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q302_caliente_scav_hmg",
+        "entity_name": "Q302_caliente_scav_hmg",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 3932809083
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q302_caliente_scav_fast_melee",
+        "entity_name": "Q302_caliente_scav_fast_melee",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3113548325
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q302_caliente_scav_elite_melee",
+        "entity_name": "Q302_caliente_scav_elite_melee",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 4137516231
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq002_scavenger_netrunner",
+        "entity_name": "Mq002_scavenger_netrunner",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1249396378
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.HandcuffedGoon_Scavenger_f",
+        "entity_name": "HandcuffedGoon_Scavenger_f",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 4017797195
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_name": "Cvi_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 1730444860
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_handgun_ma_scavenger",
+        "entity_name": "Crouch_precise_shoot_handgun_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3904526486
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_lmg_ma_scavenger",
+        "entity_name": "Equip_lmg_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 593053265
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_scavenger_grunt1_melee1_fists_ma",
+        "entity_name": "Lch_scavenger_grunt1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1556442525
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_scavenger_grunt2_melee2_knife_wa",
+        "entity_name": "Lch_scavenger_grunt2_melee2_knife_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3354964418
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Shingen",
+        "entity_name": "NPC_Shingen",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1470135299
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq301_ambush_scav_soldier_ma",
+        "entity_name": "Mq301_ambush_scav_soldier_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1220104618
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq301_ambush_scav_elite_melee",
+        "entity_name": "Mq301_ambush_scav_elite_melee",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 939569416
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq044_scav_nova",
+        "entity_name": "Mq044_scav_nova",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1382358035
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq044_scav_fists",
+        "entity_name": "Mq044_scav_fists",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3146242859
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.mq002_scavenger_LMG",
+        "entity_name": "Mq002_scavenger_LMG",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 1887657297
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_name": "Lch_scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2991722359
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ma_pac_cvi_09_scavenger_fast3_fmelee3_machete_wa_elite_Misha_Orlova",
+        "entity_name": "Ma_pac_cvi_09_scavenger_fast3_fmelee3_machete_wa_elite_Misha_Orlova",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2887816027
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wbr_jpn_07_scavenger_baseball_ma",
+        "entity_name": "Ma_wbr_jpn_07_scavenger_baseball_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1396743233
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq301_ambush_scav_soldier_shotgun",
+        "entity_name": "Mq301_ambush_scav_soldier_shotgun",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 656434490
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_scavenger_elite2_shotgun_igla_ma",
+        "entity_name": "Bls_se_scavenger_elite2_shotgun_igla_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3341858018
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Cvi_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 808460781
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_smg_ma_scavenger",
+        "entity_name": "Crouch_precise_shoot_smg_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2096394263
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Arr_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2086834490
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.mq036_scavenger_LMG",
+        "entity_name": "Mq036_scavenger_LMG",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 3543633088
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_name": "Cvi_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2138158461
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_name": "Cvi_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2952270279
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_ajax_ma_scavenger",
+        "entity_name": "Equip_ajax_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2634134927
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_name": "Cvi_scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1045328685
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_scavenger_elite2_shotgun_igla_ma",
+        "entity_name": "Kab_scavenger_elite2_shotgun_igla_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3779469715
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_scavenger_netrunner2_netrunner2_nova_wa_rare",
+        "entity_name": "Lch_scavenger_netrunner2_netrunner2_nova_wa_rare",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1165629600
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_revolver_ma_scavenger",
+        "entity_name": "Crouch_precise_shoot_revolver_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3875403461
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_name": "Kab_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1176122898
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_scavenger_grunt1_ranged1_nova_wa",
+        "entity_name": "Lch_scavenger_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 162791469
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq044_scav_pipe",
+        "entity_name": "Mq044_scav_pipe",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3071878034
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Kenshin",
+        "entity_name": "NPC_Kenshin",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 146138647
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Nekomata",
+        "entity_name": "NPC_Nekomata",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1605447783
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt1_melee1_fists_ma",
+        "entity_name": "Wwd_scavenger_grunt1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 63838673
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_name": "Wwd_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4210458969
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_name": "Wwd_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 304030642
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt1_ranged1_nova_ma",
+        "entity_name": "Wwd_scavenger_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3868364474
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt1_ranged1_nova_wa",
+        "entity_name": "Wwd_scavenger_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1455387745
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Wwd_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2202142200
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Wwd_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 862977827
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_name": "Wwd_scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2876059492
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ma_wbr_jpn_07_scavenger_knife_wa",
+        "entity_name": "Ma_wbr_jpn_07_scavenger_knife_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1382608117
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_05_enemy_short_range_m",
+        "entity_name": "Sts_wat_kab_05_enemy_short_range_m",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2688169646
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_05_enemy_melee",
+        "entity_name": "Sts_wat_kab_05_enemy_melee",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 597206823
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_05_enemy_ganger_shotgun_tier2",
+        "entity_name": "Sts_wat_kab_05_enemy_ganger_shotgun_tier2",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1081023205
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_05_enemy_ganger_officer",
+        "entity_name": "Sts_wat_kab_05_enemy_ganger_officer",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 379311964
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_05_enemy_ganger_keycard",
+        "entity_name": "Sts_wat_kab_05_enemy_ganger_keycard",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 463373439
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Rcr_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1905564403
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Arr_scavenger_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3677345920
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq306_Assistant",
+        "entity_name": "Mq306_Assistant",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 347419379
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq306_scavengers",
+        "entity_name": "Mq306_scavengers",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3504040580
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_handgun_ma_scavenger",
+        "entity_name": "Precise_shoot_handgun_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2652296208
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_dual_shotgun_ma_scavenger",
+        "entity_name": "Precise_shoot_dual_shotgun_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3385457049
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_assault_rifle_ma_scavenger",
+        "entity_name": "Precise_shoot_assault_rifle_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3108966163
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_ajax_ma_scavenger",
+        "entity_name": "Precise_shoot_ajax_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1457205840
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Arr_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3427757025
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q105_bds_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_name": "Q105_bds_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 627564850
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_pac_03_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_name": "Mws_pac_03_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3544147075
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_elite2_shotgun_igla_ma",
+        "entity_name": "Cvi_scavenger_elite2_shotgun_igla_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1336985062
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.crouch_precise_shoot_ajax_ma_scavenger",
+        "entity_name": "Crouch_precise_shoot_ajax_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3543291572
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q105_bds_scavenger_fast2_fmelee2rare_knife_ma_rare",
+        "entity_name": "Q105_bds_scavenger_fast2_fmelee2rare_knife_ma_rare",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1338203222
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt1_ranged1_nova_ma",
+        "entity_name": "Cvi_scavenger_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3119856038
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.bls_se_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_name": "Bls_se_scavenger_strong3_gunner2_defender_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 1641359519
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rcr_scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_name": "Rcr_scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1260419675
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_scavenger_butcher3_hmelee2_machete_mb_rare",
+        "entity_name": "Cvi_scavenger_butcher3_hmelee2_machete_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 1176573890
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_elite3_sniper2_grad_ma",
+        "entity_name": "Cvi_scavenger_elite3_sniper2_grad_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1904962973
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_fast2_fmelee2rare_knife_ma_rare",
+        "entity_name": "Cvi_scavenger_fast2_fmelee2rare_knife_ma_rare",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3200532095
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Dtn_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2010752116
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q001_scavenger_chase_gunner_side",
+        "entity_name": "Q001_scavenger_chase_gunner_side",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2487405244
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q001_scavenger_chase_gunner",
+        "entity_name": "Q001_scavenger_chase_gunner",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 224170673
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q001_scavenger_shotgun4",
+        "entity_name": "Q001_scavenger_shotgun4",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 83512839
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_name": "Cvi_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3131653022
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_name": "Cvi_scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 176472389
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_high_cover_npc",
+        "entity_name": "Ccl_high_cover_npc",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 697386895
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q001_scavenger_shotgun3",
+        "entity_name": "Q001_scavenger_shotgun3",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2594102180
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Chao",
+        "entity_name": "NPC_Chao",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3313372042
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Dian",
+        "entity_name": "NPC_Dian",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 778856850
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Dtn_scavenger_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3354681007
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq036_scavenger_regular_smg_ma",
+        "entity_name": "Mq036_scavenger_regular_smg_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2523485240
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_shotgun_ma_scavenger",
+        "entity_name": "Equip_shotgun_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4277342604
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_name": "Cvi_scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2388888054
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_grunt1_ranged1_nova_wa",
+        "entity_name": "Cvi_scavenger_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 165200765
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_name": "Arr_scavenger_grunt1_ranged1_slaughtomatic_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2361385607
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_assault_rifle_ma_scavenger",
+        "entity_name": "Equip_assault_rifle_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1603518276
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.nid_scavenger_butcher3_hmelee2_machete_mb_rare",
+        "entity_name": "Nid_scavenger_butcher3_hmelee2_machete_mb_rare",
+        "entity_entname": "gang__ep1_scavenger_mb.ent",
+        "entity_id": 2760052594
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_scavenger_elite2_shotgun_igla_ma",
+        "entity_name": "Nid_scavenger_elite2_shotgun_igla_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1563355680
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_scavenger_elite2_shotgun_tactician_ma",
+        "entity_name": "Nid_scavenger_elite2_shotgun_tactician_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3822722042
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_scavenger_elite3_sniper2_grad_ma",
+        "entity_name": "Nid_scavenger_elite3_sniper2_grad_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1662337627
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_scavenger_fast3_fmelee3_machete_wa_elite",
+        "entity_name": "Nid_scavenger_fast3_fmelee3_machete_wa_elite",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1026483680
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt1_melee1_fists_ma",
+        "entity_name": "Nid_scavenger_grunt1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1312260363
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt1_melee1_fists_wa",
+        "entity_name": "Nid_scavenger_grunt1_melee1_fists_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 4263148496
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_name": "Nid_scavenger_grunt1_melee1_pipewrench_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3196409597
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_name": "Nid_scavenger_grunt1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 4026063283
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt1_melee1_tireiron_wa",
+        "entity_name": "Nid_scavenger_grunt1_melee1_tireiron_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 1607803752
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt1_ranged1_nova_ma",
+        "entity_name": "Nid_scavenger_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2875922016
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt1_ranged1_nova_wa",
+        "entity_name": "Nid_scavenger_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 457632955
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Nid_scavenger_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 104955618
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_name": "Nid_scavenger_grunt1_ranged1_slaughtomatic_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 606918628
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt2_melee2_knife_ma",
+        "entity_name": "Nid_scavenger_grunt2_melee2_knife_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1697097615
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt2_melee2_knife_wa",
+        "entity_name": "Nid_scavenger_grunt2_melee2_knife_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3574226260
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt2_melee2_pipewrench_wa",
+        "entity_name": "Nid_scavenger_grunt2_melee2_pipewrench_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 648899359
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Nid_scavenger_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2447984349
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_name": "Nid_scavenger_grunt2_ranged2_pulsar_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1022729802
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_name": "Nid_scavenger_grunt2_ranged2_pulsar_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2362991761
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_scavenger_grunt1_melee1_fists_wa",
+        "entity_name": "Dtn_scavenger_grunt1_melee1_fists_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 200730924
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Omaha",
+        "entity_name": "NPC_Omaha",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1483743618
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Satara",
+        "entity_name": "NPC_Satara",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1397022271
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Yukimura",
+        "entity_name": "NPC_Yukimura",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 2351222033
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.NPC_Zhuo",
+        "entity_name": "NPC_Zhuo",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3334587594
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_scavenger_grunt1_ranged1_nova_wa",
+        "entity_name": "Arr_scavenger_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 3347143356
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cvi_scavenger_fast3_fmelee3_machete_wa_elite",
+        "entity_name": "Cvi_scavenger_fast3_fmelee3_machete_wa_elite",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2237551092
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_scavenger_grunt1_ranged1_nova_ma",
+        "entity_name": "Dtn_scavenger_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1585939612
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.equip_dual_shotgun_ma_scavenger",
+        "entity_name": "Equip_dual_shotgun_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 1982181334
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_scavenger_grunt1_ranged1_nova_wa",
+        "entity_name": "Kab_scavenger_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_scavenger_wa.ent",
+        "entity_id": 2804819720
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_scavenger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precise_shoot_revolver_ma_scavenger",
+        "entity_name": "Precise_shoot_revolver_ma_scavenger",
+        "entity_entname": "gang__ep1_scavenger_ma.ent",
+        "entity_id": 3796925532
+    }
+]

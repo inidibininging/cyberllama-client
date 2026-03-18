@@ -1,0 +1,1498 @@
+[
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_base_mba",
+        "entity_name": "Animals_base_mba",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 3787036948
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_grunt2_hmelee2_hammer_wba_rare",
+        "entity_name": "Animals_grunt2_hmelee2_hammer_wba_rare",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 1800238619
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_test_fast_melee",
+        "entity_name": "Animals_test_fast_melee",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3166714599
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.jpn_animals_bouncer2_ranged2_omaha_mb",
+        "entity_name": "Jpn_animals_bouncer2_ranged2_omaha_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3272801441
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_bouncer1_melee1_fists_mb",
+        "entity_name": "Animals_bouncer1_melee1_fists_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3915783693
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_cct_dtn_02_officer",
+        "entity_name": "Sts_cct_dtn_02_officer",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 1346045903
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_cct_dtn_02_bouncer_smg",
+        "entity_name": "Sts_cct_dtn_02_bouncer_smg",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 866758793
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_cct_dtn_02_bouncer_short_range",
+        "entity_name": "Sts_cct_dtn_02_bouncer_short_range",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3530526903
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_cct_dtn_02_bouncer_short_melee_f",
+        "entity_name": "Sts_cct_dtn_02_bouncer_short_melee_f",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 1500437383
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_cct_dtn_02_bouncer_melee",
+        "entity_name": "Sts_cct_dtn_02_bouncer_melee",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1402623232
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_cct_dtn_02_bouncer_melee_female",
+        "entity_name": "Sts_cct_dtn_02_bouncer_melee_female",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 2903141206
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_cct_dtn_02_bouncer_main_door",
+        "entity_name": "Sts_cct_dtn_02_bouncer_main_door",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3464145681
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.kab_06_handgun",
+        "entity_name": "Kab_06_handgun",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1664820208
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.kab_06_melee",
+        "entity_name": "Kab_06_melee",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 1095522907
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.kab_06_officer",
+        "entity_name": "Kab_06_officer",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 541677592
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.kab_06_shotgunner",
+        "entity_name": "Kab_06_shotgunner",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2037779752
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_grunt2_melee2_hammer_mb",
+        "entity_name": "Animals_grunt2_melee2_hammer_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1643131647
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_animals_grunt2_ranged2_pulsar_mb",
+        "entity_name": "Cvi_animals_grunt2_ranged2_pulsar_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3598509776
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_animals_elite2_hmelee2_fists_mba_rare",
+        "entity_name": "Cvi_animals_elite2_hmelee2_fists_mba_rare",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 231042387
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_mall_animals_grunt2_shotgun2_igla_wba_rare",
+        "entity_name": "Q110_mall_animals_grunt2_shotgun2_igla_wba_rare",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 1168330821
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_mall_animals_grunt2_hmelee2_hammer_wba_rare",
+        "entity_name": "Q110_mall_animals_grunt2_hmelee2_hammer_wba_rare",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 1899862888
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_mall_animals_grunt2_hmelee2_fists_wba_rare",
+        "entity_name": "Q110_mall_animals_grunt2_hmelee2_fists_wba_rare",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 1384404801
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_mall_animals_grunt1_ranged1_pulsar_mb",
+        "entity_name": "Q110_mall_animals_grunt1_ranged1_pulsar_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3170113138
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_mall_animals_grunt1_ranged1_nova_mb",
+        "entity_name": "Q110_mall_animals_grunt1_ranged1_nova_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3694032514
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_test_deflect_melee",
+        "entity_name": "Animals_test_deflect_melee",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 3701402964
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_animal_rifle",
+        "entity_name": "Q110_animal_rifle",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 4178019426
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_animals_mall_cinema_zone",
+        "entity_name": "Q110_animals_mall_cinema_zone",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2712558902
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_animals_mall_entrance_zone_melee",
+        "entity_name": "Q110_animals_mall_entrance_zone_melee",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3277813482
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_animals_mall_entrance_zone_melee2h_pizza_guy",
+        "entity_name": "Q110_animals_mall_entrance_zone_melee2h_pizza_guy",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2151437373
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_animals_mall_entrance_zone_melee2h",
+        "entity_name": "Q110_animals_mall_entrance_zone_melee2h",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 4063732692
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_animals_mall_entrance_zone",
+        "entity_name": "Q110_animals_mall_entrance_zone",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2541064023
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_animals_mall_west_wing_zone_fists",
+        "entity_name": "Q110_animals_mall_west_wing_zone_fists",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1532376574
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_animals_mall_west_wing_zone_handgun",
+        "entity_name": "Q110_animals_mall_west_wing_zone_handgun",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 171800165
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_animals_mall_west_wing_zone_officer",
+        "entity_name": "Q110_animals_mall_west_wing_zone_officer",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1229917581
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_animals_mall_west_wing_zone_shotgun",
+        "entity_name": "Q110_animals_mall_west_wing_zone_shotgun",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 630362550
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_animals_mall_workout_zone_melee",
+        "entity_name": "Q110_animals_mall_workout_zone_melee",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1610318202
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_animals_mall_workout_zone",
+        "entity_name": "Q110_animals_mall_workout_zone",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 37034458
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_bouncer1_ranged1_omaha_mb",
+        "entity_name": "Dtn_animals_bouncer1_ranged1_omaha_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2459374057
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_bouncer_short_range_m_medium",
+        "entity_name": "Dtn_animals_bouncer_short_range_m_medium",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 290523465
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_grunt2_ranged2_overture_mb",
+        "entity_name": "Dtn_animals_grunt2_ranged2_overture_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 614182646
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_bouncer2_hmelee2_hammer_mba_rare",
+        "entity_name": "Animals_bouncer2_hmelee2_hammer_mba_rare",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 408479988
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_grunt1_ranged1_pulsar_mb",
+        "entity_name": "Dtn_animals_grunt1_ranged1_pulsar_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 196787010
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_grunt1_melee1_baseball_mb",
+        "entity_name": "Dtn_animals_grunt1_melee1_baseball_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2734968652
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq012_animal_keycard",
+        "entity_name": "Sq012_animal_keycard",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2870853512
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_elite2_shotgun3_carnage_wba_elite",
+        "entity_name": "Animals_elite2_shotgun3_carnage_wba_elite",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 2078320025
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_bouncer2_ranged2_omaha_mb",
+        "entity_name": "Animals_bouncer2_ranged2_omaha_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 749179962
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_elite2_ranged3_burya_mba_rare",
+        "entity_name": "Animals_elite2_ranged3_burya_mba_rare",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 3594543060
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_bouncer1_melee1_baton_mb",
+        "entity_name": "Animals_bouncer1_melee1_baton_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 4135929849
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_grunt2_hmelee2_fists_wba_rare",
+        "entity_name": "Animals_grunt2_hmelee2_fists_wba_rare",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 4173158741
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_pac_cvi_02_animals_melee_woman",
+        "entity_name": "Sts_pac_cvi_02_animals_melee_woman",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 382754380
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_pac_cvi_02_animals_fast_shotgun",
+        "entity_name": "Sts_pac_cvi_02_animals_fast_shotgun",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 3306890946
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_animals_melee2_machete_mb",
+        "entity_name": "Sa_ep1_courier_loop_enemies_animals_melee2_machete_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1876376332
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ma_wat_lch_04_animal_onscreen_02",
+        "entity_name": "Ma_wat_lch_04_animal_onscreen_02",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 1004616375
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ma_wbr_jpn_19_adam_giles",
+        "entity_name": "Ma_wbr_jpn_19_adam_giles",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2217506995
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ep1_stadium_animals_non_reaction_mb",
+        "entity_name": "Ep1_stadium_animals_non_reaction_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 4199936666
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ep1_stadium_animals_non_reaction_wb",
+        "entity_name": "Ep1_stadium_animals_non_reaction_wb",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 1249380417
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_animals_elite3_hmelee3_fists_mba_elite_dtn_03_boss",
+        "entity_name": "Gang_retaliation_enemies_animals_elite3_hmelee3_fists_mba_elite_dtn_03_boss",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 2902736311
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_animals_hmelee2_fists_wba_rare_dtn_03",
+        "entity_name": "Gang_retaliation_enemies_animals_hmelee2_fists_wba_rare_dtn_03",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 2132856981
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_animals_melee1_baseball_mb_dtn_03",
+        "entity_name": "Gang_retaliation_enemies_animals_melee1_baseball_mb_dtn_03",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1490444294
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_animals_melee2_machete_mb_dtn_03",
+        "entity_name": "Gang_retaliation_enemies_animals_melee2_machete_mb_dtn_03",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1227155010
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_animals_ranged1_nova_mb_dtn_03",
+        "entity_name": "Gang_retaliation_enemies_animals_ranged1_nova_mb_dtn_03",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3506235476
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_animals_ranged1_pulsar_mb_dtn_03",
+        "entity_name": "Gang_retaliation_enemies_animals_ranged1_pulsar_mb_dtn_03",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 4291010426
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq012_animal_elite_meidum",
+        "entity_name": "Sq012_animal_elite_meidum",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 312340536
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq012_animal_elite_hard",
+        "entity_name": "Sq012_animal_elite_hard",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2319536533
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq031_brawlers_3",
+        "entity_name": "Sq031_brawlers_3",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 262715058
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq031_brawlers_2",
+        "entity_name": "Sq031_brawlers_2",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2024769060
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq031_brawlers_1",
+        "entity_name": "Sq031_brawlers_1",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3785807774
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_grunt2_shotgun2_testera_wba_rare",
+        "entity_name": "Animals_grunt2_shotgun2_testera_wba_rare",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 715348881
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.zuza_test_npc",
+        "entity_name": "Zuza_test_npc",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 2811418378
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wwd_animals_grunt2_shotgun2_igla_wba_rare",
+        "entity_name": "Wwd_animals_grunt2_shotgun2_igla_wba_rare",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 2647576133
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wwd_animals_grunt2_ranged2_pulsar_mb",
+        "entity_name": "Wwd_animals_grunt2_ranged2_pulsar_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2300269004
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wwd_animals_grunt2_ranged2_overture_mb",
+        "entity_name": "Wwd_animals_grunt2_ranged2_overture_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 126909657
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wwd_animals_grunt2_melee2_machete_mb",
+        "entity_name": "Wwd_animals_grunt2_melee2_machete_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2758830294
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wwd_animals_grunt2_hmelee2_fists_wba_rare",
+        "entity_name": "Wwd_animals_grunt2_hmelee2_fists_wba_rare",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 2330577217
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wwd_animals_grunt1_melee1_baseball_mb",
+        "entity_name": "Wwd_animals_grunt1_melee1_baseball_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1907482555
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wwd_animals_elite2_hmelee2_hammer_mba_rare",
+        "entity_name": "Wwd_animals_elite2_hmelee2_hammer_mba_rare",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 1101856453
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wwd_05_enemy_officer",
+        "entity_name": "Wwd_05_enemy_officer",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 3477800060
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wwd_05_enemy_meelee",
+        "entity_name": "Wwd_05_enemy_meelee",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 3065480250
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wwd_05_enemy_handgunner",
+        "entity_name": "Wwd_05_enemy_handgunner",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 372329819
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.wwd_05_enemy_handgunner_reprimand",
+        "entity_name": "Wwd_05_enemy_handgunner_reprimand",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3251869627
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.stealth_test_visual",
+        "entity_name": "Stealth_test_visual",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 337748170
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.stealth_test_audio",
+        "entity_name": "Stealth_test_audio",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 4282356556
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.stealth_test_angle_right",
+        "entity_name": "Stealth_test_angle_right",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 3427648949
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.stealth_test_angle_left",
+        "entity_name": "Stealth_test_angle_left",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 4196328480
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.mq306_animals",
+        "entity_name": "Mq306_animals",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 3139867487
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq012_animal_beta",
+        "entity_name": "Sq012_animal_beta",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1648932457
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_grunt2_ranged2_pulsar_mb",
+        "entity_name": "Dtn_animals_grunt2_ranged2_pulsar_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 823024618
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.vehicl_combat_melee_npc",
+        "entity_name": "Vehicl_combat_melee_npc",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3104347959
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.test_arch_02",
+        "entity_name": "Test_arch_02",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1257147913
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.HandcuffedGoon_Animals_m",
+        "entity_name": "HandcuffedGoon_Animals_m",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1750302443
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.HandcuffedGoon_Animals_f",
+        "entity_name": "HandcuffedGoon_Animals_f",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 4286687075
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_03_enemy_handgun",
+        "entity_name": "Dtn_03_enemy_handgun",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1350504111
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_grunt2_ranged2_overture_mb",
+        "entity_name": "Animals_grunt2_ranged2_overture_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 21757365
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_pac_cvi_02_animals_handgun_officer",
+        "entity_name": "Sts_pac_cvi_02_animals_handgun_officer",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2817730052
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_pac_cvi_02_animals_fast_melee",
+        "entity_name": "Sts_pac_cvi_02_animals_fast_melee",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 992462816
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_animals_ranged1_pulsar_mb",
+        "entity_name": "Sa_ep1_courier_loop_enemies_animals_ranged1_pulsar_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3680396311
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_grunt1_melee1_baseball_mb",
+        "entity_name": "Animals_grunt1_melee1_baseball_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 478522622
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_animals_grunt2_shotgun2_igla_wba_rare",
+        "entity_name": "Cvi_animals_grunt2_shotgun2_igla_wba_rare",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 3368050395
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_animals_grunt1_melee1_fists_mb",
+        "entity_name": "Cvi_animals_grunt1_melee1_fists_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1542935306
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.jpn_animals_bouncer2_ranged2_burya_mb",
+        "entity_name": "Jpn_animals_bouncer2_ranged2_burya_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3571774942
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.jpn_animals_elite2_shotgun3_testera_wba_elite",
+        "entity_name": "Jpn_animals_elite2_shotgun3_testera_wba_elite",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 1535625762
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cpz_animals_bouncer2_melee2_fists_mb",
+        "entity_name": "Cpz_animals_bouncer2_melee2_fists_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1675392777
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cpz_animals_grunt1_ranged1_pulsar_mb",
+        "entity_name": "Cpz_animals_grunt1_ranged1_pulsar_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1747949298
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_bouncer1_ranged1_kenshin_mb",
+        "entity_name": "Animals_bouncer1_ranged1_kenshin_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 23601377
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_elite3_gunner3_hmg_mba_elite",
+        "entity_name": "Animals_elite3_gunner3_hmg_mba_elite",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 3198603101
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_grunt1_melee1_fists_mb",
+        "entity_name": "Animals_grunt1_melee1_fists_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1718346304
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_elite_medium_range_m_medium",
+        "entity_name": "Dtn_animals_elite_medium_range_m_medium",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 3642718361
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_base_mb",
+        "entity_name": "Animals_base_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3094051852
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_elite2_ranged3_burya_mba_rare",
+        "entity_name": "Dtn_animals_elite2_ranged3_burya_mba_rare",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 3017388075
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq012_animal_shotgun_beta",
+        "entity_name": "Sq012_animal_shotgun_beta",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 3472660635
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq012_animal_pistol_tech",
+        "entity_name": "Sq012_animal_pistol_tech",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 361922843
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq012_animal_pistol_nova",
+        "entity_name": "Sq012_animal_pistol_nova",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1774775686
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq012_animal_officer",
+        "entity_name": "Sq012_animal_officer",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 2786651307
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq012_animal_officer_beta_female",
+        "entity_name": "Sq012_animal_officer_beta_female",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 317028542
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq012_animal_bouncer_short_range",
+        "entity_name": "Sq012_animal_bouncer_short_range",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 3165250016
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_vo_test",
+        "entity_name": "Animals_vo_test",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 4094541206
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_animals_hmelee2_fists_wba_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_animals_hmelee2_fists_wba_rare",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 1680690069
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_animals_melee1_baseball_mb",
+        "entity_name": "Sa_ep1_courier_loop_enemies_animals_melee1_baseball_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3100970728
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_animals_ranged1_nova_mb",
+        "entity_name": "Sa_ep1_courier_loop_enemies_animals_ranged1_nova_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3820452739
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.spr_animals_grunt3_gunner2_defender_mb_rare",
+        "entity_name": "Spr_animals_grunt3_gunner2_defender_mb_rare",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3912668598
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.spr_animals_bouncer1_ranged1_kenshin_mb",
+        "entity_name": "Spr_animals_bouncer1_ranged1_kenshin_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1687757223
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_animals_grunt1_melee1_baseball_mb",
+        "entity_name": "Cvi_animals_grunt1_melee1_baseball_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1710220355
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_grunt3_gunner2_defender_mb_rare",
+        "entity_name": "Animals_grunt3_gunner2_defender_mb_rare",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1727315275
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_animals_bouncer1_ranged1_omaha_mb",
+        "entity_name": "Cvi_animals_bouncer1_ranged1_omaha_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1417460454
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_grunt2_shotgun2_igla_wba_rare",
+        "entity_name": "Dtn_animals_grunt2_shotgun2_igla_wba_rare",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 2315497902
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ma_pac_wwd_01_animal_keenan",
+        "entity_name": "Ma_pac_wwd_01_animal_keenan",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2810498657
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ma_pac_wwd_01_animal_sheila",
+        "entity_name": "Ma_pac_wwd_01_animal_sheila",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 2429550463
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.spr_animals_elite3_hmelee3_fists_mba_elite",
+        "entity_name": "Spr_animals_elite3_hmelee3_fists_mba_elite",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 4133759512
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.spr_animals_elite3_shotgun3_carnage_mba_elite",
+        "entity_name": "Spr_animals_elite3_shotgun3_carnage_mba_elite",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 3608946851
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.spr_animals_grunt1_melee1_baseball_mb",
+        "entity_name": "Spr_animals_grunt1_melee1_baseball_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3229586517
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.spr_animals_grunt1_ranged1_pulsar_mb",
+        "entity_name": "Spr_animals_grunt1_ranged1_pulsar_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1980595039
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.spr_animals_grunt2_hmelee2_hammer_wba_rare",
+        "entity_name": "Spr_animals_grunt2_hmelee2_hammer_wba_rare",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 3439031495
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.spr_animals_grunt2_ranged2_pulsar_mb",
+        "entity_name": "Spr_animals_grunt2_ranged2_pulsar_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1287232503
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.spr_animals_grunt2_shotgun2_igla_wba_rare",
+        "entity_name": "Spr_animals_grunt2_shotgun2_igla_wba_rare",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 1052697525
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.spr_animals_bouncer1_ranged1_omaha_mb",
+        "entity_name": "Spr_animals_bouncer1_ranged1_omaha_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 4058827504
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_grunt2_melee2_machete_mb",
+        "entity_name": "Animals_grunt2_melee2_machete_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1307035331
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.spr_animals_bouncer2_ranged2_burya_mb",
+        "entity_name": "Spr_animals_bouncer2_ranged2_burya_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3886786030
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_bouncer1_melee1_fists_mb",
+        "entity_name": "Dtn_animals_bouncer1_melee1_fists_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3101997630
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_mall_animals_grunt3_gunner2_defender_mb_rare",
+        "entity_name": "Q110_mall_animals_grunt3_gunner2_defender_mb_rare",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2950884640
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_bouncer2_ranged2_burya_mb",
+        "entity_name": "Animals_bouncer2_ranged2_burya_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 995204421
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_animals_grunt1_ranged1_nova_mb",
+        "entity_name": "Cvi_animals_grunt1_ranged1_nova_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3198927969
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.NPC_SledgeHammer",
+        "entity_name": "NPC_SledgeHammer",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3913768193
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_03_enemy_rifle",
+        "entity_name": "Dtn_03_enemy_rifle",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3070937537
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_mall_animals_grunt1_melee1_fists_mb",
+        "entity_name": "Q110_mall_animals_grunt1_melee1_fists_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 963830249
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_mall_animals_bouncer3_hmelee3_fists_mba_elite",
+        "entity_name": "Q110_mall_animals_bouncer3_hmelee3_fists_mba_elite",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 3358003352
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_mall_animals_bouncer2_hmelee2_fists_mba_rare",
+        "entity_name": "Q110_mall_animals_bouncer2_hmelee2_fists_mba_rare",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 3606481882
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_mall_animals_aftervan_grunt1_ranged1_pulsar_mb",
+        "entity_name": "Q110_mall_animals_aftervan_grunt1_ranged1_pulsar_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2901163572
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_bouncer2_melee2_fists_mb",
+        "entity_name": "Dtn_animals_bouncer2_melee2_fists_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 4807353
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_animals_elite2_shotgun3_testera_wba_elite",
+        "entity_name": "Cvi_animals_elite2_shotgun3_testera_wba_elite",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 370009125
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_animals_grunt1_ranged1_pulsar_mb",
+        "entity_name": "Cvi_animals_grunt1_ranged1_pulsar_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3972531832
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_test_strong_melee2",
+        "entity_name": "Animals_test_strong_melee2",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 1123958907
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_grunt1_ranged1_nova_mb",
+        "entity_name": "Animals_grunt1_ranged1_nova_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2201449771
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_elite2_hmelee2_hammer_mba_rare",
+        "entity_name": "Animals_elite2_hmelee2_hammer_mba_rare",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 1527021096
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_bouncer2_hmelee2_hammer_mba_rare",
+        "entity_name": "Dtn_animals_bouncer2_hmelee2_hammer_mba_rare",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 4143257791
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_grunt1_ranged1_pulsar_mb",
+        "entity_name": "Animals_grunt1_ranged1_pulsar_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1513627505
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ma_pac_cvi_05_animals_grunt1_ranged1_pulsar_mb_Paul_Roberts",
+        "entity_name": "Ma_pac_cvi_05_animals_grunt1_ranged1_pulsar_mb_Paul_Roberts",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 682212873
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q110_animals_mall_entrance_zone_female",
+        "entity_name": "Q110_animals_mall_entrance_zone_female",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 2876680825
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_base_wba",
+        "entity_name": "Animals_base_wba",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 4027105202
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_elite2_shotgun3_testera_wba_elite",
+        "entity_name": "Animals_elite2_shotgun3_testera_wba_elite",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 1907864271
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_bouncer3_hmelee3_fists_mba_elite",
+        "entity_name": "Animals_bouncer3_hmelee3_fists_mba_elite",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 311344664
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_animals_elite2_shotgun3_carnage_wba_elite",
+        "entity_name": "Cvi_animals_elite2_shotgun3_carnage_wba_elite",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 475722611
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_elite2_hmelee2_fists_mba_rare",
+        "entity_name": "Animals_elite2_hmelee2_fists_mba_rare",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 715091417
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_bouncer2_melee2_fists_mb",
+        "entity_name": "Animals_bouncer2_melee2_fists_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1372323466
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_animals_grunt2_melee2_machete_mb",
+        "entity_name": "Cvi_animals_grunt2_melee2_machete_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 4212645834
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_wba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_grunt2_shotgun2_igla_wba_rare",
+        "entity_name": "Animals_grunt2_shotgun2_igla_wba_rare",
+        "entity_entname": "gang__ep1_animals_wba.ent",
+        "entity_id": 4019871313
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_grunt1_ranged1_nova_mb",
+        "entity_name": "Dtn_animals_grunt1_ranged1_nova_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 2488549520
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_animals_bouncer1_melee1_baton_mb",
+        "entity_name": "Cvi_animals_bouncer1_melee1_baton_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1081433840
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_03_enemy_bouncer",
+        "entity_name": "Dtn_03_enemy_bouncer",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 4014117028
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_grunt2_melee2_machete_mb",
+        "entity_name": "Dtn_animals_grunt2_melee2_machete_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 476406512
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_elite3_shotgun3_carnage_mba_elite",
+        "entity_name": "Animals_elite3_shotgun3_carnage_mba_elite",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 1136365675
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.lch_animals_bouncer1_melee1_baton_mb",
+        "entity_name": "Lch_animals_bouncer1_melee1_baton_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1075420576
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.lch_animals_bouncer1_melee1_fists_mb",
+        "entity_name": "Lch_animals_bouncer1_melee1_fists_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1610269780
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.lch_animals_elite2_hmelee2_hammer_mba_rare",
+        "entity_name": "Lch_animals_elite2_hmelee2_hammer_mba_rare",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 2240126033
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.lch_animals_grunt1_melee1_baseball_mb",
+        "entity_name": "Lch_animals_grunt1_melee1_baseball_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 243587444
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_grunt1_melee1_fists_mb",
+        "entity_name": "Dtn_animals_grunt1_melee1_fists_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1896404987
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_animals_elite3_shotgun3_carnage_mba_elite",
+        "entity_name": "Cvi_animals_elite3_shotgun3_carnage_mba_elite",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 604096129
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_animals_grunt2_ranged2_overture_mb",
+        "entity_name": "Cvi_animals_grunt2_ranged2_overture_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3034732748
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_grunt2_ranged2_pulsar_mb",
+        "entity_name": "Animals_grunt2_ranged2_pulsar_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1619853273
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cpz_animals_grunt2_ranged2_pulsar_mb",
+        "entity_name": "Cpz_animals_grunt2_ranged2_pulsar_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1385920090
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_bouncer1_ranged1_omaha_mb",
+        "entity_name": "Animals_bouncer1_ranged1_omaha_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 756478555
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_bouncer2_hmelee2_fists_mba_rare",
+        "entity_name": "Animals_bouncer2_hmelee2_fists_mba_rare",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 534830001
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cpz_animals_grunt1_melee1_baseball_mb",
+        "entity_name": "Cpz_animals_grunt1_melee1_baseball_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1745250797
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.cvi_animals_bouncer2_ranged2_omaha_mb",
+        "entity_name": "Cvi_animals_bouncer2_ranged2_omaha_mb",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 1439554695
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_03_enemy_keycard",
+        "entity_name": "Dtn_03_enemy_keycard",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 503850596
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mba.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.animals_elite3_hmelee3_fists_mba_elite",
+        "entity_name": "Animals_elite3_hmelee3_fists_mba_elite",
+        "entity_entname": "gang__ep1_animals_mba.ent",
+        "entity_id": 1372727492
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ma_cct_cpz_17_animal",
+        "entity_name": "Ma_cct_cpz_17_animal",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 623125901
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_animals_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_animals_grunt_melee_m_easy",
+        "entity_name": "Dtn_animals_grunt_melee_m_easy",
+        "entity_entname": "gang__ep1_animals_mb.ent",
+        "entity_id": 3210022406
+    }
+]

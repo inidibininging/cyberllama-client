@@ -1,0 +1,186 @@
+[
+    {
+        "py/object": "__main__.Point",
+        "x": -1327.7883300781,
+        "y": -1003.4202270508,
+        "z": 12.349515914917,
+        "markerref": "#hey_gle_dataterm_04",
+        "name": "El Coyote Cojo"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1888.3681640625,
+        "y": -574.49163818359,
+        "z": 7.8750996589661,
+        "markerref": "#hey_gle_dataterm_01",
+        "name": "Senate & Market"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1719.9020996094,
+        "y": -886.14208984375,
+        "z": 8.5902557373047,
+        "markerref": "#hey_gle_dataterm_03",
+        "name": "Palms View Way"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1177.8872070313,
+        "y": -916.87554931641,
+        "z": 12.872587203979,
+        "markerref": "#hey_gle_dataterm_05",
+        "name": "Megabuilding H3"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1048.2706298828,
+        "y": -914.84979248047,
+        "z": 8.1876001358032,
+        "markerref": "#hey_rey_dataterm_06",
+        "name": "Shooting Range"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1363.3956298828,
+        "y": -657.78131103516,
+        "z": 5.8433389663696,
+        "markerref": "#hey_gle_metro_ftp_08",
+        "name": "Metro: Ebunike"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1222.0938720703,
+        "y": -448.06579589844,
+        "z": 8.1482515335083,
+        "markerref": "#hey_rey_dataterm_05",
+        "name": "Congress & Madison"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1553.94921875,
+        "y": -643.95599365234,
+        "z": 5.6399998664856,
+        "markerref": "#hey_gle_metro_ftp_01",
+        "name": "Metro: Glen North"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -889.90026855469,
+        "y": -83.498260498047,
+        "z": 7.2400002479553,
+        "markerref": "#hey_rey_dataterm_07",
+        "name": "Delamain HQ"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1026.5601806641,
+        "y": -348.45263671875,
+        "z": 5.7300000190735,
+        "markerref": "#hey_rey_metro_ftp_01",
+        "name": "Metro: Congress & MLK"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1773.8709716797,
+        "y": -510.84536743164,
+        "z": 10.139998435974,
+        "markerref": "#hey_gle_dataterm_08",
+        "name": "Embers"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -596.91516113281,
+        "y": -121.97525024414,
+        "z": 7.6928367614746,
+        "markerref": "#hey_rey_dataterm_01",
+        "name": "Republic & Vine"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1590.0546875,
+        "y": -1302.6666259766,
+        "z": 47.979999542236,
+        "markerref": "#hey_gle_metro_ftp_02",
+        "name": "Metro: Glen South"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1610.9034423828,
+        "y": -1180.6201171875,
+        "z": 24.891031265259,
+        "markerref": "#hey_gle_dataterm_07",
+        "name": "Valentino Alley"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1860.2552490234,
+        "y": -1206.4010009766,
+        "z": 20.234703063965,
+        "markerref": "#hey_gle_dataterm_02",
+        "name": "Ventura & Skyline"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -2302.2758789063,
+        "y": -1107.943359375,
+        "z": 13.998116493225,
+        "markerref": "#hey_spr_dataterm_05",
+        "name": "Parque del Mar"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -2410.0598144531,
+        "y": -960.99987792969,
+        "z": 8.1399974822998,
+        "markerref": "#hey_spr_dataterm_07",
+        "name": "Pumping Station"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -2357.734375,
+        "y": -810.30963134766,
+        "z": 12.92000579834,
+        "markerref": "#hey_spr_dataterm_06",
+        "name": "Palms View Plaza"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -2439.822265625,
+        "y": -537.75891113281,
+        "z": 6.9022932052612,
+        "markerref": "#hey_spr_dataterm_02",
+        "name": "Cannery Plaza"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -2232.6730957031,
+        "y": -364.54565429688,
+        "z": 17.330913543701,
+        "markerref": "#hey_spr_dataterm_03",
+        "name": "Berkeley & Bay"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -982.02886962891,
+        "y": -597.89617919922,
+        "z": 8.2038269042969,
+        "markerref": "#hey_rey_dataterm_03",
+        "name": "College St"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -1219.7209472656,
+        "y": -1208.2227783203,
+        "z": 32.811534881592,
+        "markerref": "#hey_gle_dataterm_06",
+        "name": "Hanford Overpass"
+    },
+    {
+        "py/object": "__main__.Point",
+        "x": -657.99243164063,
+        "y": -434.29837036133,
+        "z": 8.2060375213623,
+        "markerref": "#hey_rey_dataterm_04",
+        "name": "Skyline East"
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.AldecaldosMale",
+        "entity_name": "AldecaldosMale",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 3780224638
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_bls_ina_08_nomad_01",
+        "entity_name": "Sts_bls_ina_08_nomad_01",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 2220886490
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.adelcaldos_driver_shotgun2_tactician_ma",
+        "entity_name": "Adelcaldos_driver_shotgun2_tactician_ma",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 900654484
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q114_female_nomad",
+        "entity_name": "Q114_female_nomad",
+        "entity_entname": "gang__ep1_aldecaldos_wa.ent",
+        "entity_id": 416801467
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q114_male_nomad",
+        "entity_name": "Q114_male_nomad",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 222567719
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_08_food_courier",
+        "entity_name": "Sts_wat_kab_08_food_courier",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 3076899358
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q103_nomad_ellie",
+        "entity_name": "Q103_nomad_ellie",
+        "entity_entname": "gang__ep1_aldecaldos_wa.ent",
+        "entity_id": 2491651955
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.prevention_aldecaldo_rifle_ma",
+        "entity_name": "Prevention_aldecaldo_rifle_ma",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 2664536155
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.prevention_aldecaldo_rifle_wa",
+        "entity_name": "Prevention_aldecaldo_rifle_wa",
+        "entity_entname": "gang__ep1_aldecaldos_wa.ent",
+        "entity_id": 788292224
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.prevention_aldecaldo_shotgun_ma",
+        "entity_name": "Prevention_aldecaldo_shotgun_ma",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 1167724742
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_adelcaldos_grunt2_ranged2_sidewinder_ma",
+        "entity_name": "Wwd_adelcaldos_grunt2_ranged2_sidewinder_ma",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 1737401118
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_adelcaldos_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Wwd_adelcaldos_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 1753567831
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_adelcaldos_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Wwd_adelcaldos_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_aldecaldos_wa.ent",
+        "entity_id": 2578331643
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.wwd_adelcaldos_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Wwd_adelcaldos_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 696503584
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.wwd_adelcaldos_grunt1_ranged1_nova_wa",
+        "entity_name": "Wwd_adelcaldos_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_aldecaldos_wa.ent",
+        "entity_id": 3012269777
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq027_nomads_defense_male",
+        "entity_name": "Sq027_nomads_defense_male",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 958357075
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq024_margot",
+        "entity_name": "Sq024_margot",
+        "entity_entname": "gang__ep1_aldecaldos_wa.ent",
+        "entity_id": 2994811328
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.adelcaldos_grunt2_ranged2_sidewinder_ma",
+        "entity_name": "Adelcaldos_grunt2_ranged2_sidewinder_ma",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 3106903387
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq002_aldecaldo_1",
+        "entity_name": "Mq002_aldecaldo_1",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 1997188125
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.adelcaldos_grunt1_ranged1_pulsar_wa",
+        "entity_name": "Adelcaldos_grunt1_ranged1_pulsar_wa",
+        "entity_entname": "gang__ep1_aldecaldos_wa.ent",
+        "entity_id": 3719086345
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq024_luigi",
+        "entity_name": "Sq024_luigi",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 677091383
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq024_badlands_race_nomad_racer",
+        "entity_name": "Sq024_badlands_race_nomad_racer",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 2994996571
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.aldecaldos_base_ma",
+        "entity_name": "Aldecaldos_base_ma",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 2198624261
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.adelcaldos_grunt1_ranged1_nova_wa",
+        "entity_name": "Adelcaldos_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_aldecaldos_wa.ent",
+        "entity_id": 3737118100
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.AldecaldosFemale",
+        "entity_name": "AldecaldosFemale",
+        "entity_entname": "gang__ep1_aldecaldos_wa.ent",
+        "entity_id": 464685517
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq056_badlands_race_nomad_racer",
+        "entity_name": "Mq056_badlands_race_nomad_racer",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 3565451764
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq056_aldecaldos1",
+        "entity_name": "Mq056_aldecaldos1",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 169984840
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq056_aldecaldos2",
+        "entity_name": "Mq056_aldecaldos2",
+        "entity_entname": "gang__ep1_aldecaldos_wa.ent",
+        "entity_id": 2468909810
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.adelcaldos_grunt1_ranged1_nova_ma",
+        "entity_name": "Adelcaldos_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 1855070031
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.adelcaldos_grunt1_ranged1_pulsar_ma",
+        "entity_name": "Adelcaldos_grunt1_ranged1_pulsar_ma",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 1837186002
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q000_nomad_border_waiting_room_aldecaldosmale",
+        "entity_name": "Q000_nomad_border_waiting_room_aldecaldosmale",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 3715485390
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq002_aldecaldo_2",
+        "entity_name": "Mq002_aldecaldo_2",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 3993238951
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.aldecaldos_grunt2_sniper2_sor22_wa_elite",
+        "entity_name": "Aldecaldos_grunt2_sniper2_sor22_wa_elite",
+        "entity_entname": "gang__ep1_aldecaldos_wa.ent",
+        "entity_id": 730679121
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.aldecaldos_base_wa",
+        "entity_name": "Aldecaldos_base_wa",
+        "entity_entname": "gang__ep1_aldecaldos_wa.ent",
+        "entity_id": 857842398
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.adelcaldos_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Adelcaldos_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 3055838226
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_aldecaldos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.aldecaldos_grunt2_melee2__ma",
+        "entity_name": "Aldecaldos_grunt2_melee2__ma",
+        "entity_entname": "gang__ep1_aldecaldos_ma.ent",
+        "entity_id": 3844646781
+    }
+]

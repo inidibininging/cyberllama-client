@@ -1,0 +1,3650 @@
+[
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gym_int_ventilation_reaction",
+        "entity_name": "Gym_int_ventilation_reaction",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 432741614
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_tygerclaws_sidekick_1",
+        "entity_name": "Mws_gang_retaliation_enemies_tygerclaws_sidekick_1",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3730771300
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_nid_09_shard_ganger",
+        "entity_name": "Ma_wat_nid_09_shard_ganger",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3656063234
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_tyger_claws_biker1_ranged1_saratoga_wa",
+        "entity_name": "Bls_se_tyger_claws_biker1_ranged1_saratoga_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2071093271
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_name": "Bls_se_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 4199090828
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_name": "Bls_se_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 4183845952
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_biker2_ranged2_copperhead_wa",
+        "entity_name": "Lch_tyger_claws_biker2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1016050191
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_strong_elite_short_range_m_hard",
+        "entity_name": "Dtn_tyger_claws_strong_elite_short_range_m_hard",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 3468305933
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_biker1_ranged1_saratoga_ma",
+        "entity_name": "Jpn_tyger_claws_biker1_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3648964525
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_name": "Lch_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 812506349
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_name": "Lch_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3423676061
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_gangster1_melee1_knife_ma",
+        "entity_name": "Lch_tyger_claws_gangster1_melee1_knife_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 243739707
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_gangster1_melee1_fists_ma",
+        "entity_name": "Lch_tyger_claws_gangster1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2637883960
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_name": "Lch_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2095024531
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_biker1_melee1_tireiron_ma",
+        "entity_name": "Lch_tyger_claws_biker1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1840445783
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_biker1_melee1_baseball_wa",
+        "entity_name": "Lch_tyger_claws_biker1_melee1_baseball_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 4120694567
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_biker1_melee1_fists_wa",
+        "entity_name": "Jpn_tyger_claws_biker1_melee1_fists_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 794168549
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kabuki_tyger_claw_melee",
+        "entity_name": "Kabuki_tyger_claw_melee",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1067146764
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kabuki_tyger_claw_melee_fast",
+        "entity_name": "Kabuki_tyger_claw_melee_fast",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1073336674
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.lch_tyger_claws_ozeki_hmelee3_kanabo_mb",
+        "entity_name": "Lch_tyger_claws_ozeki_hmelee3_kanabo_mb",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 380054841
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_name": "Kab_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3695166859
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_gangster1_melee1_knife_ma",
+        "entity_name": "Kab_tyger_claws_gangster1_melee1_knife_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4198741897
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_biker2_ranged2_shingen_ma",
+        "entity_name": "Kab_tyger_claws_biker2_ranged2_shingen_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 923401459
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_biker1_melee1_tireiron_ma",
+        "entity_name": "Kab_tyger_claws_biker1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2574672613
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_biker1_ranged1_saratoga_ma",
+        "entity_name": "Lch_tyger_claws_biker1_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1170751457
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_biker1_ranged1_nue_ma",
+        "entity_name": "Kab_tyger_claws_biker1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1451260207
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_03_tyger_guard_rifle",
+        "entity_name": "Jpn_03_tyger_guard_rifle",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2092326436
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_name": "Kab_tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3989014923
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_07_enemy_1st_floor_handgun",
+        "entity_name": "Kab_07_enemy_1st_floor_handgun",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3293597332
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_07_enemy_1st_floor_shotgun",
+        "entity_name": "Kab_07_enemy_1st_floor_shotgun",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3959400775
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_07_enemy_casino",
+        "entity_name": "Kab_07_enemy_casino",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2628452770
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_07_enemy_garage_handgun",
+        "entity_name": "Kab_07_enemy_garage_handgun",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3448378963
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_07_enemy_garage_melee1_tireiron",
+        "entity_name": "Kab_07_enemy_garage_melee1_tireiron",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1270244985
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_07_officer_1st_floor",
+        "entity_name": "Kab_07_officer_1st_floor",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4276541960
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_07_officer_casino",
+        "entity_name": "Kab_07_officer_casino",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2506751152
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_enemy_melee_bottle",
+        "entity_name": "Dtn_tyger_claws_enemy_melee_bottle",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2681276986
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_kunoichi_fmelee3_fists_ma_elite",
+        "entity_name": "Jpn_tyger_claws_kunoichi_fmelee3_fists_ma_elite",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3925227992
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_name": "Lch_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2404112255
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_biker1_melee1_tireiron_wa",
+        "entity_name": "Nid_tyger_claws_biker1_melee1_tireiron_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3519346897
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_biker1_ranged1_nue_ma",
+        "entity_name": "Nid_tyger_claws_biker1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 72676306
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_biker1_ranged1_nue_wa",
+        "entity_name": "Nid_tyger_claws_biker1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3027831049
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_biker2_melee2_baseball_ma",
+        "entity_name": "Nid_tyger_claws_biker2_melee2_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1535766437
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q105_dollhouse_officer_tyger_claws_martial_fmelee2_katana_ma_rare",
+        "entity_name": "Q105_dollhouse_officer_tyger_claws_martial_fmelee2_katana_ma_rare",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1174351904
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.q105_dollhouse_tyger_claws_ozeki_hmelee3_kanabo_mb",
+        "entity_name": "Q105_dollhouse_tyger_claws_ozeki_hmelee3_kanabo_mb",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 1142927299
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_name": "Dtn_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 579593906
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cycle_combat_npc_right",
+        "entity_name": "Cycle_combat_npc_right",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2173978897
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kabuki_tyger_claw_officer_rifle_fast",
+        "entity_name": "Kabuki_tyger_claw_officer_rifle_fast",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3000849327
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_name": "Dtn_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2273383137
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_biker1_ranged1_saratoga_wa",
+        "entity_name": "Kab_tyger_claws_biker1_ranged1_saratoga_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3497972481
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_biker2_ranged2_copperhead_ma",
+        "entity_name": "Kab_tyger_claws_biker2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1153709862
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_biker2_ranged2_copperhead_wa",
+        "entity_name": "Kab_tyger_claws_biker2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 4108963325
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_biker2_ranged2_shingen_wa",
+        "entity_name": "Kab_tyger_claws_biker2_ranged2_shingen_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2267285032
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_name": "Lch_tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2584340146
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_lch_11_tyger_claw_onscreen_01",
+        "entity_name": "Ma_wat_lch_11_tyger_claw_onscreen_01",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 507350841
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ma_wat_lch_14_tygerclaw_onscreen_01",
+        "entity_name": "Ma_wat_lch_14_tygerclaw_onscreen_01",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1233372416
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ma_wat_nid_04_shard_ganger",
+        "entity_name": "Ma_wat_nid_04_shard_ganger",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1846634841
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wbr_nok_01_frank",
+        "entity_name": "Ma_wbr_nok_01_frank",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2650902140
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ma_wbr_jpn_20_miniboss_bodyguard1",
+        "entity_name": "Ma_wbr_jpn_20_miniboss_bodyguard1",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 411943175
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_biker1_melee1_baseball_ma",
+        "entity_name": "Dtn_tyger_claws_biker1_melee1_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 441738990
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_enemy_smg_smart",
+        "entity_name": "Dtn_tyger_claws_enemy_smg_smart",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4169959538
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_02_ground_exo",
+        "entity_name": "Jpn_02_ground_exo",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3818358316
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_02_basement",
+        "entity_name": "Jpn_02_basement",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2312170445
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_02_basement_exo",
+        "entity_name": "Jpn_02_basement_exo",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4061245717
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q105_dollhouse_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_name": "Q105_dollhouse_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2567337052
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q105_dollhouse_tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_name": "Q105_dollhouse_tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1389929364
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_kab_03_shard_ganger",
+        "entity_name": "Ma_wat_kab_03_shard_ganger",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2234734375
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_07_netrunner",
+        "entity_name": "Hil_07_netrunner",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3248414150
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_07_security_01",
+        "entity_name": "Hil_07_security_01",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3576506597
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_lch_05_enemy_smg",
+        "entity_name": "Sts_wat_lch_05_enemy_smg",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1878711844
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_07_security_02",
+        "entity_name": "Hil_07_security_02",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1277458783
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_wat_lch_05_enemy_shotgun",
+        "entity_name": "Sts_wat_lch_05_enemy_shotgun",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2338814785
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_07_security_new_01",
+        "entity_name": "Hil_07_security_new_01",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3299852823
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_lch_05_enemy_melee",
+        "entity_name": "Sts_wat_lch_05_enemy_melee",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3795421096
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_07_security_new_02",
+        "entity_name": "Hil_07_security_new_02",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1571197869
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_wat_lch_05_enemy_melee_elite",
+        "entity_name": "Sts_wat_lch_05_enemy_melee_elite",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2356756073
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_lch_05_enemy_handgun",
+        "entity_name": "Sts_wat_lch_05_enemy_handgun",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2764610706
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_wat_lch_03_tyger_claws_martial_hmelee2_hammer_mb",
+        "entity_name": "Sts_wat_lch_03_tyger_claws_martial_hmelee2_hammer_mb",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 3228329697
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_lch_03_tyger_claws_gangster2_ranged2_sidewinder_ma",
+        "entity_name": "Sts_wat_lch_03_tyger_claws_gangster2_ranged2_sidewinder_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3584900709
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_lch_03_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_name": "Sts_wat_lch_03_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3668365100
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_lch_03_tyger_claw_melee_ground",
+        "entity_name": "Sts_wat_lch_03_tyger_claw_melee_ground",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4271802777
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_wat_lch_03_tyger_claw_melee_ground_wa",
+        "entity_name": "Sts_wat_lch_03_tyger_claw_melee_ground_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3445493920
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_lch_03_tyger_claw_melee_basement",
+        "entity_name": "Sts_wat_lch_03_tyger_claw_melee_basement",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3229420854
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_lch_03_tyger_claw_handgun_basement",
+        "entity_name": "Sts_wat_lch_03_tyger_claw_handgun_basement",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3500919805
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_wat_lch_03_owner",
+        "entity_name": "Sts_wat_lch_03_owner",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 3991710364
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_wat_lch_01_Yuri_Shaku",
+        "entity_name": "Sts_wat_lch_01_Yuri_Shaku",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 635338921
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_lch_01_tygerclaw_smg",
+        "entity_name": "Sts_wat_lch_01_tygerclaw_smg",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2052335126
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_lch_01_tygerclaw_rifle",
+        "entity_name": "Sts_wat_lch_01_tygerclaw_rifle",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3357293869
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_107_tygerclaw_smartgun",
+        "entity_name": "Sts_wat_kab_107_tygerclaw_smartgun",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3741808792
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_107_tygerclaw_handgun",
+        "entity_name": "Sts_wat_kab_107_tygerclaw_handgun",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1630869551
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_wat_kab_107_kenji_sakura",
+        "entity_name": "Sts_wat_kab_107_kenji_sakura",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 2688444333
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_gangster1_melee1_knife_ma",
+        "entity_name": "Jpn_tyger_claws_gangster1_melee1_knife_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2977548799
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_kunoichi_fmelee3_katana_wa_elite",
+        "entity_name": "Jpn_tyger_claws_kunoichi_fmelee3_katana_wa_elite",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3367745024
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_08_tyger_claws",
+        "entity_name": "Sts_wat_kab_08_tyger_claws",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2003469872
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_08_tyger_claws_smg",
+        "entity_name": "Sts_wat_kab_08_tyger_claws_smg",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2750943185
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_08_tyger_claws_officer",
+        "entity_name": "Sts_wat_kab_08_tyger_claws_officer",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2058203889
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_kab_08_tyger_claws_melee",
+        "entity_name": "Sts_wat_kab_08_tyger_claws_melee",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2049358864
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_wat_kab_08_tyger_claws_melee_special",
+        "entity_name": "Sts_wat_kab_08_tyger_claws_melee_special",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 3252343844
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_gangster1_melee1_fists_ma",
+        "entity_name": "Jpn_tyger_claws_gangster1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 583274492
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nok_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_name": "Nok_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2189824658
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_tyger_claws_biker2_melee2_baseball_ma",
+        "entity_name": "Nok_tyger_claws_biker2_melee2_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 635825440
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_gangster1_melee1_knife_wa",
+        "entity_name": "Dtn_tyger_claws_gangster1_melee1_knife_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3780085234
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_09_katana",
+        "entity_name": "Sts_hey_rey_09_katana",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 494957474
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_09_mb",
+        "entity_name": "Sts_hey_rey_09_mb",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3710546688
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_09_net",
+        "entity_name": "Sts_hey_rey_09_net",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3367000133
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_09_officer",
+        "entity_name": "Sts_hey_rey_09_officer",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 245765083
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_name": "Kab_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3032086113
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq011_contestant_01",
+        "entity_name": "Mq011_contestant_01",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 742069633
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_tyger_claws_biker2_ranged2_copperhead_ma",
+        "entity_name": "Hil_tyger_claws_biker2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 375185610
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_tyger_claws_gangster1_melee1_knife_wa",
+        "entity_name": "Hil_tyger_claws_gangster1_melee1_knife_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3066565427
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_1a_restricted",
+        "entity_name": "Sa_1a_restricted",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3971861829
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_2b_rest_dang",
+        "entity_name": "Sa_2b_rest_dang",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2847267715
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_name": "Tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 803949828
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster2_ranged2_copperhead_wa",
+        "entity_name": "Tyger_claws_gangster2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 4156077085
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_name": "Tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1200967366
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q105_dollhouse_tyger_claws_gangster2_ranged2_shingen_wa",
+        "entity_name": "Q105_dollhouse_tyger_claws_gangster2_ranged2_shingen_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 690720391
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_biker2_ranged2_copperhead_wa",
+        "entity_name": "Dtn_tyger_claws_biker2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1658576174
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_biker2_ranged2_copperhead_ma",
+        "entity_name": "Dtn_tyger_claws_biker2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3539347445
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_biker1_ranged1_saratoga_wa",
+        "entity_name": "Dtn_tyger_claws_biker1_ranged1_saratoga_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 100880673
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_biker1_ranged1_saratoga_ma",
+        "entity_name": "Dtn_tyger_claws_biker1_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3056511994
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_biker1_melee1_tireiron_ma",
+        "entity_name": "Dtn_tyger_claws_biker1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 844606021
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_name": "Dtn_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 751451300
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_name": "Dtn_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 950475123
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_gangster2_ranged2_sidewinder_ma",
+        "entity_name": "Dtn_tyger_claws_gangster2_ranged2_sidewinder_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2290803624
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_name": "Nid_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 363453661
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_gangster2_ranged2_sidewinder_ma",
+        "entity_name": "Lch_tyger_claws_gangster2_ranged2_sidewinder_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1063660964
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ep1_stadium_tyger_claws_non_reaction_ma",
+        "entity_name": "Ep1_stadium_tyger_claws_non_reaction_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3676513161
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ep1_stadium_tyger_claws_non_reaction_wa",
+        "entity_name": "Ep1_stadium_tyger_claws_non_reaction_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1796135250
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_biker_fmelee2_ma_rare",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_biker_fmelee2_ma_rare",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2333104238
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_biker1_ranged1_nue_wa",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_biker1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1948089392
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_biker1_ranged1_saratoga_ma_jpn_12",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_biker1_ranged1_saratoga_ma_jpn_12",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3797348085
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_biker2_melee2_baseball_ma_jpn_12",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_biker2_melee2_baseball_ma_jpn_12",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3234502232
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_biker3_shotgun2_tactician_wa_jpn_12",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_biker3_shotgun2_tactician_wa_jpn_12",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3624874366
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_biker3_shotgun2_tactician_wa",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_biker3_shotgun2_tactician_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1872873230
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_fmelee2_katana_ma_rare_jpn_12",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_fmelee2_katana_ma_rare_jpn_12",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4070396527
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_fmelee2_katana_ma_rare",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_fmelee2_katana_ma_rare",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3230439910
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_gangster1_ranged1_nue_ma_jpn_12",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_gangster1_ranged1_nue_ma_jpn_12",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3097640455
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_gangster1_ranged1_nue_ma",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_gangster1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 316454267
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_gangster2_ranged2_copperhead_ma_jpn_12",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_gangster2_ranged2_copperhead_ma_jpn_12",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4046764991
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_gangster2_ranged2_copperhead_ma",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_gangster2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 484559341
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_gangster2_ranged2_shingen_wa_jpn_12",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_gangster2_ranged2_shingen_wa_jpn_12",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1464768512
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_gangster2_ranged2_shingen_wa",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_gangster2_ranged2_shingen_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1010918952
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_gangster2_ranged2_sidewinder_wa_jpn_12",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_gangster2_ranged2_sidewinder_wa_jpn_12",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3895764993
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_gangster2_ranged2_sidewinder_wa",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_gangster2_ranged2_sidewinder_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2747777663
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_gangster3_ranged3_sidewinder_ma_jpn_12",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_gangster3_ranged3_sidewinder_ma_jpn_12",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4203931430
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_gangster3_ranged3_sidewinder_ma",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_gangster3_ranged3_sidewinder_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 828508568
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_07_enemy_2nd_floor_balcony",
+        "entity_name": "Kab_07_enemy_2nd_floor_balcony",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1532288490
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_kab_01_shard_ganger",
+        "entity_name": "Ma_wat_kab_01_shard_ganger",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1683854218
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kabuki_tyger_claw_fast_rifleman",
+        "entity_name": "Kabuki_tyger_claw_fast_rifleman",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1462379899
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq026_maintenance_tyger_claws_ozeki_hmelee3_hammer_mb",
+        "entity_name": "Sq026_maintenance_tyger_claws_ozeki_hmelee3_hammer_mb",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 3244053238
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq026_maintenance_tyger_claws_kunoichi_fmelee3_katana_wa_elite",
+        "entity_name": "Sq026_maintenance_tyger_claws_kunoichi_fmelee3_katana_wa_elite",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1868863064
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq026_maintenance_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_name": "Sq026_maintenance_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 240454132
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq026_maintenance_rifler",
+        "entity_name": "Sq026_maintenance_rifler",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1899882699
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq026_maintenance_gunner",
+        "entity_name": "Sq026_maintenance_gunner",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1090977249
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sq026_hiromis_tyger_claws_ozeki_hmelee3_kanabo_mb",
+        "entity_name": "Sq026_hiromis_tyger_claws_ozeki_hmelee3_kanabo_mb",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 1052807406
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq026_hiromis_tyger_claws_gangster2_ranged2_shingen_ma_rare",
+        "entity_name": "Sq026_hiromis_tyger_claws_gangster2_ranged2_shingen_ma_rare",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3039681778
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq026_hiromis_tyger_claws_gangster2_ranged2_shingen_ma_elite",
+        "entity_name": "Sq026_hiromis_tyger_claws_gangster2_ranged2_shingen_ma_elite",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3755751544
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq026_hiromis_officer_tyger_claws_officergangster_officer_nue_ma",
+        "entity_name": "Sq026_hiromis_officer_tyger_claws_officergangster_officer_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3740704875
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq024_pacifica_race_tyger_claws_female_racer",
+        "entity_name": "Sq024_pacifica_race_tyger_claws_female_racer",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3670834616
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_cct_dtn_07_tc_cut_down",
+        "entity_name": "Ma_cct_dtn_07_tc_cut_down",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1797405544
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_name": "Lch_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2668810862
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_arena_team_a_archetype2",
+        "entity_name": "Ccl_arena_team_a_archetype2",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1125386919
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_claws_gangster2_ranged2_sidewinder_ma",
+        "entity_name": "Mws_hey_07_tyger_claws_gangster2_ranged2_sidewinder_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1538679614
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_claws_kunoichi_fmelee3_fists_ma_elite",
+        "entity_name": "Mws_hey_07_tyger_claws_kunoichi_fmelee3_fists_ma_elite",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1339079670
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_claws_kunoichi_fmelee3_katana_wa_elite",
+        "entity_name": "Mws_hey_07_tyger_claws_kunoichi_fmelee3_katana_wa_elite",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 348888397
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_claws_martial_hmelee3_StrongArms_mb",
+        "entity_name": "Mws_hey_07_tyger_claws_martial_hmelee3_StrongArms_mb",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 2170011560
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_claws_officergangster_officer_nue_ma",
+        "entity_name": "Mws_hey_07_tyger_claws_officergangster_officer_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1707311298
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_dead_01",
+        "entity_name": "Mws_hey_07_tyger_dead_01",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2167908944
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_02_officer",
+        "entity_name": "Jpn_02_officer",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2352077500
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker3_shotgun3_zhuo_ma_elite",
+        "entity_name": "Tyger_claws_biker3_shotgun3_zhuo_ma_elite",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2645754442
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_name": "Tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3425048313
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker2_ranged2_shingen_wa",
+        "entity_name": "Tyger_claws_biker2_ranged2_shingen_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1234968951
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker2_ranged2_shingen_ma",
+        "entity_name": "Tyger_claws_biker2_ranged2_shingen_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4189182892
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker2_ranged2_copperhead_wa",
+        "entity_name": "Tyger_claws_biker2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2356555109
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker2_ranged2_copperhead_ma",
+        "entity_name": "Tyger_claws_biker2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1012651966
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker2_melee2_baseball_wa",
+        "entity_name": "Tyger_claws_biker2_melee2_baseball_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3716371150
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker2_melee2_baseball_ma",
+        "entity_name": "Tyger_claws_biker2_melee2_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1840162837
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker1_ranged1_saratoga_wa",
+        "entity_name": "Tyger_claws_biker1_ranged1_saratoga_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 727983939
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker1_ranged1_saratoga_ma",
+        "entity_name": "Tyger_claws_biker1_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2605309336
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker1_ranged1_nue_wa",
+        "entity_name": "Tyger_claws_biker1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3204888606
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker1_ranged1_nue_ma",
+        "entity_name": "Tyger_claws_biker1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 254493381
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker1_melee1_fists_wa",
+        "entity_name": "Tyger_claws_biker1_melee1_fists_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1214575425
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker1_melee1_fists_ma",
+        "entity_name": "Tyger_claws_biker1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4165536154
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker1_melee1_baseball_wa",
+        "entity_name": "Tyger_claws_biker1_melee1_baseball_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3487593418
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker1_melee1_baseball_ma",
+        "entity_name": "Tyger_claws_biker1_melee1_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2144176401
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_base_wa",
+        "entity_name": "Tyger_claws_base_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2245696419
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_base_ma",
+        "entity_name": "Tyger_claws_base_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 905404792
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.turret_fighter",
+        "entity_name": "Turret_fighter",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1927502153
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_martial_fmelee2_katana_ma_rare",
+        "entity_name": "Dtn_tyger_claws_martial_fmelee2_katana_ma_rare",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3722080248
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_jpn_13_tyger_claw",
+        "entity_name": "Sts_wbr_jpn_13_tyger_claw",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1991319726
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_wbr_jpn_12_tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_name": "Sts_wbr_jpn_12_tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1166020528
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_jpn_12_tyger_claws_officergangster_officer_nue_ma",
+        "entity_name": "Sts_wbr_jpn_12_tyger_claws_officergangster_officer_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 821309982
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_wbr_jpn_12_tyger_claws_gangster2_ranged2_shingen_wa",
+        "entity_name": "Sts_wbr_jpn_12_tyger_claws_gangster2_ranged2_shingen_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3325683993
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_jpn_12_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_name": "Sts_wbr_jpn_12_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1981027266
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_wbr_jpn_12_tyger_claws_gangster2_ranged2_copperhead_wa",
+        "entity_name": "Sts_wbr_jpn_12_tyger_claws_gangster2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1805697505
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_jpn_12_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_name": "Sts_wbr_jpn_12_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3683466042
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_wbr_jpn_12_tyger_claws_gangster1_ranged1_nue_wa",
+        "entity_name": "Sts_wbr_jpn_12_tyger_claws_gangster1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1489689113
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_jpn_12_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_name": "Sts_wbr_jpn_12_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3907461314
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_biker1_melee1_fists_wa",
+        "entity_name": "Kab_tyger_claws_biker1_melee1_fists_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 149050140
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_jpn_05_tygerclaw_officer",
+        "entity_name": "Sts_wbr_jpn_05_tygerclaw_officer",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2339359365
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_jpn_05_tygerclaw_handgun",
+        "entity_name": "Sts_wbr_jpn_05_tygerclaw_handgun",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3357389165
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_wbr_jpn_01_tygerclaw_rifle",
+        "entity_name": "Sts_wbr_jpn_01_tygerclaw_rifle",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2347011700
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_jpn_01_tygerclaw_handgun",
+        "entity_name": "Sts_wbr_jpn_01_tygerclaw_handgun",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 561364111
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_102_tygerclaw_officer",
+        "entity_name": "Sts_wat_nid_102_tygerclaw_officer",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2101115468
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_102_tygerclaw_handgun",
+        "entity_name": "Sts_wat_nid_102_tygerclaw_handgun",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1045299620
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_biker1_melee1_fists_ma",
+        "entity_name": "Dtn_tyger_claws_biker1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3717815001
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_02_tygerclaw_rifle",
+        "entity_name": "Sts_wat_nid_02_tygerclaw_rifle",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2815859401
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_02_tygerclaw_officer",
+        "entity_name": "Sts_wat_nid_02_tygerclaw_officer",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 699854813
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_02_tygerclaw_handgun",
+        "entity_name": "Sts_wat_nid_02_tygerclaw_handgun",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1791267893
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_02_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_name": "Sts_wat_nid_02_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3649674740
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_02_tyger_claws_biker2_melee2_baseball_ma",
+        "entity_name": "Sts_wat_nid_02_tyger_claws_biker2_melee2_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3809908012
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_02_tyger_claws_biker1_melee1_fists_ma",
+        "entity_name": "Sts_wat_nid_02_tyger_claws_biker1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3865283715
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_dead_03",
+        "entity_name": "Mws_hey_07_tyger_dead_03",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1866058620
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_name": "Jpn_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3801478318
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_biker1_melee1_baseball_ma",
+        "entity_name": "Kab_tyger_claws_biker1_melee1_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2977279566
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_biker1_melee1_baseball_ma",
+        "entity_name": "Jpn_tyger_claws_biker1_melee1_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4199534648
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_biker1_melee1_baseball_wa",
+        "entity_name": "Kab_tyger_claws_biker1_melee1_baseball_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 22566037
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kabuki_tc_fast_rifle_journal_hack",
+        "entity_name": "Kabuki_tc_fast_rifle_journal_hack",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3825303334
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_09_sec",
+        "entity_name": "Sts_hey_rey_09_sec",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1604185505
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_09_sec_wa",
+        "entity_name": "Sts_hey_rey_09_sec_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2143181616
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_1d_dangerous",
+        "entity_name": "Sa_1d_dangerous",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3386171779
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.TygerClawsBikerTattooTest_wa",
+        "entity_name": "TygerClawsBikerTattooTest_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 330784001
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.TygerClawsBikerTattooTest_ma",
+        "entity_name": "TygerClawsBikerTattooTest_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2744821722
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_name": "Tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 937334635
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.tyger_claws_ozeki_hmelee3_kanabo_mb",
+        "entity_name": "Tyger_claws_ozeki_hmelee3_kanabo_mb",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 4154772042
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.tyger_claws_ozeki_hmelee3_hammer_mb",
+        "entity_name": "Tyger_claws_ozeki_hmelee3_hammer_mb",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 2555412283
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_officergangster_officer_nue_ma",
+        "entity_name": "Tyger_claws_officergangster_officer_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 562522074
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_officerbiker_officer_nue_ma",
+        "entity_name": "Tyger_claws_officerbiker_officer_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3396099919
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.tyger_claws_martial_hmelee3_StrongArms_mb",
+        "entity_name": "Tyger_claws_martial_hmelee3_StrongArms_mb",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 3248346308
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_martial_hmelee2_StrongArms_ma",
+        "entity_name": "Tyger_claws_martial_hmelee2_StrongArms_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3782172310
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.tyger_claws_martial_hmelee2_hammer_mb",
+        "entity_name": "Tyger_claws_martial_hmelee2_hammer_mb",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 1875402132
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_martial_fmelee2_katana_ma_rare",
+        "entity_name": "Tyger_claws_martial_fmelee2_katana_ma_rare",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1944774023
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_martial_fmelee2_fists_ma_rare",
+        "entity_name": "Tyger_claws_martial_fmelee2_fists_ma_rare",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2783315322
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_kunoichi_fmelee3_katana_wa_elite",
+        "entity_name": "Tyger_claws_kunoichi_fmelee3_katana_wa_elite",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2831038091
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_kunoichi_fmelee3_fists_ma_elite",
+        "entity_name": "Tyger_claws_kunoichi_fmelee3_fists_ma_elite",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1559783239
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster3_ranged3_sidewinder_ma",
+        "entity_name": "Tyger_claws_gangster3_ranged3_sidewinder_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1779863219
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_name": "Tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 4172498260
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster2_ranged2_sidewinder_ma",
+        "entity_name": "Tyger_claws_gangster2_ranged2_sidewinder_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1218363279
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster2_ranged2_shingen_wa",
+        "entity_name": "Tyger_claws_gangster2_ranged2_shingen_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2680600543
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster2_melee2_fists_ma",
+        "entity_name": "Tyger_claws_gangster2_melee2_fists_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 535541330
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster1_ranged1_nue_wa",
+        "entity_name": "Tyger_claws_gangster1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3050438439
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_name": "Tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 100402684
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_name": "Tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2418075481
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_name": "Tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 537730434
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster1_melee1_knife_wa",
+        "entity_name": "Tyger_claws_gangster1_melee1_knife_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2228644365
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster1_melee1_knife_ma",
+        "entity_name": "Tyger_claws_gangster1_melee1_knife_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 888901846
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster1_melee1_fists_wa",
+        "entity_name": "Tyger_claws_gangster1_melee1_fists_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 392932366
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_gangster1_melee1_fists_ma",
+        "entity_name": "Tyger_claws_gangster1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2806404821
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_101_tyger_rifle",
+        "entity_name": "Jpn_101_tyger_rifle",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 451223712
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_biker1_melee1_tireiron_wa",
+        "entity_name": "Kab_tyger_claws_biker1_melee1_tireiron_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 693868606
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_gangster3_ranged3_sidewinder_ma",
+        "entity_name": "Jpn_tyger_claws_gangster3_ranged3_sidewinder_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3742945324
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_name": "Jpn_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1891120383
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker1_melee1_tireiron_wa",
+        "entity_name": "Tyger_claws_biker1_melee1_tireiron_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3890462561
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_03_tyger_guard_handgun",
+        "entity_name": "Jpn_03_tyger_guard_handgun",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 488490077
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.tyger_claws_biker1_melee1_tireiron_ma",
+        "entity_name": "Tyger_claws_biker1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1473136058
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_03_tyger_guard_emon_fujikura",
+        "entity_name": "Jpn_03_tyger_guard_emon_fujikura",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2577931315
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_name": "Jpn_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4070248537
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_02_torturer",
+        "entity_name": "Jpn_02_torturer",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1941205968
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_name": "Jpn_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 623819206
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.tyger_claws_base_mb",
+        "entity_name": "Tyger_claws_base_mb",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 2902339778
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_tyger_claws_martial_fmelee2_katana_ma_rare",
+        "entity_name": "Nok_tyger_claws_martial_fmelee2_katana_ma_rare",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4069449042
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nok_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_name": "Nok_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 243992375
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nok_tyger_claws_gangster2_ranged2_copperhead_wa",
+        "entity_name": "Nok_tyger_claws_gangster2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 25228926
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nok_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_name": "Nok_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1712891194
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_tyger_claws_biker1_ranged1_nue_wa",
+        "entity_name": "Bls_se_tyger_claws_biker1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3247027403
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_tyger_claws_gangster1_melee1_knife_ma",
+        "entity_name": "Nok_tyger_claws_gangster1_melee1_knife_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2091963875
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq012_tyger_claw",
+        "entity_name": "Sq012_tyger_claw",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2605167508
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_ep1_06_tyger_claws_wa",
+        "entity_name": "Sts_ep1_06_tyger_claws_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 4203342239
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_06_tyger_claws_ma",
+        "entity_name": "Sts_ep1_06_tyger_claws_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1252266820
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_gangster2_ranged2_sidewinder_ma",
+        "entity_name": "Jpn_tyger_claws_gangster2_ranged2_sidewinder_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4254130448
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_gangster2_ranged2_shingen_wa",
+        "entity_name": "Jpn_tyger_claws_gangster2_ranged2_shingen_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3231043108
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wbr_jpn_16_sao",
+        "entity_name": "Ma_wbr_jpn_16_sao",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 424798556
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_biker2_ranged2_shingen_wa",
+        "entity_name": "Dtn_tyger_claws_biker2_ranged2_shingen_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 738578056
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_kab_12_shard_ganger",
+        "entity_name": "Ma_wat_kab_12_shard_ganger",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2714201529
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_3e_restricted_guard",
+        "entity_name": "Sa_3e_restricted_guard",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1539712657
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.smg_dude",
+        "entity_name": "Smg_dude",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 981890155
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_enemy_melee_knife",
+        "entity_name": "Dtn_tyger_claws_enemy_melee_knife",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3254653509
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_tygerclaws_gangster3_ranged3_sidewinder_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_tygerclaws_gangster3_ranged3_sidewinder_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4204681101
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_tygerclaws_gangster2_ranged2_sidewinder_wa",
+        "entity_name": "Sa_ep1_courier_loop_enemies_tygerclaws_gangster2_ranged2_sidewinder_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1748737130
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_tygerclaws_gangster2_ranged2_shingen_wa",
+        "entity_name": "Sa_ep1_courier_loop_enemies_tygerclaws_gangster2_ranged2_shingen_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1733836430
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_tygerclaws_gangster2_ranged2_copperhead_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_tygerclaws_gangster2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3609040888
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_tygerclaws_gangster1_ranged1_nue_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_tygerclaws_gangster1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2318721183
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_tygerclaws_biker3_shotgun2_tactician_wa",
+        "entity_name": "Sa_ep1_courier_loop_enemies_tygerclaws_biker3_shotgun2_tactician_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 884514728
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_tygerclaws_biker1_ranged1_nue_wa",
+        "entity_name": "Sa_ep1_courier_loop_enemies_tygerclaws_biker1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3355291727
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.jpn_03_tyger_guard_wa",
+        "entity_name": "Jpn_03_tyger_guard_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1196809774
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_tyger_claws_biker1_ranged1_nue_ma",
+        "entity_name": "Hil_tyger_claws_biker1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2060659735
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_07_security_officer",
+        "entity_name": "Hil_07_security_officer",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4145069428
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.HandcuffedGoon_TC_f",
+        "entity_name": "HandcuffedGoon_TC_f",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 861534231
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_biker2_melee2_baseball_ma",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_biker2_melee2_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 509976102
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_biker_fmelee2_ma_rare_jpn_12",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_biker_fmelee2_ma_rare_jpn_12",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3409129158
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_tyger_claws_gangster1_ranged1_nue_wa",
+        "entity_name": "Hil_tyger_claws_gangster1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1942233611
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q105_dollhouse_reinforcementcaller_tyger_claws_gangster3_ranged3_sidewinder_ma",
+        "entity_name": "Q105_dollhouse_reinforcementcaller_tyger_claws_gangster3_ranged3_sidewinder_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3152192808
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_gangster1_melee1_knife_wa",
+        "entity_name": "Kab_tyger_claws_gangster1_melee1_knife_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1248742738
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_gangster1_ranged1_nue_wa",
+        "entity_name": "Kab_tyger_claws_gangster1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1813135184
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_name": "Kab_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2321275599
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_gangster2_ranged2_copperhead_wa",
+        "entity_name": "Kab_tyger_claws_gangster2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 980819988
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_name": "Kab_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1467264412
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_gangster2_ranged2_shingen_wa",
+        "entity_name": "Kab_tyger_claws_gangster2_ranged2_shingen_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3881391943
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_gangster2_ranged2_sidewinder_ma",
+        "entity_name": "Kab_tyger_claws_gangster2_ranged2_sidewinder_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2236623750
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_name": "Kab_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 897438045
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_gangster3_ranged3_sidewinder_ma",
+        "entity_name": "Kab_tyger_claws_gangster3_ranged3_sidewinder_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2815957690
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.kab_tyger_claws_ozeki_hmelee3_kanabo_mb",
+        "entity_name": "Kab_tyger_claws_ozeki_hmelee3_kanabo_mb",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 3795739043
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_name": "Kab_tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3379696637
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_biker1_melee1_baseball_ma",
+        "entity_name": "Nid_tyger_claws_biker1_melee1_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1240125089
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ma_wat_nid_26_netrunner",
+        "entity_name": "Ma_wat_nid_26_netrunner",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2505802540
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_biker1_melee1_baseball_ma",
+        "entity_name": "Lch_tyger_claws_biker1_melee1_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1169241596
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_biker1_ranged1_nue_ma",
+        "entity_name": "Lch_tyger_claws_biker1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 489305935
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_gangster1_melee1_knife_ma",
+        "entity_name": "Dtn_tyger_claws_gangster1_melee1_knife_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1365409577
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_02_ground_rifle",
+        "entity_name": "Jpn_02_ground_rifle",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3172420936
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_biker2_ranged2_copperhead_ma",
+        "entity_name": "Jpn_tyger_claws_biker2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1661513285
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_gangster1_melee1_knife_wa",
+        "entity_name": "Jpn_tyger_claws_gangster1_melee1_knife_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 22295332
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq024_pacifica_race_tyger_claws_racer",
+        "entity_name": "Sq024_pacifica_race_tyger_claws_racer",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 410685250
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_03_enemy_car_shotgun",
+        "entity_name": "Nid_03_enemy_car_shotgun",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 177441844
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_03_enemy_offices",
+        "entity_name": "Nid_03_enemy_offices",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 99846997
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_03_tyger_claws_biker1_melee1_baseball_ma",
+        "entity_name": "Nid_03_tyger_claws_biker1_melee1_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3268905603
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_03_tyger_claws_biker1_ranged1_saratoga_ma",
+        "entity_name": "Nid_03_tyger_claws_biker1_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2247439859
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_2d_rest_rest",
+        "entity_name": "Sa_2d_rest_rest",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1219075229
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_2c_safe_dang",
+        "entity_name": "Sa_2c_safe_dang",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 107379885
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_2a_safe_rest",
+        "entity_name": "Sa_2a_safe_rest",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1470318641
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_1c_safe",
+        "entity_name": "Sa_1c_safe",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2850110021
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_1b_restricted",
+        "entity_name": "Sa_1b_restricted",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2602770357
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_dead_06",
+        "entity_name": "Mws_hey_07_tyger_dead_06",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 525549555
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_dead_05",
+        "entity_name": "Mws_hey_07_tyger_dead_05",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2254073417
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_dead_04",
+        "entity_name": "Mws_hey_07_tyger_dead_04",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 4049428191
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_ozeki_hmelee3_kanabo_mb",
+        "entity_name": "Jpn_tyger_claws_ozeki_hmelee3_kanabo_mb",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 645439300
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.jpn_tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_name": "Jpn_tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 502198150
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_gangster1_ranged1_nue_wa",
+        "entity_name": "Lch_tyger_claws_gangster1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2084363334
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_martial_fmelee2_katana_ma_rare",
+        "entity_name": "Lch_tyger_claws_martial_fmelee2_katana_ma_rare",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2353551494
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wbr_jpn_15_tang",
+        "entity_name": "Ma_wbr_jpn_15_tang",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1632119830
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_name": "Mws_hey_07_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 982206446
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_biker1_melee1_tireiron_ma",
+        "entity_name": "Jpn_tyger_claws_biker1_melee1_tireiron_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3528203411
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_biker1_ranged1_nue_wa",
+        "entity_name": "Jpn_tyger_claws_biker1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1353961605
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_biker2_ranged2_shingen_ma",
+        "entity_name": "Jpn_tyger_claws_biker2_ranged2_shingen_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2083750533
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_name": "Jpn_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2473946882
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q105_dollhouse_tyger_claws_biker3_shotgun3_zhuo_ma_elite",
+        "entity_name": "Q105_dollhouse_tyger_claws_biker3_shotgun3_zhuo_ma_elite",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4172625589
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_kab_06_shard_ganger",
+        "entity_name": "Ma_wat_kab_06_shard_ganger",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 26229066
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_se_tyger_claws_biker1_melee1_baseball_wa",
+        "entity_name": "Bls_se_tyger_claws_biker1_melee1_baseball_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3705019322
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_tyger_claws_biker2_melee2_baseball_ma",
+        "entity_name": "Hil_tyger_claws_biker2_melee2_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1605423403
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_biker1_ranged1_nue_wa",
+        "entity_name": "Lch_tyger_claws_biker1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2902969748
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_hey_05_dtn_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_name": "Mws_hey_05_dtn_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 98061259
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kabuki_tyger_claw_handgunner",
+        "entity_name": "Kabuki_tyger_claw_handgunner",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2646912637
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_name": "Nok_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4237261659
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_biker1_ranged1_nue_ma",
+        "entity_name": "Dtn_tyger_claws_biker1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2963972471
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq038_tyger_enemy",
+        "entity_name": "Mq038_tyger_enemy",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 319527607
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_biker1_ranged1_nue_wa",
+        "entity_name": "Dtn_tyger_claws_biker1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 8870828
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq035_tyger_claw_06",
+        "entity_name": "Mq035_tyger_claw_06",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3465096687
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq035_tyger_claw_04",
+        "entity_name": "Mq035_tyger_claw_04",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 545737923
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq035_tyger_claw_03",
+        "entity_name": "Mq035_tyger_claw_03",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3202603360
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq035_tyger_claw_02",
+        "entity_name": "Mq035_tyger_claw_02",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3387222518
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq035_tyger_claw_01",
+        "entity_name": "Mq035_tyger_claw_01",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1357756492
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_tygerclaws_leader_1",
+        "entity_name": "Mws_gang_retaliation_enemies_tygerclaws_leader_1",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 4294622971
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_biker1_ranged1_saratoga_wa",
+        "entity_name": "Lch_tyger_claws_biker1_ranged1_saratoga_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 4125476154
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_martial_hmelee3_StrongArms_mb",
+        "entity_name": "Jpn_tyger_claws_martial_hmelee3_StrongArms_mb",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 3954027561
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_name": "Dtn_tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3759751589
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq056_pacifica_race_tyger_claws_female_racer",
+        "entity_name": "Mq056_pacifica_race_tyger_claws_female_racer",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 319913517
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq056_pacifica_race_tyger_claws_racer",
+        "entity_name": "Mq056_pacifica_race_tyger_claws_racer",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2152240677
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ma_wbr_jpn_01_soko",
+        "entity_name": "Ma_wbr_jpn_01_soko",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3091926128
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_gangster1_melee1_fists_wa",
+        "entity_name": "Jpn_tyger_claws_gangster1_melee1_fists_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2464806183
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_biker2_ranged2_copperhead_wa",
+        "entity_name": "Jpn_tyger_claws_biker2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3542439070
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_biker1_ranged1_nue_wa_jpn_12",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_biker1_ranged1_nue_wa_jpn_12",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 40974668
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_biker2_melee2_baseball_ma",
+        "entity_name": "Dtn_tyger_claws_biker2_melee2_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 137840618
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.nid_tyger_claws_ozeki_hmelee3_kanabo_mb",
+        "entity_name": "Nid_tyger_claws_ozeki_hmelee3_kanabo_mb",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 1312933561
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_gangster2_ranged2_copperhead_wa",
+        "entity_name": "Nid_tyger_claws_gangster2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 446836116
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_gangster1_melee1_knife_wa",
+        "entity_name": "Nid_tyger_claws_gangster1_melee1_knife_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3002150333
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q105_yakuza_security",
+        "entity_name": "Q105_yakuza_security",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2131669285
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_101_tyger_handgun",
+        "entity_name": "Jpn_101_tyger_handgun",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 4115637114
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq026_hiromi_gunner",
+        "entity_name": "Sq026_hiromi_gunner",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 50303953
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_biker2_ranged2_copperhead_ma",
+        "entity_name": "Lch_tyger_claws_biker2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2359445716
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_grunt_medium_range_w_easy",
+        "entity_name": "Lch_tyger_claws_grunt_medium_range_w_easy",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 466030675
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_grunt_medium_range_m_hard",
+        "entity_name": "Lch_tyger_claws_grunt_medium_range_m_hard",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 838710507
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_gangster2_ranged2_shingen_wa",
+        "entity_name": "Lch_tyger_claws_gangster2_ranged2_shingen_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 792668341
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.bls_se_tyger_claws_gangster3_ranged3_sidewinder_ma",
+        "entity_name": "Bls_se_tyger_claws_gangster3_ranged3_sidewinder_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 55969194
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_gangster2_ranged2_copperhead_wa",
+        "entity_name": "Lch_tyger_claws_gangster2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2151687734
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_name": "Hil_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 99383920
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_name": "Lch_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3889722738
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_name": "Lch_tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1475710889
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_gangster1_melee1_knife_wa",
+        "entity_name": "Lch_tyger_claws_gangster1_melee1_knife_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3198867168
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_arena_team_b",
+        "entity_name": "Ccl_arena_team_b",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 505957699
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_07_enemy_casino_handgun_tier1",
+        "entity_name": "Kab_07_enemy_casino_handgun_tier1",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2271206747
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wbr_jpn_01_tygerclaw_dual_melee",
+        "entity_name": "Sts_wbr_jpn_01_tygerclaw_dual_melee",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2010097730
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_02_tygerclaw_smg_saratoga",
+        "entity_name": "Sts_wat_nid_02_tygerclaw_smg_saratoga",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3211634992
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_tygerclaws_leader_2",
+        "entity_name": "Mws_gang_retaliation_enemies_tygerclaws_leader_2",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1727262529
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_tygerclaws_sidekick_2",
+        "entity_name": "Mws_gang_retaliation_enemies_tygerclaws_sidekick_2",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1196842206
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_name": "Mws_hey_07_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3645250579
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_claws_biker3_shotgun3_zhuo_ma_elite",
+        "entity_name": "Mws_hey_07_tyger_claws_biker3_shotgun3_zhuo_ma_elite",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3715721510
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_name": "Mws_hey_07_tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 858112307
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_name": "Mws_hey_07_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2198354920
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_name": "Mws_hey_07_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3952843237
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_hey_07_tyger_dead_02",
+        "entity_name": "Mws_hey_07_tyger_dead_02",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 406780906
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q105_yakuza_goons",
+        "entity_name": "Q105_yakuza_goons",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1241549240
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_03_enemy_car_rifle",
+        "entity_name": "Nid_03_enemy_car_rifle",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2820117432
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_name": "Jpn_tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2500018973
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.HandcuffedGoon_TC_m",
+        "entity_name": "HandcuffedGoon_TC_m",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2760581535
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_name": "Dtn_tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3594429059
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_name": "Nok_tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3593822177
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_biker2_ranged2_shingen_ma",
+        "entity_name": "Dtn_tyger_claws_biker2_ranged2_shingen_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2619880531
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_tyger_claws_biker2_melee2_baseball_wa",
+        "entity_name": "Hil_tyger_claws_biker2_melee2_baseball_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 4020055024
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_tygerclaws_biker_fmelee2_ma_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_tygerclaws_biker_fmelee2_ma_rare",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 955290641
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_tygerclaws_biker1_ranged1_saratoga_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_tygerclaws_biker1_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 100236483
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_tygerclaws_biker2_melee2_baseball_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_tygerclaws_biker2_melee2_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3113898002
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_tygerclaws_fmelee2_katana_ma_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_tygerclaws_fmelee2_katana_ma_rare",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 8721799
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_garage_war_team_b",
+        "entity_name": "Ccl_garage_war_team_b",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 401444636
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_name": "Nid_tyger_claws_biker3_shotgun2_tactician_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 323650678
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wbr_jpn_12_hideo",
+        "entity_name": "Ma_wbr_jpn_12_hideo",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1629021583
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ma_wbr_jpn_19_tyger_claw",
+        "entity_name": "Ma_wbr_jpn_19_tyger_claw",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3413890063
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.ma_wbr_jpn_20_miniboss_bodyguard2",
+        "entity_name": "Ma_wbr_jpn_20_miniboss_bodyguard2",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 2172948669
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_martial_fmelee2_katana_ma_rare",
+        "entity_name": "Jpn_tyger_claws_martial_fmelee2_katana_ma_rare",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2910538554
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_06_tyger_generic1_smg1",
+        "entity_name": "Lch_06_tyger_generic1_smg1",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1702667379
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_06_tyger_handgun",
+        "entity_name": "Lch_06_tyger_handgun",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1910273686
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_06_tyger_joe_kaneshiro",
+        "entity_name": "Lch_06_tyger_joe_kaneshiro",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2392808903
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_06_tyger_melee",
+        "entity_name": "Lch_06_tyger_melee",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 4161486635
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_06_tyger_officer_female",
+        "entity_name": "Lch_06_tyger_officer_female",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 649839770
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_06_tyger_rifle",
+        "entity_name": "Lch_06_tyger_rifle",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2352528991
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_name": "Dtn_tyger_claws_gangster2_ranged2_shingen_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3242638671
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_garage_war_team_b_archetype2",
+        "entity_name": "Ccl_garage_war_team_b_archetype2",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1318679045
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_arena_team_a",
+        "entity_name": "Ccl_arena_team_a",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2267094265
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_biker2_ranged2_shingen_wa",
+        "entity_name": "Nid_tyger_claws_biker2_ranged2_shingen_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2142987975
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq035_tyger_claw_05",
+        "entity_name": "Mq035_tyger_claw_05",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1468038229
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_biker1_melee1_fists_ma",
+        "entity_name": "Jpn_tyger_claws_biker1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2675701310
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_biker2_melee2_baseball_ma",
+        "entity_name": "Jpn_tyger_claws_biker2_melee2_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3895259452
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_gangster1_ranged1_nue_wa",
+        "entity_name": "Jpn_tyger_claws_gangster1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1387794037
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_gangster2_ranged2_copperhead_wa",
+        "entity_name": "Jpn_tyger_claws_gangster2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1119283842
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_name": "Jpn_tyger_claws_gangster2_ranged2_sidewinder_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1304239051
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_biker1_ranged1_saratoga_ma",
+        "entity_name": "Kab_tyger_claws_biker1_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1616062938
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_gangster1_melee1_fists_ma",
+        "entity_name": "Kab_tyger_claws_gangster1_melee1_fists_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1778282890
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_name": "Kab_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1575908176
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_martial_fmelee2_katana_ma_rare",
+        "entity_name": "Kab_tyger_claws_martial_fmelee2_katana_ma_rare",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1786281842
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_grunt_medium_range_w_easy",
+        "entity_name": "Dtn_tyger_claws_grunt_medium_range_w_easy",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1143096129
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_biker1_melee1_baseball_wa",
+        "entity_name": "Nid_tyger_claws_biker1_melee1_baseball_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 4190581882
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_biker1_ranged1_saratoga_wa",
+        "entity_name": "Nid_tyger_claws_biker1_ranged1_saratoga_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3761484680
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_biker2_ranged2_copperhead_wa",
+        "entity_name": "Nid_tyger_claws_biker2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1394261994
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_biker2_ranged2_shingen_ma",
+        "entity_name": "Nid_tyger_claws_biker2_ranged2_shingen_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3482754076
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_biker2_melee2_baseball_ma",
+        "entity_name": "Lch_tyger_claws_biker2_melee2_baseball_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1473385720
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_biker3_shotgun3_zhuo_ma_elite",
+        "entity_name": "Nid_tyger_claws_biker3_shotgun3_zhuo_ma_elite",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3765170281
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_gangster1_melee1_knife_ma",
+        "entity_name": "Nid_tyger_claws_gangster1_melee1_knife_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 48027494
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_name": "Nid_tyger_claws_gangster1_ranged1_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3440870411
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_name": "Nid_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 569459542
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_name": "Nid_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2861553487
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_kunoichi_fmelee3_katana_wa_elite",
+        "entity_name": "Nid_tyger_claws_kunoichi_fmelee3_katana_wa_elite",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1010243478
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_name": "Nid_tygerclaw_gangster3_netrunner_nue_wa_rare",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1241933128
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nok_tyger_claws_gangster1_ranged1_nue_wa",
+        "entity_name": "Nok_tyger_claws_gangster1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1285718400
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nok_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_name": "Nok_tyger_claws_gangster2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 2980908197
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_name": "Hil_tyger_claws_gangster1_ranged1_copperhead_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3451589224
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_name": "Hil_tyger_claws_gangster1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3286882512
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_tyger_claws_grunt_medium_range_m_medium",
+        "entity_name": "Hil_tyger_claws_grunt_medium_range_m_medium",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3370707460
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_tyger_claws_biker1_ranged1_saratoga_ma",
+        "entity_name": "Nid_tyger_claws_biker1_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1344162131
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nok_tyger_claws_biker2_melee2_baseball_wa",
+        "entity_name": "Nok_tyger_claws_biker2_melee2_baseball_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 2512918523
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tygerclaws_biker1_ranged1_saratoga_ma",
+        "entity_name": "Gang_retaliation_enemies_tygerclaws_biker1_ranged1_saratoga_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 619345848
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_kab_07_drugged_TC",
+        "entity_name": "Ma_wat_kab_07_drugged_TC",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3417967571
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_06_tyger_yusaku_ogata",
+        "entity_name": "Lch_06_tyger_yusaku_ogata",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1748739465
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_tyger_claws_martial_hmelee3_StrongArms_mb_jpn_12_boss",
+        "entity_name": "Gang_retaliation_enemies_tyger_claws_martial_hmelee3_StrongArms_mb_jpn_12_boss",
+        "entity_entname": "gang__ep1_tyger_mb.ent",
+        "entity_id": 693550189
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_03_tyger_guard_officer",
+        "entity_name": "Jpn_03_tyger_guard_officer",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1584381877
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_tyger_claws_biker1_ranged1_nue_wa",
+        "entity_name": "Kab_tyger_claws_biker1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 3870131188
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_tyger_claws_grunt_medium_range_m_easy",
+        "entity_name": "Dtn_tyger_claws_grunt_medium_range_m_easy",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3866059452
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.jpn_tyger_claws_biker1_ranged1_nue_ma",
+        "entity_name": "Jpn_tyger_claws_biker1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 3768461918
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_tyger_claws_grunt_medium_range_w_medium",
+        "entity_name": "Lch_tyger_claws_grunt_medium_range_w_medium",
+        "entity_entname": "gang__ep1_tyger_wa.ent",
+        "entity_id": 1686663014
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_tyger_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_07_enemy_2nd_floor_hadgun",
+        "entity_name": "Kab_07_enemy_2nd_floor_hadgun",
+        "entity_entname": "gang__ep1_tyger_ma.ent",
+        "entity_id": 1444077166
+    }
+]

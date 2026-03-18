@@ -1,0 +1,2434 @@
+[
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_maelstrom_grunt2_ranged2_ajax_ma",
+        "entity_name": "Kab_maelstrom_grunt2_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2312166476
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_maelstrom_melee2_machete_ma_kab_02",
+        "entity_name": "Mws_gang_retaliation_enemies_maelstrom_melee2_machete_ma_kab_02",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1631431820
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_maelstrom_melee2_machete_ma_nid_05",
+        "entity_name": "Mws_gang_retaliation_enemies_maelstrom_melee2_machete_ma_nid_05",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3129982081
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_maelstrom_ranged1_lexington_ma_kab_02",
+        "entity_name": "Mws_gang_retaliation_enemies_maelstrom_ranged1_lexington_ma_kab_02",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 169728251
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_maelstrom_ranged2_copperhead_wa_nid_05",
+        "entity_name": "Mws_gang_retaliation_enemies_maelstrom_ranged2_copperhead_wa_nid_05",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2060403047
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_maelstrom_grunt1_ranged1_copperhead_ma",
+        "entity_name": "Dtn_maelstrom_grunt1_ranged1_copperhead_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 913148235
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_grunt2_ranged2_ajax_ma",
+        "entity_name": "Maelstrom_grunt2_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2446729520
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_nid_14_shard_ganger",
+        "entity_name": "Ma_wat_nid_14_shard_ganger",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3622482609
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_nid_13_shard_ganger_01",
+        "entity_name": "Ma_wat_nid_13_shard_ganger_01",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1679534513
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Nekomata_SemiAuto_Tech_Sniper_Base",
+        "entity_name": "Ma_gang_Nekomata_SemiAuto_Tech_Sniper_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2008244709
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_HMG_FullAuto_Power_HMG_Base",
+        "entity_name": "Ma_gang_HMG_FullAuto_Power_HMG_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3095233931
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Dian_Auto_Smart_Rifle_Base",
+        "entity_name": "Ma_gang_Dian_Auto_Smart_Rifle_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2757269623
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Defender_FullAuto_Power_LMG_Base",
+        "entity_name": "Ma_gang_Defender_FullAuto_Power_LMG_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 95081619
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Chao_Burst_Smart_Handgun_Base",
+        "entity_name": "Ma_gang_Chao_Burst_Smart_Handgun_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 360420580
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Burya_SemiAuto_Tech_Revolver_Base",
+        "entity_name": "Ma_gang_Burya_SemiAuto_Tech_Revolver_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 859375629
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Ashura_SemiAuto_Smart_Sniper_Base",
+        "entity_name": "Ma_gang_Ashura_SemiAuto_Smart_Sniper_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2810765493
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Achilles_SemiAuto_Tech_Rifle_Base",
+        "entity_name": "Ma_gang_Achilles_SemiAuto_Tech_Rifle_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3187161013
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_maelstrom_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Kab_maelstrom_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 933602036
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_05_maelstrom_handgun_ma",
+        "entity_name": "Nid_05_maelstrom_handgun_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2177543300
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_std_arr_09_enemy_rifle",
+        "entity_name": "Sts_std_arr_09_enemy_rifle",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 131599276
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_02_enemy_leader_tier2",
+        "entity_name": "Kab_02_enemy_leader_tier2",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 4207119307
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_02_enemy_melee_tier1",
+        "entity_name": "Kab_02_enemy_melee_tier1",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1940589156
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_02_enemy_rifle_tier1",
+        "entity_name": "Kab_02_enemy_rifle_tier1",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3740814162
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_maelstom_strong_shotgun2_carnage_ma_rare",
+        "entity_name": "Kab_maelstom_strong_shotgun2_carnage_ma_rare",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 4013084232
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_maelstrom_grunt1_melee1_knife_ma",
+        "entity_name": "Kab_maelstrom_grunt1_melee1_knife_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3430045880
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_maelstrom_grunt1_melee1_wrench_wa",
+        "entity_name": "Kab_maelstrom_grunt1_melee1_wrench_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3189324588
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_maelstrom_grunt1_ranged1_copperhead_ma",
+        "entity_name": "Kab_maelstrom_grunt1_ranged1_copperhead_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3759147883
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_maelstrom_grunt1_ranged1_copperhead_wa",
+        "entity_name": "Kab_maelstrom_grunt1_ranged1_copperhead_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 1346236848
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_maelstrom_grunt1_ranged1_lexington_ma",
+        "entity_name": "Kab_maelstrom_grunt1_ranged1_lexington_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2343829861
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.q003_meat_factory_maelstrom_grunt1_ranged1_lexington_wa",
+        "entity_name": "Q003_meat_factory_maelstrom_grunt1_ranged1_lexington_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 4247834822
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_meat_factory_maelstrom_grunt1_ranged1_copperhead_ma",
+        "entity_name": "Q003_meat_factory_maelstrom_grunt1_ranged1_copperhead_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3188218702
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_meat_factory_maelstom_strong_shotgun2_igla_ma",
+        "entity_name": "Q003_meat_factory_maelstom_strong_shotgun2_igla_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 720951213
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_maelstrom_grunt1_ranged1_copperhead_ma",
+        "entity_name": "Cpz_maelstrom_grunt1_ranged1_copperhead_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3589870948
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_lch_07_maelstrom_onscreen_02",
+        "entity_name": "Ma_wat_lch_07_maelstrom_onscreen_02",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1468411073
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_lch_12_maelstrom_onscreen_01",
+        "entity_name": "Ma_wat_lch_12_maelstrom_onscreen_01",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3565507355
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstom_strong_shotgun2_carnage_ma_rare",
+        "entity_name": "Maelstom_strong_shotgun2_carnage_ma_rare",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2544709328
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstom_strong_shotgun2_igla_ma",
+        "entity_name": "Maelstom_strong_shotgun2_igla_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3731976566
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Maelstrom_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2089987181
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maelstrom_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Maelstrom_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3435091638
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maelstrom_ma_generic_ranged_rifle_patrol",
+        "entity_name": "Maelstrom_ma_generic_ranged_rifle_patrol",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 1527770881
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_netrunner_netrunner2_lexington_ma",
+        "entity_name": "Maelstrom_netrunner_netrunner2_lexington_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2331884940
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_officer_officer_lexington_ma",
+        "entity_name": "Maelstrom_officer_officer_lexington_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1556839642
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.maelstrom_strong_gunner2_defender_mb_rare",
+        "entity_name": "Maelstrom_strong_gunner2_defender_mb_rare",
+        "entity_entname": "gang__ep1_maelstrom_mb.ent",
+        "entity_id": 2787150658
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mealstrom_ma_generic_ranged_pistol",
+        "entity_name": "Mealstrom_ma_generic_ranged_pistol",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3396769442
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mealstrom_ma_generic_ranged_shotgun",
+        "entity_name": "Mealstrom_ma_generic_ranged_shotgun",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2326617243
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.bls_ne_maelstrom_grunt2_ranged2_ajax_wa",
+        "entity_name": "Bls_ne_maelstrom_grunt2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3710915266
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gym_int_ventilation_noreaction",
+        "entity_name": "Gym_int_ventilation_noreaction",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2146310070
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_07_enemy_strong_shotgun",
+        "entity_name": "Sts_wat_nid_07_enemy_strong_shotgun",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 511289526
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_07_enemy_officer",
+        "entity_name": "Sts_wat_nid_07_enemy_officer",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3827188249
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_07_enemy_grunt_handgun",
+        "entity_name": "Sts_wat_nid_07_enemy_grunt_handgun",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3538343703
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_06_maelstrom_netrunner_netrunner2_lexington_ma",
+        "entity_name": "Sts_wat_nid_06_maelstrom_netrunner_netrunner2_lexington_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 547318994
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_06_maelstrom_fast_sniper2_grad_ma",
+        "entity_name": "Sts_wat_nid_06_maelstrom_fast_sniper2_grad_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2226160459
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_06_enemy_wa",
+        "entity_name": "Sts_wat_nid_06_enemy_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 589649226
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_06_enemy_shotgunner",
+        "entity_name": "Sts_wat_nid_06_enemy_shotgunner",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3536121782
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_06_enemy_officer",
+        "entity_name": "Sts_wat_nid_06_enemy_officer",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1575328241
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_06_enemy_ma",
+        "entity_name": "Sts_wat_nid_06_enemy_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2466819985
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_wat_nid_06_enemy_gunner_big",
+        "entity_name": "Sts_wat_nid_06_enemy_gunner_big",
+        "entity_entname": "gang__ep1_maelstrom_mb.ent",
+        "entity_id": 3506903104
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_maelstrom_fast_franged2_pulsar_ma_rare",
+        "entity_name": "Hil_maelstrom_fast_franged2_pulsar_ma_rare",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 4029682788
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_maelstrom_fast2_fmelee2_knife_ma_rare",
+        "entity_name": "Hil_maelstrom_fast2_fmelee2_knife_ma_rare",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 152357281
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.hil_maelstrom_grunt2_ranged2_ajax_wa",
+        "entity_name": "Hil_maelstrom_grunt2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3006698793
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq032_maelstrom_medium_range_w_easy",
+        "entity_name": "Mq032_maelstrom_medium_range_w_easy",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 755212137
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq032_maelstrom_medium_range_medium",
+        "entity_name": "Mq032_maelstrom_medium_range_medium",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2666552213
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maelstrom_grunt2_melee2_hammer_wa",
+        "entity_name": "Maelstrom_grunt2_melee2_hammer_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 268729951
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_patrol_guard",
+        "entity_name": "Ccl_patrol_guard",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3097221303
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_omaha",
+        "entity_name": "Npc_omaha",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 764139503
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_maelstrom_melee1_knife_ma_kab_02",
+        "entity_name": "Mws_gang_retaliation_enemies_maelstrom_melee1_knife_ma_kab_02",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2244283515
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_maelstom_strong_shotgun2_carnage_ma_rare",
+        "entity_name": "Lch_maelstom_strong_shotgun2_carnage_ma_rare",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 659861946
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_maelstrom_grunt_medium_range_m_medium",
+        "entity_name": "Lch_maelstrom_grunt_medium_range_m_medium",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 4127709011
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt1_ranged1_copperhead_ma",
+        "entity_name": "Nid_maelstrom_grunt1_ranged1_copperhead_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3495783394
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_maelstrom_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Lch_maelstrom_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2719174164
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.shotgun_dude",
+        "entity_name": "Shotgun_dude",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1238895644
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_grunt1_melee1_wrench_ma",
+        "entity_name": "Maelstrom_grunt1_melee1_wrench_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1470102045
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_grunt1_melee1_knife_ma",
+        "entity_name": "Maelstrom_grunt1_melee1_knife_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3564414404
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_fast_sniper2_grad_ma",
+        "entity_name": "Maelstrom_fast_sniper2_grad_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2036387344
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_fast_franged2_pulsar_ma_rare",
+        "entity_name": "Maelstrom_fast_franged2_pulsar_ma_rare",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 828577718
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maelstrom_fast_fmelee3_mantis_wa_elite",
+        "entity_name": "Maelstrom_fast_fmelee3_mantis_wa_elite",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3097795293
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_fast_fmelee2_machete_ma_rare",
+        "entity_name": "Maelstrom_fast_fmelee2_machete_ma_rare",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 4072165776
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_pulsar",
+        "entity_name": "Npc_pulsar",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 479753186
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_quasar",
+        "entity_name": "Npc_quasar",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 632191130
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_nid_06_shard_ganger",
+        "entity_name": "Ma_wat_nid_06_shard_ganger",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2407509492
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.weakspot_npc_1",
+        "entity_name": "Weakspot_npc_1",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2414076708
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maelstrom_grunt2_melee2_machete_wa",
+        "entity_name": "Maelstrom_grunt2_melee2_machete_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2297974627
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maelstrom_grunt1_ranged1_lexington_wa",
+        "entity_name": "Maelstrom_grunt1_ranged1_lexington_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 4112637153
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.northside_maelstrom_fast_rifleman",
+        "entity_name": "Northside_maelstrom_fast_rifleman",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2962421060
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ep1_stadium_maelstrom_non_reaction_ma",
+        "entity_name": "Ep1_stadium_maelstrom_non_reaction_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1441253475
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ep1_stadium_maelstrom_non_reaction_wa",
+        "entity_name": "Ep1_stadium_maelstrom_non_reaction_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3855233720
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation__enemies_maelstom_shotgun2_carnage_ma_rare_kab_02",
+        "entity_name": "Gang_retaliation__enemies_maelstom_shotgun2_carnage_ma_rare_kab_02",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3976894145
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation__enemies_maelstom_shotgun2_carnage_ma_rare_nid_05",
+        "entity_name": "Gang_retaliation__enemies_maelstom_shotgun2_carnage_ma_rare_nid_05",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 918062796
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_maelstrom_fast_fmelee3_mantis_wa_elite_kab_02_boss",
+        "entity_name": "Gang_retaliation_enemies_maelstrom_fast_fmelee3_mantis_wa_elite_kab_02_boss",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 696742188
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_maelstrom_fast_franged2_pulsar_ma_rare_nid_05_boss",
+        "entity_name": "Gang_retaliation_enemies_maelstrom_fast_franged2_pulsar_ma_rare_nid_05_boss",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2419640314
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_maelstrom_fmelee2_machete_ma_rare_kab_02",
+        "entity_name": "Gang_retaliation_enemies_maelstrom_fmelee2_machete_ma_rare_kab_02",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1537757689
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_maelstrom_fmelee2_machete_ma_rare_nid_05",
+        "entity_name": "Gang_retaliation_enemies_maelstrom_fmelee2_machete_ma_rare_nid_05",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2149204468
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_maelstrom_melee1_knife_ma_kab_02",
+        "entity_name": "Gang_retaliation_enemies_maelstrom_melee1_knife_ma_kab_02",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2018599076
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_maelstrom_melee1_knife_ma_nid_05",
+        "entity_name": "Gang_retaliation_enemies_maelstrom_melee1_knife_ma_nid_05",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2749591721
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_maelstrom_melee2_machete_ma_kab_02",
+        "entity_name": "Gang_retaliation_enemies_maelstrom_melee2_machete_ma_kab_02",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 597271995
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_maelstrom_melee2_machete_ma_nid_05",
+        "entity_name": "Gang_retaliation_enemies_maelstrom_melee2_machete_ma_nid_05",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 4163614134
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_maelstrom_ranged1_lexington_ma_kab_02",
+        "entity_name": "Gang_retaliation_enemies_maelstrom_ranged1_lexington_ma_kab_02",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 725677844
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_maelstrom_ranged1_lexington_ma_nid_05",
+        "entity_name": "Gang_retaliation_enemies_maelstrom_ranged1_lexington_ma_nid_05",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 4042450713
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_maelstrom_ranged2_copperhead_wa_kab_02",
+        "entity_name": "Gang_retaliation_enemies_maelstrom_ranged2_copperhead_wa_kab_02",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2448028588
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_maelstrom_ranged2_copperhead_wa_nid_05",
+        "entity_name": "Gang_retaliation_enemies_maelstrom_ranged2_copperhead_wa_nid_05",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 1247536033
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Omaha_SemiAuto_Tech_Handgun_Base",
+        "entity_name": "Ma_gang_Omaha_SemiAuto_Tech_Handgun_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3580801859
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ccl_interior_shotgun",
+        "entity_name": "Ccl_interior_shotgun",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2726165446
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mealstrom_ma_generic_ranged_rifle",
+        "entity_name": "Mealstrom_ma_generic_ranged_rifle",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3252493063
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstom_strong_shotgun2_carnage_ma_rare",
+        "entity_name": "Nid_maelstom_strong_shotgun2_carnage_ma_rare",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1220656223
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstom_strong_shotgun2_igla_ma",
+        "entity_name": "Nid_maelstom_strong_shotgun2_igla_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2048870329
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_fast_fmelee3_mantis_wa_elite",
+        "entity_name": "Nid_maelstrom_fast_fmelee3_mantis_wa_elite",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 1945308694
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_fast_sniper2_grad_ma",
+        "entity_name": "Nid_maelstrom_fast_sniper2_grad_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1537457699
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt2_melee2_machete_ma",
+        "entity_name": "Nid_maelstrom_grunt2_melee2_machete_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3138211790
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt2_melee2_machete_wa",
+        "entity_name": "Nid_maelstrom_grunt2_melee2_machete_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 186692885
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt2_ranged2_ajax_ma",
+        "entity_name": "Nid_maelstrom_grunt2_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 901257215
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq011_maelstrom_shotgun",
+        "entity_name": "Sq011_maelstrom_shotgun",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1399683692
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq011_maelstrom_rifler_f",
+        "entity_name": "Sq011_maelstrom_rifler_f",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 1188902132
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.vehicle_combat_npc",
+        "entity_name": "Vehicle_combat_npc",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2423465366
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_07_enemy",
+        "entity_name": "Sts_wat_nid_07_enemy",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 972297423
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.HandcuffedGoon_Maelstrom_f",
+        "entity_name": "HandcuffedGoon_Maelstrom_f",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3508301702
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_maelstrom_grunt2_ranged2_ajax_ma",
+        "entity_name": "Cpz_maelstrom_grunt2_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2747377843
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Igla_Dual_Power_Shotgun_Base",
+        "entity_name": "Ma_gang_Igla_Dual_Power_Shotgun_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 261585485
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Lexington_Auto_Power_Handgun_Base",
+        "entity_name": "Ma_gang_Lexington_Auto_Power_Handgun_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2228069975
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Masamune_Burst_Power_Rifle_Base",
+        "entity_name": "Ma_gang_Masamune_Burst_Power_Rifle_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2573683711
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_satara",
+        "entity_name": "Npc_satara",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1613903916
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_saratoga",
+        "entity_name": "Npc_saratoga",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3109002392
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_meat_factory_officer_maelstrom_grunt2_ranged2_ajax_ma",
+        "entity_name": "Q003_meat_factory_officer_maelstrom_grunt2_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3722561802
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_maelstrom_melee2_machete_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_maelstrom_melee2_machete_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 121700890
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_maelstrom_ranged2_copperhead_wa",
+        "entity_name": "Sa_ep1_courier_loop_enemies_maelstrom_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 1216810382
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq011_maelstrom_rifler",
+        "entity_name": "Sq011_maelstrom_rifler",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3838876876
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq011_maelstrom_rifle",
+        "entity_name": "Sq011_maelstrom_rifle",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3510220760
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq011_maelstrom_officer",
+        "entity_name": "Sq011_maelstrom_officer",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 1068557911
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq011_maelstrom_machete",
+        "entity_name": "Sq011_maelstrom_machete",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 301069750
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq011_maelstrom_ganger",
+        "entity_name": "Sq011_maelstrom_ganger",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1314554667
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq011_maelstrom_ganger_f",
+        "entity_name": "Sq011_maelstrom_ganger_f",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3672831648
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq011_maelstrom_f",
+        "entity_name": "Sq011_maelstrom_f",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 1022748524
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq011_maelstrom_elevator",
+        "entity_name": "Sq011_maelstrom_elevator",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2150422407
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq006_maelstrom_shotgun",
+        "entity_name": "Sq006_maelstrom_shotgun",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2083834465
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq006_maelstrom_rifle",
+        "entity_name": "Sq006_maelstrom_rifle",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 519667058
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq006_maelstrom_rifle_easy",
+        "entity_name": "Sq006_maelstrom_rifle_easy",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1616140002
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq006_maelstrom_rifle_ajax",
+        "entity_name": "Sq006_maelstrom_rifle_ajax",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3968888337
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq006_maelstrom_officer",
+        "entity_name": "Sq006_maelstrom_officer",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 283727450
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq006_maelstrom_handgun_easy",
+        "entity_name": "Sq006_maelstrom_handgun_easy",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 1288216477
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_maelstrom_grunt1_ranged1_lexington_ma",
+        "entity_name": "Cpz_maelstrom_grunt1_ranged1_lexington_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3607295053
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_maelstom_shotgun2_carnage_ma_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_maelstom_shotgun2_carnage_ma_rare",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3622928914
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_maelstrom_fmelee2_machete_ma_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_maelstrom_fmelee2_machete_ma_rare",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2959599299
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_maelstrom_melee1_knife_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_maelstrom_melee1_knife_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2187718004
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.spawn_enemy_debug",
+        "entity_name": "Spawn_enemy_debug",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 4012523020
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.SmartRifle_Test",
+        "entity_name": "SmartRifle_Test",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3292302
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Copperhead_Auto_Power_Rifle_Base",
+        "entity_name": "Ma_gang_Copperhead_Auto_Power_Rifle_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3447853103
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Overture_SemiAuto_Power_Revolver_Base",
+        "entity_name": "Ma_gang_Overture_SemiAuto_Power_Revolver_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3260140348
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_maelstrom_ranged1_lexington_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_maelstrom_ranged1_lexington_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 4201540969
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_meat_factory_grunt3_netrunner2_nove_ma_rare",
+        "entity_name": "Q003_meat_factory_grunt3_netrunner2_nove_ma_rare",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 689464021
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_maelstrom_grunt2_melee2_machete_ma",
+        "entity_name": "Cpz_maelstrom_grunt2_melee2_machete_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3156178851
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cpz_maelstrom_grunt2_ranged2_ajax_wa",
+        "entity_name": "Cpz_maelstrom_grunt2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 334254696
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.HandcuffedGoon_Maelstrom_m",
+        "entity_name": "HandcuffedGoon_Maelstrom_m",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1187952142
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.CPO_Current_Combat_Enemy",
+        "entity_name": "CPO_Current_Combat_Enemy",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1738647409
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.CPO_Current_Combat_Enemy_Alarmed",
+        "entity_name": "CPO_Current_Combat_Enemy_Alarmed",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 418696749
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Yukimura_Auto_Power_Handgun_Base",
+        "entity_name": "Ma_gang_Yukimura_Auto_Power_Handgun_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3534975871
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_101_courier",
+        "entity_name": "Nid_101_courier",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 916045531
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_101_maelstrom_handgun",
+        "entity_name": "Nid_101_maelstrom_handgun",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 4076999340
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_101_maelstrom_rfle",
+        "entity_name": "Nid_101_maelstrom_rfle",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1573327521
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_base_ma",
+        "entity_name": "Maelstrom_base_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 317966818
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_05_maelstrom_officer",
+        "entity_name": "Nid_05_maelstrom_officer",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1599302918
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_05_maelstrom_othmar_brasi",
+        "entity_name": "Nid_05_maelstrom_othmar_brasi",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1720405397
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_05_maelstrom_rifle_man",
+        "entity_name": "Nid_05_maelstrom_rifle_man",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 564317799
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_05_maelstrom_server_room_wa",
+        "entity_name": "Nid_05_maelstrom_server_room_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2936682475
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_05_maelstrom_shotgun_man",
+        "entity_name": "Nid_05_maelstrom_shotgun_man",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2287887210
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.hil_maelstrom_fast_fmelee2_machete_ma_rare",
+        "entity_name": "Hil_maelstrom_fast_fmelee2_machete_ma_rare",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 871060034
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_maelstrom_grunt2_melee2_machete_ma",
+        "entity_name": "Kab_maelstrom_grunt2_melee2_machete_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2018711013
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.kab_maelstrom_grunt1_ranged1_lexington_wa",
+        "entity_name": "Kab_maelstrom_grunt1_ranged1_lexington_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 999947198
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_sor",
+        "entity_name": "Npc_sor",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 756966870
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Kenshin_SemiAuto_Tech_Handgun_Base",
+        "entity_name": "Ma_gang_Kenshin_SemiAuto_Tech_Handgun_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 371946711
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_wat_05_maelstrom_fast_fmelee3_mantis_wa_elite",
+        "entity_name": "Mws_wat_05_maelstrom_fast_fmelee3_mantis_wa_elite",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 1315090604
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_maelstrom_ranged1_lexington_ma_nid_05",
+        "entity_name": "Mws_gang_retaliation_enemies_maelstrom_ranged1_lexington_ma_nid_05",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3517958390
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt2_ranged2_ajax_wa",
+        "entity_name": "Nid_maelstrom_grunt2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2241195300
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt1_ranged1_lexington_ma",
+        "entity_name": "Nid_maelstrom_grunt1_ranged1_lexington_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1932222858
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt1_ranged1_copperhead_wa",
+        "entity_name": "Nid_maelstrom_grunt1_ranged1_copperhead_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 1617989945
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt1_melee1_wrench_wa",
+        "entity_name": "Nid_maelstrom_grunt1_melee1_wrench_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3972903377
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt1_melee1_wrench_ma",
+        "entity_name": "Nid_maelstrom_grunt1_melee1_wrench_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1558203146
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt1_melee1_knife_ma",
+        "entity_name": "Nid_maelstrom_grunt1_melee1_knife_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1880789771
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt_medium_range_w_easy",
+        "entity_name": "Nid_maelstrom_grunt_medium_range_w_easy",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3218674900
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt_medium_range_m_hard",
+        "entity_name": "Nid_maelstrom_grunt_medium_range_m_hard",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2514727020
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_05_maelstrom_wrench_ma",
+        "entity_name": "Nid_05_maelstrom_wrench_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3483192088
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kabuki_maelstrom_rifleman",
+        "entity_name": "Kabuki_maelstrom_rifleman",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2603207229
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_maelstrom_grunt1_ranged1_lexington_ma",
+        "entity_name": "Dtn_maelstrom_grunt1_ranged1_lexington_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 546687429
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_maelstrom_fmelee2_machete_ma_rare_kab_02",
+        "entity_name": "Mws_gang_retaliation_enemies_maelstrom_fmelee2_machete_ma_rare_kab_02",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 4275098465
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_maelstrom_fast_fmelee3_mantis_wa_elite_kab_02_boss",
+        "entity_name": "Mws_gang_retaliation_enemies_maelstrom_fast_fmelee3_mantis_wa_elite_kab_02_boss",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3648972564
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Palica_Dual_Smart_Shotgun_Base",
+        "entity_name": "Ma_gang_Palica_Dual_Smart_Shotgun_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1539954428
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.mq032_maelstrom_techie_medium",
+        "entity_name": "Mq032_maelstrom_techie_medium",
+        "entity_entname": "gang__ep1_maelstrom_mb.ent",
+        "entity_id": 1517951109
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.mq026_mal_tank",
+        "entity_name": "Mq026_mal_tank",
+        "entity_entname": "gang__ep1_maelstrom_mb.ent",
+        "entity_id": 1715933579
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq026_mal_shotgunner",
+        "entity_name": "Mq026_mal_shotgunner",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3659388082
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq026_mal_rifleman",
+        "entity_name": "Mq026_mal_rifleman",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 754543272
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq026_mal_melee",
+        "entity_name": "Mq026_mal_melee",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3930324135
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_maelstrom_grunt1_ranged1_lexington_ma",
+        "entity_name": "Lch_maelstrom_grunt1_ranged1_lexington_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2138086103
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Preset_Grad_Default",
+        "entity_name": "Ma_gang_Preset_Grad_Default",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3269933859
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Pulsar_Auto_Power_SMG_Base",
+        "entity_name": "Ma_gang_Pulsar_Auto_Power_SMG_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 300952010
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Satara_Dual_Tech_Shotgun_Base",
+        "entity_name": "Ma_gang_Satara_Dual_Tech_Shotgun_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3004789139
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Testera_Dual_Power_Shotgun_Base",
+        "entity_name": "Ma_gang_Testera_Dual_Power_Shotgun_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2300810932
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Zhuo_Smart_Shotgun_Base",
+        "entity_name": "Ma_gang_Zhuo_Smart_Shotgun_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1273101625
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_nid_23_shard_ganger",
+        "entity_name": "Ma_wat_nid_23_shard_ganger",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2740613640
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_nid_19_shard_ganger",
+        "entity_name": "Ma_wat_nid_19_shard_ganger",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1611711210
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_techie_grenadier2_lexington_ma",
+        "entity_name": "Maelstrom_techie_grenadier2_lexington_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3056676527
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_grunt2_melee2_hammer_ma",
+        "entity_name": "Maelstrom_grunt2_melee2_hammer_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2687075460
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_grunt1_ranged1_lexington_ma",
+        "entity_name": "Maelstrom_grunt1_ranged1_lexington_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1158424122
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maelstrom_grunt1_ranged1_copperhead_wa",
+        "entity_name": "Maelstrom_grunt1_ranged1_copperhead_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2871461362
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_grunt1_ranged1_copperhead_ma",
+        "entity_name": "Maelstrom_grunt1_ranged1_copperhead_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 453705513
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_fast2_fmelee2_knife_ma_rare",
+        "entity_name": "Maelstrom_fast2_fmelee2_knife_ma_rare",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 990556319
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_wat_nid_08_shard_ganger",
+        "entity_name": "Ma_wat_nid_08_shard_ganger",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1155856500
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_netrunner_netrunner2_lexington_ma",
+        "entity_name": "Nid_maelstrom_netrunner_netrunner2_lexington_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1743201285
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq026_mal_handgunner",
+        "entity_name": "Mq026_mal_handgunner",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 42239142
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq026_mal_machete",
+        "entity_name": "Mq026_mal_machete",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2310293658
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_igla",
+        "entity_name": "Npc_igla",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1658588763
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Preset_Unity_Default",
+        "entity_name": "Ma_gang_Preset_Unity_Default",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2755171596
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Preset_Shingen_Military",
+        "entity_name": "Ma_gang_Preset_Shingen_Military",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3890212969
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_maelstrom_grunt1_ranged1_copperhead_wa",
+        "entity_name": "Dtn_maelstrom_grunt1_ranged1_copperhead_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2252370832
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_kenshin",
+        "entity_name": "Npc_kenshin",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2352533807
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_lexington",
+        "entity_name": "Npc_lexington",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1450327594
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_masamune",
+        "entity_name": "Npc_masamune",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 4046269895
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_nekomata",
+        "entity_name": "Npc_nekomata",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2000094670
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_nue",
+        "entity_name": "Npc_nue",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 169749225
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kabuki_maelstrom_handgunner",
+        "entity_name": "Kabuki_maelstrom_handgunner",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3630493377
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Lexington_SemiAuto_Power_Handgun_Base",
+        "entity_name": "Ma_gang_Lexington_SemiAuto_Power_Handgun_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2923720978
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Nue_SemiAuto_Power_Handgun_Base",
+        "entity_name": "Ma_gang_Nue_SemiAuto_Power_Handgun_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 784459326
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Preset_Ajax_Default",
+        "entity_name": "Ma_gang_Preset_Ajax_Default",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1931151912
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Quasar_Auto_Tech_Revolver_Base",
+        "entity_name": "Ma_gang_Quasar_Auto_Tech_Revolver_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2718526394
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maelstrom_grunt1_melee1_wrench_wa",
+        "entity_name": "Maelstrom_grunt1_melee1_wrench_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3887202502
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.maelstrom_grunt2_melee2_machete_ma",
+        "entity_name": "Maelstrom_grunt2_melee2_machete_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 953529784
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maelstrom_grunt2_ranged2_ajax_wa",
+        "entity_name": "Maelstrom_grunt2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 570153963
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq025_mean_mls_01_copper",
+        "entity_name": "Sq025_mean_mls_01_copper",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 645361932
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq025_mean_mls_02_ajax",
+        "entity_name": "Sq025_mean_mls_02_ajax",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2189277454
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq025_mean_mls_03_machete",
+        "entity_name": "Sq025_mean_mls_03_machete",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 1178486287
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq025_mean_mls_04_hammer",
+        "entity_name": "Sq025_mean_mls_04_hammer",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 233672363
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sq025_mean_thug_m",
+        "entity_name": "Sq025_mean_thug_m",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 295921988
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.TechRifle_Test",
+        "entity_name": "TechRifle_Test",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2370255976
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_fast_franged2_pulsar_ma_rare",
+        "entity_name": "Nid_maelstrom_fast_franged2_pulsar_ma_rare",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 4197745533
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Tactician_Pump_Power_Shotgun_Base",
+        "entity_name": "Ma_gang_Tactician_Pump_Power_Shotgun_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 4032163945
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Sor_SemiAuto_Power_Rifle_Base",
+        "entity_name": "Ma_gang_Sor_SemiAuto_Power_Rifle_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3380498607
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Sidewinder_Auto_Smart_Rifle_Base",
+        "entity_name": "Ma_gang_Sidewinder_Auto_Smart_Rifle_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3566182665
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_04_enemy_shotgun_ma",
+        "entity_name": "Sts_wat_nid_04_enemy_shotgun_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3202269252
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_04_enemy_security_officer_machete_ma",
+        "entity_name": "Sts_wat_nid_04_enemy_security_officer_machete_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 434874741
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_04_enemy_rifle_ma",
+        "entity_name": "Sts_wat_nid_04_enemy_rifle_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3173733972
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_04_enemy_maelstrom_netrunner_netrunner2_lexington_ma",
+        "entity_name": "Sts_wat_nid_04_enemy_maelstrom_netrunner_netrunner2_lexington_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 353491763
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_wat_nid_04_enemy_maelstrom_fast_sniper2_grad_ma",
+        "entity_name": "Sts_wat_nid_04_enemy_maelstrom_fast_sniper2_grad_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1668638389
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_maelstrom_fast_franged2_pulsar_ma_rare_nid_05_boss",
+        "entity_name": "Mws_gang_retaliation_enemies_maelstrom_fast_franged2_pulsar_ma_rare_nid_05_boss",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1623282114
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_maelstrom_ranged2_copperhead_wa_kab_02",
+        "entity_name": "Mws_gang_retaliation_enemies_maelstrom_ranged2_copperhead_wa_kab_02",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2709344618
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_maelstrom_grunt1_ranged1_lexington_wa",
+        "entity_name": "Lch_maelstrom_grunt1_ranged1_lexington_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3479003148
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_maelstrom_grunt2_melee2_machete_ma",
+        "entity_name": "Lch_maelstrom_grunt2_melee2_machete_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 900390643
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_maelstrom_grunt2_ranged2_ajax_ma",
+        "entity_name": "Lch_maelstrom_grunt2_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 659225449
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.maelstrom_base_mb",
+        "entity_name": "Maelstrom_base_mb",
+        "entity_entname": "gang__ep1_maelstrom_mb.ent",
+        "entity_id": 2348456024
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq011_maelstrom",
+        "entity_name": "Sq011_maelstrom",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3749215205
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_maelstorm_rifle_combat",
+        "entity_name": "Q003_maelstorm_rifle_combat",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 190812184
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_maelstrom_deal_01",
+        "entity_name": "Q003_maelstrom_deal_01",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2490734977
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_maelstrom_deal_03",
+        "entity_name": "Q003_maelstrom_deal_03",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2054944941
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_maelstrom_netrunner",
+        "entity_name": "Q003_maelstrom_netrunner",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 306509623
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.lch_maelstrom_grunt2_ranged2_ajax_wa",
+        "entity_name": "Lch_maelstrom_grunt2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2540110258
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_maelstrom_rifle_01",
+        "entity_name": "Q003_maelstrom_rifle_01",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3162566241
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_maelstrom_grunt1_ranged1_copperhead_ma",
+        "entity_name": "Lch_maelstrom_grunt1_ranged1_copperhead_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3314228560
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_maelstrom_rifle_02",
+        "entity_name": "Q003_maelstrom_rifle_02",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 629784539
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_maelstrom_grunt1_melee1_wrench_ma",
+        "entity_name": "Lch_maelstrom_grunt1_melee1_wrench_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1168019351
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_maelstrom_rifle_03",
+        "entity_name": "Q003_maelstrom_rifle_03",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1385074509
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.lch_maelstrom_fast_sniper2_grad_ma",
+        "entity_name": "Lch_maelstrom_fast_sniper2_grad_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2168033806
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_maelstrom_rifle_04",
+        "entity_name": "Q003_maelstrom_rifle_04",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3437894382
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_maelstrom_royce_boss",
+        "entity_name": "Q003_maelstrom_royce_boss",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2424102690
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_maelstrom_shotgun_01",
+        "entity_name": "Q003_maelstrom_shotgun_01",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3908088773
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_maelstrom_fmelee2_machete_ma_rare_nid_05",
+        "entity_name": "Mws_gang_retaliation_enemies_maelstrom_fmelee2_machete_ma_rare_nid_05",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 627229548
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt2_ranged2_copperhead_wa",
+        "entity_name": "Nid_maelstrom_grunt2_ranged2_copperhead_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 132694653
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ccl_interior_rifle",
+        "entity_name": "Ccl_interior_rifle",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3550207521
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_HMG_FullAuto_Power_HMG_Base",
+        "entity_name": "Ma_corpo_HMG_FullAuto_Power_HMG_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 494937963
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_corpo_Defender_FullAuto_Power_LMG_Base",
+        "entity_name": "Ma_corpo_Defender_FullAuto_Power_LMG_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2758830829
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q003_maelstrom_welding",
+        "entity_name": "Q003_maelstrom_welding",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2041704117
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.maelstrom_base_wa",
+        "entity_name": "Maelstrom_base_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2732471097
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_copperhead",
+        "entity_name": "Npc_copperhead",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1420917648
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_defender",
+        "entity_name": "Npc_defender",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3552583090
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Saratoga_Auto_Power_SMG_Base",
+        "entity_name": "Ma_gang_Saratoga_Auto_Power_SMG_Base",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2247125821
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_fast_grunt_melee_w_hard",
+        "entity_name": "Nid_maelstrom_fast_grunt_melee_w_hard",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2046457782
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_fast2_fmelee2_knife_ma_rare",
+        "entity_name": "Nid_maelstrom_fast2_fmelee2_knife_ma_rare",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 221116207
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt1_ranged1_lexington_wa",
+        "entity_name": "Nid_maelstrom_grunt1_ranged1_lexington_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 3271990097
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt2_melee2_hammer_ma",
+        "entity_name": "Nid_maelstrom_grunt2_melee2_hammer_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2874553747
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt2_melee2_hammer_wa",
+        "entity_name": "Nid_maelstrom_grunt2_melee2_hammer_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 461098824
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_strong_grunt_short_range_m_hard",
+        "entity_name": "Nid_maelstrom_strong_grunt_short_range_m_hard",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2542317931
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_strong_grunt_short_range_m_medium",
+        "entity_name": "Nid_maelstrom_strong_grunt_short_range_m_medium",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3256518708
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.nid_maelstrom_strong_gunner2_defender_mb_rare",
+        "entity_name": "Nid_maelstrom_strong_gunner2_defender_mb_rare",
+        "entity_entname": "gang__ep1_maelstrom_mb.ent",
+        "entity_id": 3690494305
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_techie_grenadier2_lexington_ma",
+        "entity_name": "Nid_maelstrom_techie_grenadier2_lexington_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1767750688
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_maelstrom_grunt2_melee2_machete_wa",
+        "entity_name": "Dtn_maelstrom_grunt2_melee2_machete_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 2905087008
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Preset_Liberty_Default",
+        "entity_name": "Ma_gang_Preset_Liberty_Default",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2620657942
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Preset_Crusher_Default",
+        "entity_name": "Ma_gang_Preset_Crusher_Default",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3439842768
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.northside_maelstrom_fast_machete",
+        "entity_name": "Northside_maelstrom_fast_machete",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3945598302
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_gang_Preset_Nova_Default",
+        "entity_name": "Ma_gang_Preset_Nova_Default",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3049871264
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_grunt2_ranged2_copperhead_ma",
+        "entity_name": "Nid_maelstrom_grunt2_ranged2_copperhead_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3083155622
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.nid_maelstrom_netrunner_m_medium",
+        "entity_name": "Nid_maelstrom_netrunner_m_medium",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 209065111
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_cct_cpz_01_maelstrom",
+        "entity_name": "Ma_cct_cpz_01_maelstrom",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2335889078
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.northside_maelstrom_handgunner",
+        "entity_name": "Northside_maelstrom_handgunner",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3342062695
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.northside_maelstrom_meelee",
+        "entity_name": "Northside_maelstrom_meelee",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1523468938
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.northside_maelstrom_shotgunner",
+        "entity_name": "Northside_maelstrom_shotgunner",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 531268723
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_achilles",
+        "entity_name": "Npc_achilles",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3558277944
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_ashura",
+        "entity_name": "Npc_ashura",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 904707285
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_burya",
+        "entity_name": "Npc_burya",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 219107863
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_overture",
+        "entity_name": "Npc_overture",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 685293926
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_palica",
+        "entity_name": "Npc_palica",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 784418650
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_sidewinder",
+        "entity_name": "Npc_sidewinder",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 539840503
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_tactician",
+        "entity_name": "Npc_tactician",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2827902754
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_testera",
+        "entity_name": "Npc_testera",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 693638106
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_yukimura",
+        "entity_name": "Npc_yukimura",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2762143928
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.npc_zhuo",
+        "entity_name": "Npc_zhuo",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1469330696
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.cpz_maelstrom_grunt1_ranged1_lexington_wa",
+        "entity_name": "Cpz_maelstrom_grunt1_ranged1_lexington_wa",
+        "entity_entname": "gang__ep1_maelstrom_wa.ent",
+        "entity_id": 1731137174
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_maelstom_strong_shotgun2_igla_ma",
+        "entity_name": "Cpz_maelstom_strong_shotgun2_igla_ma",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 3966171381
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kab_02_enemy_handgun_tier1",
+        "entity_name": "Kab_02_enemy_handgun_tier1",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 2737700572
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_maelstrom_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_gang_retaliation_enemies_maelstrom_melee1_knife_ma_nid_05",
+        "entity_name": "Mws_gang_retaliation_enemies_maelstrom_melee1_knife_ma_nid_05",
+        "entity_entname": "gang__ep1_maelstrom_ma.ent",
+        "entity_id": 1584864374
+    }
+]

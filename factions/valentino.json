@@ -1,0 +1,1706 @@
+[
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt1_melee1_baseball_wa",
+        "entity_name": "Gle_valentinos_grunt1_melee1_baseball_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3833310135
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt1_melee1_knife_wa",
+        "entity_name": "Gle_valentinos_grunt1_melee1_knife_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 4033292738
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_valentinos_shotgun3_shotgun3_testera_ma_elite",
+        "entity_name": "Gle_valentinos_shotgun3_shotgun3_testera_ma_elite",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 46438461
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_valentinos_grunt2_ranged2_nue_wa",
+        "entity_name": "Dtn_valentinos_grunt2_ranged2_nue_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 1639840686
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_valentinos_grunt2_ranged2_ajax_ma",
+        "entity_name": "Dtn_valentinos_grunt2_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2415797475
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt4_hmelee2_fists_mb_rare",
+        "entity_name": "Spr_valentinos_grunt4_hmelee2_fists_mb_rare",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 771598399
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_valentinos_elite2_ranged3_dual_ma_rare",
+        "entity_name": "Arr_valentinos_elite2_ranged3_dual_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 696497925
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt1_melee1_baseball_ma",
+        "entity_name": "Gle_valentinos_grunt1_melee1_baseball_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1414943084
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt2_ranged2_nue_wa",
+        "entity_name": "Gle_valentinos_grunt2_ranged2_nue_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 302455221
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt2_ranged2_overture_ma",
+        "entity_name": "Rey_valentinos_grunt2_ranged2_overture_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 393476902
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt2_ranged2_overture_wa",
+        "entity_name": "Rey_valentinos_grunt2_ranged2_overture_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 2807955965
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt3_fmelee2_machete_ma_rare",
+        "entity_name": "Rey_valentinos_grunt3_fmelee2_machete_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 389964001
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt4_hmelee2_fists_mb_rare",
+        "entity_name": "Rey_valentinos_grunt4_hmelee2_fists_mb_rare",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 4289036689
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rey_valentinos_strong2_shotgun2_igla_ma_rare",
+        "entity_name": "Rey_valentinos_strong2_shotgun2_igla_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2642833460
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.HandcuffedGoon_Valentino_f",
+        "entity_name": "HandcuffedGoon_Valentino_f",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1160145391
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.HandcuffedGoon_Valentino_m",
+        "entity_name": "HandcuffedGoon_Valentino_m",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3539251303
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.gle_valentinos_machete_hmelee3_machete_mb_elite",
+        "entity_name": "Gle_valentinos_machete_hmelee3_machete_mb_elite",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 3439623726
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_valentinos_strong2_shotgun2_igla_ma_rare",
+        "entity_name": "Gle_valentinos_strong2_shotgun2_igla_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 836315775
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt2_ranged2_overture_wa",
+        "entity_name": "Gle_valentinos_grunt2_ranged2_overture_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 487269506
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_02_valentinos_grunt1_ranged1_nue_wa",
+        "entity_name": "Sts_hey_rey_02_valentinos_grunt1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3896168877
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_06_enemy_baseball_bat",
+        "entity_name": "Sts_hey_rey_06_enemy_baseball_bat",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1388924676
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_06_enemy_gun_wa",
+        "entity_name": "Sts_hey_rey_06_enemy_gun_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3975505551
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_08_valentions_rifle",
+        "entity_name": "Sts_hey_rey_08_valentions_rifle",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 2920313127
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_08_valentions_shotgun",
+        "entity_name": "Sts_hey_rey_08_valentions_shotgun",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2991497138
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ma_std_arr_02_alma",
+        "entity_name": "Ma_std_arr_02_alma",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 447043760
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_valentinos_sniper_sniper3_grad_wa_elite",
+        "entity_name": "Gle_valentinos_sniper_sniper3_grad_wa_elite",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 2842451975
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt2_melee2_machete_ma",
+        "entity_name": "Gle_valentinos_grunt2_melee2_machete_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3039121117
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_grunt2_ranged2_nue_ma",
+        "entity_name": "Valentinos_grunt2_ranged2_nue_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2148705606
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.valentinos_grunt2_ranged2_ajax_wa",
+        "entity_name": "Valentinos_grunt2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 2152873354
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_grunt2_ranged2_ajax_ma",
+        "entity_name": "Valentinos_grunt2_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 813680465
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.valentinos_grunt2_melee2_machete_wa",
+        "entity_name": "Valentinos_grunt2_melee2_machete_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3178754913
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_grunt2_melee2_machete_ma",
+        "entity_name": "Valentinos_grunt2_melee2_machete_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 224004538
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.valentinos_grunt2_melee2_knife_wa",
+        "entity_name": "Valentinos_grunt2_melee2_knife_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 2103269881
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_grunt2_melee2_knife_ma",
+        "entity_name": "Valentinos_grunt2_melee2_knife_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3446711074
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.valentinos_grunt1_ranged1_nue_wa",
+        "entity_name": "Valentinos_grunt1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 2541284492
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_grunt1_ranged1_nue_ma",
+        "entity_name": "Valentinos_grunt1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 659887703
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.valentinos_grunt1_ranged1_nova_wa",
+        "entity_name": "Valentinos_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3004295190
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_grunt1_ranged1_nova_ma",
+        "entity_name": "Valentinos_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 54268621
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.valentinos_grunt1_melee1_knife_wa",
+        "entity_name": "Valentinos_grunt1_melee1_knife_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3320887678
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_grunt1_melee1_knife_ma",
+        "entity_name": "Valentinos_grunt1_melee1_knife_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1977435045
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_rcr_05_valentinos_ma",
+        "entity_name": "Ma_std_rcr_05_valentinos_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1870990594
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ep1_stadium_valentinos_non_reaction_ma",
+        "entity_name": "Ep1_stadium_valentinos_non_reaction_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3325407185
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ep1_stadium_valentinos_non_reaction_wa",
+        "entity_name": "Ep1_stadium_valentinos_non_reaction_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 1981306122
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_valentinos_fmelee2_machete_ma_rare_gle_04",
+        "entity_name": "Gang_retaliation_enemies_valentinos_fmelee2_machete_ma_rare_gle_04",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 735775298
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_valentinos_fmelee2_machete_ma_rare_rey_02",
+        "entity_name": "Gang_retaliation_enemies_valentinos_fmelee2_machete_ma_rare_rey_02",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2256320009
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_valentinos_melee1_baseball_ma_gle_04",
+        "entity_name": "Gang_retaliation_enemies_valentinos_melee1_baseball_ma_gle_04",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2034157122
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_valentinos_melee1_baseball_ma_rey_02",
+        "entity_name": "Gang_retaliation_enemies_valentinos_melee1_baseball_ma_rey_02",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3566828041
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_valentinos_melee1_knife_wa_gle_04",
+        "entity_name": "Gang_retaliation_enemies_valentinos_melee1_knife_wa_gle_04",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 420967931
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_valentinos_melee1_knife_wa_rey_02",
+        "entity_name": "Gang_retaliation_enemies_valentinos_melee1_knife_wa_rey_02",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3031484848
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_valentinos_ranged1_nova_wa_gle_04",
+        "entity_name": "Gang_retaliation_enemies_valentinos_ranged1_nova_wa_gle_04",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 1031585028
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_valentinos_ranged1_nova_wa_rey_02",
+        "entity_name": "Gang_retaliation_enemies_valentinos_ranged1_nova_wa_rey_02",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 2430271823
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_valentinos_ranged1_nue_ma_gle_04",
+        "entity_name": "Gang_retaliation_enemies_valentinos_ranged1_nue_ma_gle_04",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1611239472
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_valentinos_ranged1_nue_ma_rey_02",
+        "entity_name": "Gang_retaliation_enemies_valentinos_ranged1_nue_ma_rey_02",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3450743931
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_valentinos_ranged3_dual_ma_rare_gle_04",
+        "entity_name": "Gang_retaliation_enemies_valentinos_ranged3_dual_ma_rare_gle_04",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 209530817
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_valentinos_ranged3_dual_ma_rare_rey_02",
+        "entity_name": "Gang_retaliation_enemies_valentinos_ranged3_dual_ma_rare_rey_02",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2715456394
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_valentinos_shotgun2_igla_ma_rare_gle_04",
+        "entity_name": "Gang_retaliation_enemies_valentinos_shotgun2_igla_ma_rare_gle_04",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2479833987
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_08_valentions_melee_ma",
+        "entity_name": "Sts_hey_rey_08_valentions_melee_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2858873927
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_08_valentions_melee_wa",
+        "entity_name": "Sts_hey_rey_08_valentions_melee_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 441126556
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_valentinos_grunt1_ranged1_nue_ma",
+        "entity_name": "Dtn_valentinos_grunt1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1993847396
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_std_rcr_05_valentinos",
+        "entity_name": "Ma_std_rcr_05_valentinos",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2903049495
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt2_melee2_machete_ma",
+        "entity_name": "Rey_valentinos_grunt2_melee2_machete_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3278856847
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt1_melee1_knife_wa",
+        "entity_name": "Rey_valentinos_grunt1_melee1_knife_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 2483939208
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rey_valentinos_elite3_ranged3_dual_ma_elite",
+        "entity_name": "Rey_valentinos_elite3_ranged3_dual_ma_elite",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 143567499
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_01_officer",
+        "entity_name": "Sts_hey_rey_01_officer",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3044979139
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_strong2_shotgun2_igla_ma_rare",
+        "entity_name": "Valentinos_strong2_shotgun2_igla_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1874455163
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_valentinos_grunt1_ranged1_nova_ma",
+        "entity_name": "Dtn_valentinos_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3166564735
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_spr_01_valentino_shotgun_elite",
+        "entity_name": "Sts_hey_spr_01_valentino_shotgun_elite",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2944090843
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_spr_01_valentino_rifle_wa",
+        "entity_name": "Sts_hey_spr_01_valentino_rifle_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 4173827385
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_spr_01_valentino_ranged_male",
+        "entity_name": "Sts_hey_spr_01_valentino_ranged_male",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3270276130
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_spr_01_valentino_ranged_female",
+        "entity_name": "Sts_hey_spr_01_valentino_ranged_female",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 1700858832
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_spr_01_valentino_melee_wa",
+        "entity_name": "Sts_hey_spr_01_valentino_melee_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 913802717
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_hey_spr_01_valentino_melee_elite",
+        "entity_name": "Sts_hey_spr_01_valentino_melee_elite",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 725758563
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_spr_01_valentino_dual",
+        "entity_name": "Sts_hey_spr_01_valentino_dual",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1610234188
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_spr_01_officer",
+        "entity_name": "Sts_hey_spr_01_officer",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 4039893362
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.sts_hey_rey_08_valentions_melee_big",
+        "entity_name": "Sts_hey_rey_08_valentions_melee_big",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 709059716
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_08_valentions_dual",
+        "entity_name": "Sts_hey_rey_08_valentions_dual",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3783186747
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_08_officer",
+        "entity_name": "Sts_hey_rey_08_officer",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 433915800
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_06_enemy_shotgun",
+        "entity_name": "Sts_hey_rey_06_enemy_shotgun",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1373705271
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_06_enemy_rifle",
+        "entity_name": "Sts_hey_rey_06_enemy_rifle",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 586181779
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_06_enemy_rifle_wa",
+        "entity_name": "Sts_hey_rey_06_enemy_rifle_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 1238031964
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_06_enemy_knife_wa",
+        "entity_name": "Sts_hey_rey_06_enemy_knife_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 1417633958
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_06_enemy_gun",
+        "entity_name": "Sts_hey_rey_06_enemy_gun",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2408074148
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_06_enemy_ajax",
+        "entity_name": "Sts_hey_rey_06_enemy_ajax",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3898695271
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_02_valentinos_officer_officer_overture_ma",
+        "entity_name": "Sts_hey_rey_02_valentinos_officer_officer_overture_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1064904261
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_02_valentinos_grunt2_ranged2_ajax_ma",
+        "entity_name": "Sts_hey_rey_02_valentinos_grunt2_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2087294258
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_02_valentinos_grunt1_ranged1_nue_wa_Lena_dominguez",
+        "entity_name": "Sts_hey_rey_02_valentinos_grunt1_ranged1_nue_wa_Lena_dominguez",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 2864528680
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_02_valentinos_grunt1_ranged1_nue_ma",
+        "entity_name": "Sts_hey_rey_02_valentinos_grunt1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1477913462
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_01_valentions_ground",
+        "entity_name": "Sts_hey_rey_01_valentions_ground",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 706365710
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_01_valentions_apartment_rifleman",
+        "entity_name": "Sts_hey_rey_01_valentions_apartment_rifleman",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1112850339
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_01_valentions_apartment_range",
+        "entity_name": "Sts_hey_rey_01_valentions_apartment_range",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3823707363
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_rey_01_valentions_apartment_range_wa",
+        "entity_name": "Sts_hey_rey_01_valentions_apartment_range_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 1106303744
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_hey_spr_01_valentino_sniper",
+        "entity_name": "Sts_hey_spr_01_valentino_sniper",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 1039838397
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.valentinos_grunt1_melee1_baseball_wa",
+        "entity_name": "Valentinos_grunt1_melee1_baseball_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 924131339
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_grunt1_melee1_baseball_ma",
+        "entity_name": "Valentinos_grunt1_melee1_baseball_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2268650192
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_elite3_ranged3_dual_ma_elite",
+        "entity_name": "Valentinos_elite3_ranged3_dual_ma_elite",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1427418072
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_elite2_ranged3_dual_ma_rare",
+        "entity_name": "Valentinos_elite2_ranged3_dual_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 257946665
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.valentinos_base_wa",
+        "entity_name": "Valentinos_base_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 4192174841
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.valentinos_base_mb",
+        "entity_name": "Valentinos_base_mb",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 3506121112
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_base_ma",
+        "entity_name": "Valentinos_base_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1240627234
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_valentinos_grunt2_ranged2_nue_ma",
+        "entity_name": "Arr_valentinos_grunt2_ranged2_nue_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 4173014414
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sts_ep1_06_cops_wa",
+        "entity_name": "Sts_ep1_06_cops_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 320370947
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_ep1_06_cops_ma",
+        "entity_name": "Sts_ep1_06_cops_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2738193368
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_04_valentinos",
+        "entity_name": "Gle_04_valentinos",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2648884222
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_valentinos_grunt1_ranged1_nue_wa",
+        "entity_name": "Arr_valentinos_grunt1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 4023479364
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_valentinos_strong2_shotgun2_igla_ma_rare",
+        "entity_name": "Dtn_valentinos_strong2_shotgun2_igla_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2165578288
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_valentinos_strong2_shotgun2_igla_ma_rare",
+        "entity_name": "Spr_valentinos_strong2_shotgun2_igla_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2889524978
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.spr_valentinos_sniper_sniper3_grad_wa_elite",
+        "entity_name": "Spr_valentinos_sniper_sniper3_grad_wa_elite",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 2560049794
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_valentinos_shotgun3_shotgun3_testera_ma_elite",
+        "entity_name": "Spr_valentinos_shotgun3_shotgun3_testera_ma_elite",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2205581107
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt4_hmelee2_knife_mb_rare",
+        "entity_name": "Spr_valentinos_grunt4_hmelee2_knife_mb_rare",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 2928793519
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt3_fmelee2_machete_ma_rare",
+        "entity_name": "Spr_valentinos_grunt3_fmelee2_machete_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1695071154
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt2_ranged2_overture_wa",
+        "entity_name": "Spr_valentinos_grunt2_ranged2_overture_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 237701194
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt2_ranged2_overture_ma",
+        "entity_name": "Spr_valentinos_grunt2_ranged2_overture_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3188126353
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt2_ranged2_nue_wa",
+        "entity_name": "Spr_valentinos_grunt2_ranged2_nue_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 470432691
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt2_ranged2_nue_ma",
+        "entity_name": "Spr_valentinos_grunt2_ranged2_nue_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2888286568
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt2_ranged2_ajax_wa",
+        "entity_name": "Spr_valentinos_grunt2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 1554515233
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt2_ranged2_ajax_ma",
+        "entity_name": "Spr_valentinos_grunt2_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3968204794
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt2_melee2_machete_ma",
+        "entity_name": "Spr_valentinos_grunt2_melee2_machete_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1756039420
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt2_melee2_knife_wa",
+        "entity_name": "Spr_valentinos_grunt2_melee2_knife_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 2712101202
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt2_melee2_knife_ma",
+        "entity_name": "Spr_valentinos_grunt2_melee2_knife_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 294296457
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt1_ranged1_nue_wa",
+        "entity_name": "Spr_valentinos_grunt1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3142420642
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt1_ranged1_nue_ma",
+        "entity_name": "Spr_valentinos_grunt1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 190870137
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt1_ranged1_nova_wa",
+        "entity_name": "Spr_valentinos_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 1877725373
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_valentinos_grunt2_ranged2_nue_ma",
+        "entity_name": "Dtn_valentinos_grunt2_ranged2_nue_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3515875701
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_03_valentinos_ranged2_overture_ma",
+        "entity_name": "Spr_03_valentinos_ranged2_overture_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1935236463
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_03_valentinos_ranged2_ajax_ma",
+        "entity_name": "Spr_03_valentinos_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 260005813
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.spr_03_valentinos_nue_wa",
+        "entity_name": "Spr_03_valentinos_nue_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 1426550143
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_03_valentinos_melee2_knife_ma",
+        "entity_name": "Spr_03_valentinos_melee2_knife_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 4067441606
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_valentinos_shotgun2_igla_ma_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_valentinos_shotgun2_igla_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2518092813
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_valentinos_ranged3_dual_ma_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_valentinos_ranged3_dual_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 104949982
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_valentinos_ranged1_nue_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_valentinos_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3261508004
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_valentinos_ranged1_nova_wa",
+        "entity_name": "Sa_ep1_courier_loop_enemies_valentinos_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 2537584655
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_valentinos_melee1_knife_wa",
+        "entity_name": "Sa_ep1_courier_loop_enemies_valentinos_melee1_knife_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3785435495
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_valentinos_melee1_baseball_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_valentinos_melee1_baseball_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 4192381299
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_valentinos_fmelee2_machete_ma_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_valentinos_fmelee2_machete_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 510012301
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_04_valentinos_fast_rifleman",
+        "entity_name": "Gle_04_valentinos_fast_rifleman",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3571772581
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt1_ranged1_nova_ma",
+        "entity_name": "Gle_valentinos_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 917209713
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_04_valentinos_fast_rifleman_wa",
+        "entity_name": "Gle_04_valentinos_fast_rifleman_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 1215630270
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_valentinos_shotgun2_igla_ma_rare_rey_02",
+        "entity_name": "Gang_retaliation_enemies_valentinos_shotgun2_igla_ma_rare_rey_02",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1047068616
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_04_valentinos_wa",
+        "entity_name": "Gle_04_valentinos_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3554891774
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_hey_gle_03_valentinos_grunt1_ranged1_nova_ma_Xavi_Velez",
+        "entity_name": "Ma_hey_gle_03_valentinos_grunt1_ranged1_nova_ma_Xavi_Velez",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1430249128
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt2_melee2_machete_wa",
+        "entity_name": "Gle_valentinos_grunt2_melee2_machete_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 84456454
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sq024_pacifica_race_valentino_racer",
+        "entity_name": "Sq024_pacifica_race_valentino_racer",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 557985226
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rey_valentinos_shotgun3_shotgun3_testera_ma_elite",
+        "entity_name": "Rey_valentinos_shotgun3_shotgun3_testera_ma_elite",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3959784651
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.rey_valentinos_machete_hmelee3_machete_mb_elite",
+        "entity_name": "Rey_valentinos_machete_hmelee3_machete_mb_elite",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 172746008
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt4_hmelee2_knife_mb_rare",
+        "entity_name": "Rey_valentinos_grunt4_hmelee2_knife_mb_rare",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 2093612545
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt2_ranged2_nue_wa",
+        "entity_name": "Rey_valentinos_grunt2_ranged2_nue_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 325161900
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt2_ranged2_nue_ma",
+        "entity_name": "Rey_valentinos_grunt2_ranged2_nue_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2739693943
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt2_ranged2_ajax_wa",
+        "entity_name": "Rey_valentinos_grunt2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3517932412
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt1_ranged1_nova_wa",
+        "entity_name": "Rey_valentinos_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3807164128
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt1_ranged1_nova_ma",
+        "entity_name": "Rey_valentinos_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1388399675
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt1_melee1_knife_ma",
+        "entity_name": "Rey_valentinos_grunt1_melee1_knife_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 606084435
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt1_melee1_baseball_wa",
+        "entity_name": "Rey_valentinos_grunt1_melee1_baseball_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 1634259267
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_valentinos_grunt2_ranged2_ajax_wa",
+        "entity_name": "Dtn_valentinos_grunt2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 1070849592
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_hey_rey_02_onscreen_002",
+        "entity_name": "Ma_hey_rey_02_onscreen_002",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1864424627
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_valentinos_grunt2_ranged2_ajax_wa",
+        "entity_name": "Arr_valentinos_grunt2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 362143368
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_04_valentinos_officer",
+        "entity_name": "Gle_04_valentinos_officer",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2469786849
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_valentinos_grunt2_ranged2_overture_wa",
+        "entity_name": "Arr_valentinos_grunt2_ranged2_overture_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3665573278
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.dtn_valentinos_machete_hmelee3_machete_mb_elite",
+        "entity_name": "Dtn_valentinos_machete_hmelee3_machete_mb_elite",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 2354134173
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mws_arr_04_valentinos_grunt2_ranged2_nue_ma",
+        "entity_name": "Mws_arr_04_valentinos_grunt2_ranged2_nue_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2352616917
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq025_valentinos_friendly",
+        "entity_name": "Mq025_valentinos_friendly",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2896502949
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.mq025_valentinos_friendly_wa",
+        "entity_name": "Mq025_valentinos_friendly_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 786555522
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_hey_gle_02_valentinos_grunt2_ranged2_ajax_ma_Rogelio_Cruz",
+        "entity_name": "Ma_hey_gle_02_valentinos_grunt2_ranged2_ajax_ma_Rogelio_Cruz",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 281236042
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq056_pacifica_race_valentino_racer",
+        "entity_name": "Mq056_pacifica_race_valentino_racer",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3446698432
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_hey_gle_05_valentinos_grunt2_ranged2_overture_ma_Danilo_Ruiz",
+        "entity_name": "Ma_hey_gle_05_valentinos_grunt2_ranged2_overture_ma_Danilo_Ruiz",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 96024709
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt1_ranged1_nova_wa",
+        "entity_name": "Gle_valentinos_grunt1_ranged1_nova_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 2256959658
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.mq017_streetkid_thug",
+        "entity_name": "Mq017_streetkid_thug",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 4292248638
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_valentinos_grunt1_ranged1_nova_ma",
+        "entity_name": "Arr_valentinos_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2533093839
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt1_melee1_baseball_ma",
+        "entity_name": "Rey_valentinos_grunt1_melee1_baseball_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3510971288
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt1_ranged1_nova_ma",
+        "entity_name": "Spr_valentinos_grunt1_ranged1_nova_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3754306150
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_valentinos_grunt1_melee1_baseball_ma",
+        "entity_name": "Spr_valentinos_grunt1_melee1_baseball_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 417517428
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_valentinos_elite3_ranged3_dual_ma_elite",
+        "entity_name": "Spr_valentinos_elite3_ranged3_dual_ma_elite",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3671491365
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.spr_valentinos_elite2_ranged3_dual_ma_rare",
+        "entity_name": "Spr_valentinos_elite2_ranged3_dual_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2833905397
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.copperhead_dude",
+        "entity_name": "Copperhead_dude",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 943062681
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt1_melee1_knife_ma",
+        "entity_name": "Gle_valentinos_grunt1_melee1_knife_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1078645529
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.valentinos_sniper_sniper3_grad_wa_elite",
+        "entity_name": "Valentinos_sniper_sniper3_grad_wa_elite",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 391473791
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_shotgun3_shotgun3_testera_ma_elite",
+        "entity_name": "Valentinos_shotgun3_shotgun3_testera_ma_elite",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3991300865
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.valentinos_machete_hmelee3_machete_mb_elite",
+        "entity_name": "Valentinos_machete_hmelee3_machete_mb_elite",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 1279615162
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.valentinos_grunt4_hmelee2_knife_mb_rare",
+        "entity_name": "Valentinos_grunt4_hmelee2_knife_mb_rare",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 559152978
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.valentinos_grunt4_hmelee2_fists_mb_rare",
+        "entity_name": "Valentinos_grunt4_hmelee2_fists_mb_rare",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 2722070722
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_grunt3_fmelee2_machete_ma_rare",
+        "entity_name": "Valentinos_grunt3_fmelee2_machete_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 4054778746
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_grunt3_fmelee2_knife_ma_rare",
+        "entity_name": "Valentinos_grunt3_fmelee2_knife_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 45160930
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.valentinos_grunt2_ranged2_overture_wa",
+        "entity_name": "Valentinos_grunt2_ranged2_overture_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3742348718
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.valentinos_grunt2_ranged2_overture_ma",
+        "entity_name": "Valentinos_grunt2_ranged2_overture_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1864519541
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.valentinos_grunt2_ranged2_nue_wa",
+        "entity_name": "Valentinos_grunt2_ranged2_nue_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 809459613
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_valentinos_grunt2_melee2_knife_ma",
+        "entity_name": "Arr_valentinos_grunt2_melee2_knife_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1488404512
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt2_ranged2_ajax_ma",
+        "entity_name": "Rey_valentinos_grunt2_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1635948967
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt2_melee2_machete_wa",
+        "entity_name": "Rey_valentinos_grunt2_melee2_machete_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 1933744212
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt2_melee2_knife_wa",
+        "entity_name": "Rey_valentinos_grunt2_melee2_knife_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 748685071
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt1_ranged1_nue_wa",
+        "entity_name": "Rey_valentinos_grunt1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3022397629
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.rey_valentinos_grunt1_ranged1_nue_ma",
+        "entity_name": "Rey_valentinos_grunt1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 67885670
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_valentinos_grunt1_melee1_knife_wa",
+        "entity_name": "Dtn_valentinos_grunt1_melee1_knife_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 2054249164
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt2_ranged2_overture_ma",
+        "entity_name": "Gle_valentinos_grunt2_ranged2_overture_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2905005657
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.lmg_dude",
+        "entity_name": "Lmg_dude",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 2669500396
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt1_ranged1_nue_ma",
+        "entity_name": "Gle_valentinos_grunt1_ranged1_nue_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 91050111
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt1_ranged1_nue_wa",
+        "entity_name": "Gle_valentinos_grunt1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3040914084
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt2_ranged2_ajax_ma",
+        "entity_name": "Gle_valentinos_grunt2_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 99112941
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt2_ranged2_ajax_wa",
+        "entity_name": "Gle_valentinos_grunt2_ranged2_ajax_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3049631030
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt3_fmelee2_knife_ma_rare",
+        "entity_name": "Gle_valentinos_grunt3_fmelee2_knife_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3163034522
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt3_fmelee2_machete_ma_rare",
+        "entity_name": "Gle_valentinos_grunt3_fmelee2_machete_ma_rare",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 4137461667
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt4_hmelee2_fists_mb_rare",
+        "entity_name": "Gle_valentinos_grunt4_hmelee2_fists_mb_rare",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 470190778
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_mb.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_big\\man_big.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt4_hmelee2_knife_mb_rare",
+        "entity_name": "Gle_valentinos_grunt4_hmelee2_knife_mb_rare",
+        "entity_entname": "gang__ep1_valentinos_mb.ent",
+        "entity_id": 2674586922
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gang_retaliation_enemies_valentinos_shotgun3_shotgun3_testera_ma_elite_gle_04_boss",
+        "entity_name": "Gang_retaliation_enemies_valentinos_shotgun3_shotgun3_testera_ma_elite_gle_04_boss",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1233924593
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.ma_std_rcr_05_valentinos_wa",
+        "entity_name": "Ma_std_rcr_05_valentinos_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3752392665
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_valentinos_grunt2_ranged2_overture_ma",
+        "entity_name": "Arr_valentinos_grunt2_ranged2_overture_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1783746373
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_valentinos_shotgun3_shotgun3_testera_ma_elite",
+        "entity_name": "Dtn_valentinos_shotgun3_shotgun3_testera_ma_elite",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 1442710703
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_valentinos_grunt2_ranged2_overture_wa",
+        "entity_name": "Dtn_valentinos_grunt2_ranged2_overture_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3130415697
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.arr_valentinos_grunt2_melee2_knife_wa",
+        "entity_name": "Arr_valentinos_grunt2_melee2_knife_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3902454523
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_valentinos_grunt2_ranged2_nue_ma",
+        "entity_name": "Gle_valentinos_grunt2_ranged2_nue_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2720719726
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.dtn_valentinos_grunt1_melee1_knife_ma",
+        "entity_name": "Dtn_valentinos_grunt1_melee1_knife_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 3395067927
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_hey_rey_01_onscreen_002",
+        "entity_name": "Ma_hey_rey_01_onscreen_002",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 323090792
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.ma_hey_rey_02_onscreen_001",
+        "entity_name": "Ma_hey_rey_02_onscreen_001",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 4129918217
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_wa.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\woman_base\\woman_base.rig",
+        "entity_tweak": "Character.dtn_valentinos_grunt1_ranged1_nue_wa",
+        "entity_name": "Dtn_valentinos_grunt1_ranged1_nue_wa",
+        "entity_entname": "gang__ep1_valentinos_wa.ent",
+        "entity_id": 3338291391
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\gang\\gang__ep1_valentinos_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.arr_valentinos_grunt2_ranged2_ajax_ma",
+        "entity_name": "Arr_valentinos_grunt2_ranged2_ajax_ma",
+        "entity_entname": "gang__ep1_valentinos_ma.ent",
+        "entity_id": 2780308563
+    }
+]

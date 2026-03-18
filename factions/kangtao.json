@@ -1,0 +1,210 @@
+[
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_kangtao_soldier2_shotgun2_zhuo_mah_rare",
+        "entity_name": "Gle_kangtao_soldier2_shotgun2_zhuo_mah_rare",
+        "entity_entname": "corpo__ep1_kangtao_mah.ent",
+        "entity_id": 367423480
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_kangtao_ranger1_ranged2_dian_ma",
+        "entity_name": "Gle_kangtao_ranger1_ranged2_dian_ma",
+        "entity_entname": "corpo__ep1_kangtao_ma.ent",
+        "entity_id": 1990531195
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.precision_rifle_dude_corpo",
+        "entity_name": "Precision_rifle_dude_corpo",
+        "entity_entname": "corpo__ep1_kangtao_mah.ent",
+        "entity_id": 1020874731
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sts_std_arr_06_kangtao_ranger1_ranged2_dian_ma",
+        "entity_name": "Sts_std_arr_06_kangtao_ranger1_ranged2_dian_ma",
+        "entity_entname": "corpo__ep1_kangtao_ma.ent",
+        "entity_id": 1681551743
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q104_gas_station_kangtao_officer",
+        "entity_name": "Q104_gas_station_kangtao_officer",
+        "entity_entname": "corpo__ep1_kangtao_mah.ent",
+        "entity_id": 4269594374
+    },
+    {
+        "entity_entpath": "base\\characters\\entities\\corpo\\corpo__kangtao_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q104_arasaka_operator_sniper",
+        "entity_name": "Q104_arasaka_operator_sniper",
+        "entity_entname": "corpo__kangtao_ma.ent",
+        "entity_id": 2313135753
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q104_arasaka_operator_smg",
+        "entity_name": "Q104_arasaka_operator_smg",
+        "entity_entname": "corpo__ep1_kangtao_ma.ent",
+        "entity_id": 2360852970
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q104_arasaka_operator_smg_officer",
+        "entity_name": "Q104_arasaka_operator_smg_officer",
+        "entity_entname": "corpo__ep1_kangtao_ma.ent",
+        "entity_id": 4254661999
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q104_arasaka_operator_leader",
+        "entity_name": "Q104_arasaka_operator_leader",
+        "entity_entname": "corpo__ep1_kangtao_ma.ent",
+        "entity_id": 3524527253
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_kangtao_soldier2_shotgun2_zhuo_mah_rare",
+        "entity_name": "Cpz_kangtao_soldier2_shotgun2_zhuo_mah_rare",
+        "entity_entname": "corpo__ep1_kangtao_mah.ent",
+        "entity_id": 2742856519
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_kangtao_grenadier3_mah_elite",
+        "entity_name": "Sa_ep1_courier_loop_enemies_kangtao_grenadier3_mah_elite",
+        "entity_entname": "corpo__ep1_kangtao_mah.ent",
+        "entity_id": 1550608647
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_kangtao_ranged2_dian_ma",
+        "entity_name": "Sa_ep1_courier_loop_enemies_kangtao_ranged2_dian_ma",
+        "entity_entname": "corpo__ep1_kangtao_ma.ent",
+        "entity_id": 3906263029
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.sa_ep1_courier_loop_enemies_kangtao_shotgun2_zhuo_mah_rare",
+        "entity_name": "Sa_ep1_courier_loop_enemies_kangtao_shotgun2_zhuo_mah_rare",
+        "entity_entname": "corpo__ep1_kangtao_mah.ent",
+        "entity_id": 4003810629
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.gle_kangtao_officer_grenadier3_mah_elite",
+        "entity_name": "Gle_kangtao_officer_grenadier3_mah_elite",
+        "entity_entname": "corpo__ep1_kangtao_mah.ent",
+        "entity_id": 588995096
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q104_gas_station_kangtao_shotgun_tier3",
+        "entity_name": "Q104_gas_station_kangtao_shotgun_tier3",
+        "entity_entname": "corpo__ep1_kangtao_mah.ent",
+        "entity_id": 1982134651
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_kangtao_ranger1_ranged2_dian_ma",
+        "entity_name": "Cpz_kangtao_ranger1_ranged2_dian_ma",
+        "entity_entname": "corpo__ep1_kangtao_ma.ent",
+        "entity_id": 2198923745
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q104_gas_station_kangtao_shotgun_tier2",
+        "entity_name": "Q104_gas_station_kangtao_shotgun_tier2",
+        "entity_entname": "corpo__ep1_kangtao_mah.ent",
+        "entity_id": 19122669
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q104_gas_station_kangtao_ranger",
+        "entity_name": "Q104_gas_station_kangtao_ranger",
+        "entity_entname": "corpo__ep1_kangtao_ma.ent",
+        "entity_id": 2959993405
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kangtao_base_mah",
+        "entity_name": "Kangtao_base_mah",
+        "entity_entname": "corpo__ep1_kangtao_mah.ent",
+        "entity_id": 777810345
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kangtao_officer_grenadier3_mah_elite",
+        "entity_name": "Kangtao_officer_grenadier3_mah_elite",
+        "entity_entname": "corpo__ep1_kangtao_mah.ent",
+        "entity_id": 4034253220
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kangtao_ranger1_ranged2_dian_ma",
+        "entity_name": "Kangtao_ranger1_ranged2_dian_ma",
+        "entity_entname": "corpo__ep1_kangtao_ma.ent",
+        "entity_id": 1291160013
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kangtao_soldier2_shotgun2_zhuo_mah_rare",
+        "entity_name": "Kangtao_soldier2_shotgun2_zhuo_mah_rare",
+        "entity_entname": "corpo__ep1_kangtao_mah.ent",
+        "entity_id": 2883544448
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kangtao_soldier2_shotgun3_zhuo_mah_elite",
+        "entity_name": "Kangtao_soldier2_shotgun3_zhuo_mah_elite",
+        "entity_entname": "corpo__ep1_kangtao_mah.ent",
+        "entity_id": 3483454272
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.cpz_kangtao_soldier2_shotgun3_zhuo_mah_elite",
+        "entity_name": "Cpz_kangtao_soldier2_shotgun3_zhuo_mah_elite",
+        "entity_entname": "corpo__ep1_kangtao_mah.ent",
+        "entity_id": 3400122269
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_ma.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.kangtao_base_ma",
+        "entity_name": "Kangtao_base_ma",
+        "entity_entname": "corpo__ep1_kangtao_ma.ent",
+        "entity_id": 3877001267
+    },
+    {
+        "entity_entpath": "ep1\\characters\\entities\\corpo\\corpo__ep1_kangtao_mah.ent",
+        "entity_entrigs": "base\\characters\\base_entities\\man_base\\man_base.rig",
+        "entity_tweak": "Character.q104_arasaka_operator_shotgun",
+        "entity_name": "Q104_arasaka_operator_shotgun",
+        "entity_entname": "corpo__ep1_kangtao_mah.ent",
+        "entity_id": 1985709235
+    }
+]
