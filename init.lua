@@ -228,10 +228,13 @@ registerInput('ai_menu_two', 'AI Menu Two', function(keypress)
   and (CyberNPC.VIsNotInCombat()) then
 
     local target = AIControl.GetLookAtTarget()
+    
 
     if target ~= nil and target and target:IsNPC() then
       
-      if Menu.HasVLines() then
+      if Menu.HasVLines() 
+        and target
+        and target == CyberNPC.GetLastTarget() then
         Menu.menu.ActivateMenu(Menu.DIALOG_VLINES)
         return
       end
@@ -240,7 +243,12 @@ registerInput('ai_menu_two', 'AI Menu Two', function(keypress)
         return
       end
 
+      if not CyberNPC.IsTalkable(target)
+        return
+      end
+
       CyberNPC.UpdateTargetInfo(target)
+      
 
       if not CyberNPC.IsTalkable() then
         InteractionUI.hideHub()
@@ -252,10 +260,12 @@ registerInput('ai_menu_two', 'AI Menu Two', function(keypress)
 
       if CyberNPC.LLamaNPCLastMoodExpression then
         FaceExpression.ActivateFacialExpression(CyberNPC.LastNPCTarget.obj, CyberNPC.LLamaNPCLastMoodExpression)
-      else        
+      else
         FaceExpression.Neutral(target)
       end
       CyberNPC.NPCStopAnimation()
+      
+
       CyberllamaState = AI_MENU_ON
       print('AI_MENU_ON')
       DialogUseIntro = false
@@ -350,7 +360,8 @@ registerInput('ai_menu_two', 'AI Menu Two', function(keypress)
         end)
       else
         Cron.After(lineWaitTime, function()
-          CyberNPC.NPCSpeakLast(CyberNPC.NPCReplyIntroNegativeLinesRandomLines())
+          local lifepath = GameUtils.GetLifePath(Game.GetPlayer())
+          CyberNPC.NPCSpeakLast(CyberNPC.NPCReplyIntroNegativeLinesRandomLines(lifepath))
           CyberllamaState = AI_MENU_OFF
         end)
       end
@@ -630,7 +641,7 @@ function ResponseNPCMakeMoodIfPossible(content)
     if content.mood then
         CyberNPC.LLamaNPCLastMoodValue = content.mood
         CyberNPC.NPCUpdateMood(content.food, content.hydration, content.fun, content.relationship)  
-        CyberNPC.NPCDisplayMood()
+        CyberNPC.NPCDisplayMood(CyberNPC.LastNPCTarget)
     else
         CyberNPC.LLamaNPCLastMoodValue = '0'
     end
@@ -1003,7 +1014,7 @@ function ResponseMakeLoopResponse(playerInfo, npcInfo, content)
     if not CyberNPC.IsTalkable() then
       CyberV.VSpeak(CyberV.VNotCloseToNPCRandomLine())
       InteractionUI.hideHub()
-      Backend.Prompt(
+      Backend.PromptContinue(
         'Nevermind',
         '',
         playerInfo,
@@ -1127,7 +1138,7 @@ function ResponseMain(content)
         end)
       else
         CyberllamaVLines(content.actions)
-      end
+      end      
     end
   end)
 

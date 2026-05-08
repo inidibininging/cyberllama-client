@@ -72,13 +72,14 @@ function Wrapper.InjectVLines(lines, CyberNPC, CyberV)
         })
         Wrapper.menu.SetMenu(Wrapper.DIALOG_VLINES, linesAsObj, false)
 
-        for lidx = 1, #lines do
-            if lines[lidx] == nil then
+        for lidx = 1, #linesAsObj do
+            if linesAsObj[lidx] == nil then
                 print("provided a nil line in InjectVLines")
             else
-                print(lines[lidx])
+                print(linesAsObj[lidx].text)
                 local isNevermind = false
-                if lidx == #lines - 1 then
+                -- the #lines is nevermind, since #lines doesnt count nevermind as the last line
+                if lidx == #linesAsObj then
                     isNevermind = true
                     Wrapper.menu.OnMenuItemClicked(
                         Wrapper.DIALOG_VLINES,
@@ -91,7 +92,7 @@ function Wrapper.InjectVLines(lines, CyberNPC, CyberV)
                         end
                     )
                 else
-                    local text = lines[lidx]
+                    local text = linesAsObj[lidx].text
                     Wrapper.menu.OnMenuItemClicked(
                         Wrapper.DIALOG_VLINES,
                         text,
@@ -361,6 +362,10 @@ function Wrapper.MainMenuFollowerEvents()
         if not Wrapper.AIControl.IsFollower(Wrapper.npc.LastNPCTarget.obj) then
             return
         end
+        if not Wrapper.v.InACar() then
+            return
+        end  
+
         if not Wrapper.quest.done or #Wrapper.quest.questLocations > 0 then
             Wrapper.hud.Warning("FINISH OR CANCEL QUEST FIRST")
             return

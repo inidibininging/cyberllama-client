@@ -70,9 +70,10 @@ function Merc.OnHit(damageSystem, gameHitEvent)
 end
 
 function Merc.IsAMerc(targetInfo)
+    print(targetInfo)
     if not targetInfo.record_id_hash then
         print("Cant check. target has no record_id_hash property")
-        return
+        return false
     end
     for i = 1, #Merc.data do
         if Merc.data[i].mercEntity then
